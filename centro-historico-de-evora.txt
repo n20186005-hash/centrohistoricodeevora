@@ -1,6 +1,6 @@
 
 我们网站是
-monsarazcastle.com
+centrohistoricodeevora.com
 检查下有没有错误
 
 
@@ -28,72 +28,86 @@ Monsaraz Castle 是葡萄牙最珍贵的历史遗产之一。
 
 
 交通指南
-Largo do Castelo 1, 7200-175 Évora, 葡萄牙
-显示出来的图形位置是错的 位置应该是https://maps.app.goo.gl/WLjBvPFtdXS7pBpXA
+显示出来的图形位置是错的 位置应该是
+
+Jardim Diana, 7000-661 Évora, 葡萄牙
+H3CR+86 埃武拉葡萄牙
+
+https://maps.app.goo.gl/KUS9V88exRzTsuz86
 
 
+centro-historico-de-evora
 
+Centro Histórico de Évora 葡萄牙
+Centro Histórico de Évora
+Praça do Giraldo
+4.5(5,589)
+旅游胜地
 
-monsaraz-castle
+Jardim Diana, 7000-661 Évora, 葡萄牙
+H3CR+86 埃武拉葡萄牙
 
-Monsaraz Castle 葡萄牙
-Monsaraz Castle
-Castelo de Monsaraz
-4.7(14,686)
-城堡
-Largo do Castelo 1, 7200-175 Évora, 葡萄牙
-CJR9+V8 莫朗 葡萄牙
-
-https://maps.app.goo.gl/WLjBvPFtdXS7pBpXA
+https://maps.app.goo.gl/KUS9V88exRzTsuz86
 
 单景点买.com域名推荐
-
+centrohistoricodeevora
 按景点信息重新检查一遍现在网站数据是错的
+
+
 
 ### 表单填写内容
 
+国家/地区*：Portugal
 
-国家/地区：Portugal
+地址*：Jardim Diana
 
-地址：Largo do Castelo 1
+城市*：Évora
 
-城市：Mourão
+省/自治区/直辖市*：Évora
 
-省/自治区/直辖市：Évora
-
-邮政编码：7200-175
+邮政编码*：7000-661（也可以使用地图返回更新的 7000-508）
 
 
-monsaraz-castle
 
-Monsaraz Castle 葡萄牙
-Monsaraz Castle
-Castelo de Monsaraz
-4.7(14,686)
-城堡
-Largo do Castelo 1, 7200-175 Évora, 葡萄牙
-CJR9+V8 莫朗 葡萄牙
+国家/地区：
+地址：
+城市：
+省/自治区/直辖市：
+邮政编码：
 
-https://maps.app.goo.gl/WLjBvPFtdXS7pBpXA
+centro-historico-de-evora
+
+Centro Histórico de Évora 葡萄牙
+Centro Histórico de Évora
+Praça do Giraldo
+4.5(5,589)
+旅游胜地
+
+Jardim Diana, 7000-661 Évora, 葡萄牙
+H3CR+86 埃武拉葡萄牙
+
+https://maps.app.goo.gl/KUS9V88exRzTsuz86
 
 
 你正在用（Next.js开发）
-为一个新景点【 Monsaraz Castle 】构建静态/Next.js 单页指南网站。
+为一个新景点【 Centro Histórico de Évora 】构建静态/Next.js 单页指南网站。
 页面只需要支持中文和英文双语言
 
-Monsaraz Castle 葡萄牙
-Monsaraz Castle
-Castelo de Monsaraz
-4.7(14,686)
-城堡
-Largo do Castelo 1, 7200-175 Évora, 葡萄牙
-CJR9+V8 莫朗 葡萄牙
 
-https://maps.app.goo.gl/WLjBvPFtdXS7pBpXA
+Centro Histórico de Évora 葡萄牙
+Centro Histórico de Évora
+Praça do Giraldo
+4.5(5,589)
+旅游胜地
+
+Jardim Diana, 7000-661 Évora, 葡萄牙
+H3CR+86 埃武拉葡萄牙
+
+https://maps.app.goo.gl/KUS9V88exRzTsuz86
 
 
 首屏背景图要引用以下
-C:\Users\Administrator\Documents\GitHub\monsaraz-castle\public\gallery\monsaraz-castle (5).jpg
+C:\Users\Administrator\Documents\GitHub\centro-historico-de-evora\public\gallery\centro-historico-de-evora (1).jpg
 
 删除原先友情链接，新增以下友情链接
 葡萄牙国家旅游局
@@ -119,7 +133,7 @@ https://apambiente.pt/
 阿尔加维大区旅游局
 https://www.turismodoalgarve.pt/pt/Default.aspx
 
-在Google地图上查看位置都跳转为 https://maps.app.goo.gl/WLjBvPFtdXS7pBpXA
+在Google地图上查看位置都跳转为 https://maps.app.goo.gl/KUS9V88exRzTsuz86
 页面一共四个链接每一个都需要修改
 
 照片画廊
@@ -128,16 +142,16 @@ https://www.turismodoalgarve.pt/pt/Default.aspx
 
 删除 探索更多 板块
 
-首屏谷歌地图位置跳转为 https://maps.app.goo.gl/WLjBvPFtdXS7pBpXA
+首屏谷歌地图位置跳转为 https://maps.app.goo.gl/KUS9V88exRzTsuz86
 
 照片画廊
-在Google地图上查看位置跳转为 https://maps.app.goo.gl/WLjBvPFtdXS7pBpXA
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/KUS9V88exRzTsuz86
 
 游客评价
-在Google地图上查看位置跳转为 https://maps.app.goo.gl/WLjBvPFtdXS7pBpXA
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/KUS9V88exRzTsuz86
 
 地图位置
-在Google地图上查看位置跳转为 https://maps.app.goo.gl/WLjBvPFtdXS7pBpXA
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/KUS9V88exRzTsuz86
 
 首屏右侧切换中文的时候 网站没转为/zh
 

@@ -12,7 +12,7 @@
   },
   "hero": {
     "title": "Centro Histórico de Évora",
-    "subtitle": "Centro Histórico de Évora · Portugal",
+    "subtitle": "Praça do Giraldo · Portugal",
     "rating": "4.5",
     "reviewCount": "5,589",
     "hours": "Open 24 Hours",
@@ -71,7 +71,7 @@
     "cityValue": "Évora",
     "googleRating": "Google Rating",
     "address": "Address",
-    "addressValue": "Praça do Giraldo, Jardim Diana, 7000-661 Évora, Portugal",
+    "addressValue": "Jardim Diana, 7000-661 Évora, Portugal",
     "plusCode": "Plus Code",
     "plusCodeValue": "H3CR+86 Évora, Portugal"
   },
@@ -257,7 +257,7 @@
   },
   "mapSection": {
     "title": "Transportation Guide",
-    "subtitle": "Praça do Giraldo, Jardim Diana, 7000-661 Évora, Portugal",
+    "subtitle": "Jardim Diana, 7000-661 Évora, Portugal",
     "openMaps": "View on Google Maps"
   },
   "footer": {

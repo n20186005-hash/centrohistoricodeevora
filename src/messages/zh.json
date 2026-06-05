@@ -12,7 +12,7 @@
   },
   "hero": {
     "title": "Centro Histórico de Évora",
-    "subtitle": "Centro Histórico de Évora · 葡萄牙",
+    "subtitle": "Praça do Giraldo · 葡萄牙",
     "rating": "4.5",
     "reviewCount": "5,589",
     "hours": "全天开放",
@@ -71,7 +71,7 @@
     "cityValue": "Évora",
     "googleRating": "谷歌评分",
     "address": "地址",
-    "addressValue": "Praça do Giraldo, Jardim Diana, 7000-661 Évora, 葡萄牙",
+    "addressValue": "Jardim Diana, 7000-661 Évora, 葡萄牙",
     "plusCode": "Plus 代码",
     "plusCodeValue": "H3CR+86 埃武拉葡萄牙"
   },
@@ -257,7 +257,7 @@
   },
   "mapSection": {
     "title": "交通指南",
-    "subtitle": "Praça do Giraldo, Jardim Diana, 7000-661 Évora, 葡萄牙",
+    "subtitle": "Jardim Diana, 7000-661 Évora, 葡萄牙",
     "openMaps": "在 Google Maps 查看"
   },
   "footer": {
