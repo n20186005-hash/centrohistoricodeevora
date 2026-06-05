@@ -1,0 +1,221 @@
+
+我们网站是
+monsarazcastle.com
+检查下有没有错误
+
+
+
+
+
+页头 错误Ponta da Piedade
+精彩照片 点击 显示全部照片 没反应 要能显示全部图片
+
+关于 Monsaraz Castle
+Monsaraz Castle 是葡萄牙最珍贵的历史遗产之一。
+要加上他受谁管理
+
+删除
+电话
+
+-
+
+交通方式
+完善景点具体路线怎么走
+新增机场出发路线
+
+游客评价
+在现有评价基础上新增到8条，不要捏造评价直接从https://maps.app.goo.gl/WLjBvPFtdXS7pBpXA 提取
+
+
+交通指南
+Largo do Castelo 1, 7200-175 Évora, 葡萄牙
+显示出来的图形位置是错的 位置应该是https://maps.app.goo.gl/WLjBvPFtdXS7pBpXA
+
+
+
+
+monsaraz-castle
+
+Monsaraz Castle 葡萄牙
+Monsaraz Castle
+Castelo de Monsaraz
+4.7(14,686)
+城堡
+Largo do Castelo 1, 7200-175 Évora, 葡萄牙
+CJR9+V8 莫朗 葡萄牙
+
+https://maps.app.goo.gl/WLjBvPFtdXS7pBpXA
+
+单景点买.com域名推荐
+
+按景点信息重新检查一遍现在网站数据是错的
+
+### 表单填写内容
+
+
+国家/地区：Portugal
+
+地址：Largo do Castelo 1
+
+城市：Mourão
+
+省/自治区/直辖市：Évora
+
+邮政编码：7200-175
+
+
+monsaraz-castle
+
+Monsaraz Castle 葡萄牙
+Monsaraz Castle
+Castelo de Monsaraz
+4.7(14,686)
+城堡
+Largo do Castelo 1, 7200-175 Évora, 葡萄牙
+CJR9+V8 莫朗 葡萄牙
+
+https://maps.app.goo.gl/WLjBvPFtdXS7pBpXA
+
+
+你正在用（Next.js开发）
+为一个新景点【 Monsaraz Castle 】构建静态/Next.js 单页指南网站。
+页面只需要支持中文和英文双语言
+
+Monsaraz Castle 葡萄牙
+Monsaraz Castle
+Castelo de Monsaraz
+4.7(14,686)
+城堡
+Largo do Castelo 1, 7200-175 Évora, 葡萄牙
+CJR9+V8 莫朗 葡萄牙
+
+https://maps.app.goo.gl/WLjBvPFtdXS7pBpXA
+
+
+首屏背景图要引用以下
+C:\Users\Administrator\Documents\GitHub\monsaraz-castle\public\gallery\monsaraz-castle (5).jpg
+
+删除原先友情链接，新增以下友情链接
+葡萄牙国家旅游局
+https://www.visitportugal.com/en
+
+葡萄牙国家文化遗产保护总局
+https://www.patrimoniocultural.gov.pt/
+
+阿连特茹大区旅游局
+https://www.visitalentejo.pt/
+
+雷根戈什-迪蒙萨拉斯市政府
+https://www.cm-reguengos-monsaraz.pt/
+
+葡萄牙出入境与内政管理
+https://aima.gov.pt/pt
+
+
+
+葡萄牙环境署大区水务及海岸带管理处
+https://apambiente.pt/
+
+阿尔加维大区旅游局
+https://www.turismodoalgarve.pt/pt/Default.aspx
+
+在Google地图上查看位置都跳转为 https://maps.app.goo.gl/WLjBvPFtdXS7pBpXA
+页面一共四个链接每一个都需要修改
+
+照片画廊
+精彩照片 显示照片不全目前只显示8张，需要有显示完整照片显示功能
+检查照片名称是否正确并修正
+
+删除 探索更多 板块
+
+首屏谷歌地图位置跳转为 https://maps.app.goo.gl/WLjBvPFtdXS7pBpXA
+
+照片画廊
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/WLjBvPFtdXS7pBpXA
+
+游客评价
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/WLjBvPFtdXS7pBpXA
+
+地图位置
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/WLjBvPFtdXS7pBpXA
+
+首屏右侧切换中文的时候 网站没转为/zh
+
+
+新增
+
+葡萄牙语（Português）
+米兰达语（Mirandês）
+
+生成一个文件忽略不需要上传的文件
+
+
+
+
+
+给我五个国家级、大区级、市级到专业遗产数据库的完整链条
+
+严格限制为国家及地方政府官方、官方官方旅游局、出入境管理、的网站友情链接，确保全部具备纯正的官方政府背景：
+
+
+
+
+
+
+
+针对葡萄牙拉哥斯（Lagos）的顶级自然景观 **佩达德角（Ponta da Piedade）**，为您梳理出5个完整且严格具备**纯正官方政府背景**的四级数据库链条。
+
+所有数据链均严格遵循：**国家级（Gov/旅游局） ➔ 大区级（阿尔加维） ➔ 市级（拉哥斯市政厅） ➔ 专业遗产与地理数据库**的逻辑降维。
+
+---
+
+### 链条一：文化与建筑遗产保护核心链
+
+该链条直击葡萄牙最权威的官方文化遗产摸底系统。
+
+1. **国家级（政府文化中央）**：[Património Cultural, I.P.](https://www.patrimoniocultural.gov.pt/) *(葡萄牙国家文化遗产保护总局官网，全面统筹国家级历史与自然地标遗产注销)*
+2. **大区级（区域文化监管）**：[Direção Regional de Cultura do Algarve](http://www.cultalg.pt/) *(阿尔加维大区文化事务局，负责佩达德角所在区域的具体文化与景观监测)*
+3. **市级（地方行政政府）**：[Câmara Municipal de Lagos](https://www.cm-lagos.pt/) *(拉哥斯市政厅官网，负责该景观基础设施、步行道铺设及本地保护法规的直接发布)*
+4. **专业遗产数据库**：[SIPA - Sistema de Informação para o Património Arquitetónico](http://www.monumentos.gov.pt/) *(葡萄牙建筑与地标遗产信息系统数据库。在此可凭“Ponta da Piedade”或其灯塔编号精确检索其被国家正式立项的官方遗产档案与测绘文献)*
+
+### 链条二：国家官方旅游宣传与推广链
+
+由葡萄牙经济部直接管辖的官方出境及目的地旅游推广权威链条。
+
+1. **国家级（官方国家旅游局）**：[Turismo de Portugal](https://www.turismodeportugal.pt/) *(葡萄牙国家旅游局官网，隶属于经济与海洋部，国家级旅游政策与推广最高机构)*
+2. **大区级（大区官方旅游局）**：[Região de Turismo do Algarve](https://www.turismodoalgarve.pt/) *(阿尔加维大区官方旅游局官网，专门负责包括拉哥斯在内的南部海岸线景观国际推广)*
+3. **市级（市级官方旅游门户）**：[Visit Lagos](https://www.google.com/search?q=https://www.visitlagos.pt/) *(由拉哥斯市政厅直接运营的市级官方旅游目的地导览系统)*
+4. **专业遗产数据库**：[Registo Nacional dos Agentes de Animação Turística (RNAAT)](https://rnt.turismodeportugal.pt/) *(国家旅游注册管理系统。该数据库收录了所有经政府特许在佩达德角复杂海蚀洞穴内开展桨板、游船等商业导览机构的官方合规准入档案)*
+
+### 链条三：环境、自然保护区与生物多样性链
+
+佩达德角不仅是景观，更是极具科学价值的喀斯特海岸地貌。此链条由环境部垂直下辖。
+
+1. **国家级（环境与气候行动部）**：[Portal do Governo - Ambiente](https://www.portugal.gov.pt/) *(葡萄牙政府环境与气候行动部官方门户)*
+2. **大区级（大区环境与水务局）**：[APA - Administração Região Hidrográfica do Algarve](https://apambiente.pt/) *(葡萄牙环境署大区水务及海岸带管理处，负责佩达德角海蚀崖壁悬崖后退、侵蚀防范的技术评估)*
+3. **市级（城市规划与环境处）**：[Balcão Virtual - Município de Lagos](https://www.google.com/search?q=https://balcaovirtual.cm-lagos.pt/) *(拉哥斯城市公共服务及环境规划线上政务系统)*
+4. **专业遗产数据库**：[SIPNAT - Sistema de Informação do Património Natural](https://www.icnf.pt/) *(国家自然遗产信息系统数据库，由自然与森林保护学会 ICNF 维护。可在此检索该地区特殊的海岸植被、海鸟栖息地等受保护自然遗产的科学分类数据)*
+
+### 链条四：测绘、国家地理信息与土地权属链
+
+从空间地理、国家地图集和地籍角度对该景观进行的官方定义。
+
+1. **国家级（国土资源规划）**：[DGT - Direção-Geral do Território](https://www.dgterritorio.gov.pt/) *(葡萄牙国土总局官网，全国地理信息、卫星遥感与测绘的最高官方机构)*
+2. **大区级（大区协调与发展委员会）**：[CCDR Algarve](https://www.ccdr-alg.pt/) *(阿尔加维大区协调与发展委员会，负责统筹沿海公共土地使用规划 PROTA)*
+3. **市级（城市地理信息系统）**：[SIG Lagos](https://www.google.com/search?q=https://sig.cm-lagos.pt/) *(拉哥斯市政地理信息系统平台，提供佩达德角地权、红线界定及公共海滩通路的官方地图)*
+4. **专业遗产数据库**：[SNIG - Sistema Nacional de Informação Geográfica](https://snig.dgterritorio.gov.pt/) *(葡萄牙国家地理信息系统。在该专业空间数据库中，可调取佩达德角高精度的正射影像图、地形测绘遗产以及沿海防御工事的历史空间坐标)*
+
+### 链条五：出入境安全、海岸巡防与海事遗产链
+
+涉及出入境管理、边境海岸线安全及国家航海灯塔遗产的垂直链条。
+
+1. **国家级（出入境与内政管理）**：[AIMA - Agência para a Integração, Migrações e Asilo](https://aima.gov.pt/) *(葡萄牙集成、移民和庇护总局，承接原 SEF 边防出入境管理职能，管辖海岸线入境防务安全)*
+2. **大区级（国家海事局大区指挥部）**：[Autoridade Marítima Nacional - Capitania do Porto de Lagos](https://www.amn.pt/) *(葡萄牙国家海事局-拉哥斯港务长办公室，直接管辖佩达德角周边海域的航行安全与搜救)*
+3. **市级（市政安全与民防）**：[Proteção Civil de Lagos](https://www.google.com/search?q=https://www.cm-lagos.pt/municipio/protecao-civil) *(拉哥斯民防局，负责该断崖景区极端天气封闭、落石警告等安全防务)*
+4. **专业遗产数据库**：[Direção de Faróis - Sistema de Autoridade Marítima](https://www.google.com/search?q=https%3A%2F%2Fwww.marinha.pt%2F) *(葡萄牙海军灯塔局数据库。建于1913年的佩达德角灯塔（Farol da Ponta da Piedade）作为国家重要海事工业遗产，其历史航标数据、结构演变及技术档案完整保存在该海军核心数据库中)*
+
+
+
+
+
+

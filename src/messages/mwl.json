@@ -1,0 +1,374 @@
+{
+  "meta": {
+    "title": "Centro Histórico de Évora | Medieval Castle & Stunning Panoramas in Portugal",
+    "description": "Complete guide to exploring Centro Histórico de Évora in Portugal. Learn about opening hours, transportation, and photo spots."
+  },
+  "header": {
+    "home": "Home",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "map": "Map",
+    "backToHome": "Back to Home"
+  },
+  "hero": {
+    "title": "Centro Histórico de Évora",
+    "subtitle": "Centro Histórico de Évora · Portugal",
+    "rating": "4.5",
+    "reviewCount": "5,589",
+    "hours": "Open 24 Hours",
+    "openMaps": "View Location"
+  },
+  "intro": {
+    "title": "Explore Centro Histórico de Évora",
+    "description": "Centro Histórico de Évora, located in the Alentejo region of Portugal, is a historic medieval castle. Perched high on a hilltop, it overlooks the magnificent Alqueva Dam and the vast surrounding plains.\n\nWalking along the ancient walls, you can feel the rich history while enjoying unparalleled panoramic views. It is a must-visit destination for photography enthusiasts and history buffs.",
+    "visitGuide": {
+      "title": "Visiting Tips",
+      "items": [
+        "Recommended to visit in the early morning or evening; the sunset views are the most captivating.",
+        "The castle area features cobblestone streets; please wear comfortable walking shoes.",
+        "Summer temperatures can be high; ensure you have sun protection."
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Attraction Highlights",
+      "items": [
+        "Well-preserved medieval walls and architecture",
+        "Overlooking Alqueva, Europe's largest artificial lake",
+        "Unique Alentejo charming town",
+        "Excellent stargazing spot"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "Discover the Charm of Centro Histórico de Évora",
+    "sections": [
+      {
+        "id": "history",
+        "title": "History",
+        "content": "Built in the 13th century, Centro Histórico de Évora was a crucial part of Portugal's border defense system. It witnessed multiple clashes between Moors and Christians and played a key role in the Reconquista."
+      },
+      {
+        "id": "architecture",
+        "title": "Architecture & Views",
+        "content": "Constructed mainly from schist and limestone, the castle blends perfectly with the natural environment. From the main tower, you get a 360-degree view of the stunning Alentejo landscape."
+      },
+      {
+        "id": "experience",
+        "title": "Core Experience",
+        "content": "Pass through the ancient gates, stroll along narrow streets exploring white houses and traditional craft shops, and wait for the sunset at the highest point of the castle."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Basic Information",
+    "officialName": "Official Name",
+    "officialNameValue": "Centro Histórico de Évora",
+    "type": "Attraction Type",
+    "typeValue": "Tourist Attraction",
+    "country": "Country",
+    "countryValue": "Portugal",
+    "city": "City",
+    "cityValue": "Évora",
+    "googleRating": "Google Rating",
+    "address": "Address",
+    "addressValue": "Praça do Giraldo, Jardim Diana, 7000-661 Évora, Portugal",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "H3CR+86 Évora, Portugal"
+  },
+  "hours": {
+    "title": "Opening Hours",
+    "outdoor": "Castle Area",
+    "outdoorTime": "Usually open 24 hours (subject to local arrangements)",
+    "lighthouse": "Indoor Exhibitions",
+    "summer": "Summer",
+    "summerTime": "09:00 - 18:00",
+    "winter": "Best Time to Visit",
+    "winterTime": "Spring to Autumn",
+    "warning": "Visiting Tips",
+    "warningTime": "Nighttime illumination is weak; please mind your safety.",
+    "tip": "Holiday hours may vary."
+  },
+  "tickets": {
+    "title": "Ticket Information",
+    "outdoor": "Main Castle Area",
+    "outdoorPrice": "Free Admission",
+    "lighthouse": "Special Exhibitions",
+    "adults": "Adults",
+    "adultsPrice": "Varies by exhibition",
+    "students": "Students/Children",
+    "studentsPrice": "Varies by exhibition",
+    "children": "Parking Fee",
+    "childrenPrice": "Free parking outside the town",
+    "card": "Booking Advice",
+    "cardPrice": "Most areas are free; no advance booking required."
+  },
+  "transport": {
+    "title": "Transportation",
+    "airport": "From the Airport",
+    "airportDesc": "The nearest international airport is Lisbon Airport (LIS), about 180 km away (a 2-hour drive); Faro Airport (FAO) is about 210 km away (a 2.5-hour drive). Renting a car at the airport is highly recommended.",
+    "selfDrive": "Driving",
+    "selfDriveDesc": "From Lisbon: Take the A2 highway south, connect to the A6 towards Évora, then follow the N18 and N256 roads. Navigate to Monsaraz; there are several free parking lots outside the town. Note that vehicle access is restricted inside the walls.",
+    "bus": "Public Transport",
+    "busDesc": "Take a Rede Expressos bus from Lisbon Sete Rios to Évora or Reguengos de Monsaraz. From Reguengos, you must take a local bus (Rodoviária do Alentejo) or a taxi to Monsaraz (approx. 15 km).",
+    "intercity": "Walking",
+    "intercityDesc": "After parking outside the town, you will walk through the ancient gates to enter. The entire town features cobblestone streets, so wear comfortable shoes.",
+    "cycling": "Cycling",
+    "cyclingDesc": "The surrounding Alentejo region and Alqueva reservoir offer relatively flat and scenic routes, perfect for both road and mountain biking.",
+    "tips": "Travel Tips",
+    "tipsDesc": "Due to limited public transport schedules in the Alentejo region, renting a car is strongly advised for the flexibility to explore nearby wineries, megalithic monuments, and the Alqueva Dam."
+  },
+  "route": {
+    "title": "Visiting Route",
+    "overview": "It is recommended to allocate half a day. Enter through the main gate, explore the main street, and finally ascend the castle tower for panoramic views.",
+    "steps": [
+      "Arrive at the parking lot outside town and walk to Porta da Vila",
+      "Stroll along Rua Direita, admiring the white houses",
+      "Visit Igreja Matriz de Nossa Senhora da Lagoa",
+      "Head to the castle area and climb the walls",
+      "Enjoy the breathtaking view of the Alqueva Dam from the main tower",
+      "Wait for the beautiful sunset on the walls",
+      "Enjoy Alentejo specialties at a traditional restaurant"
+    ],
+    "supplements": [
+      "Cobblestone streets can be slippery; wear comfortable, non-slip shoes.",
+      "Dining options are limited; booking in advance during peak season is advised.",
+      "Summer midday sun is intense; stay hydrated and use sun protection."
+    ],
+    "supplementsTitle": "Visiting Notes"
+  },
+  "photoSpots": {
+    "title": "Photo Spots",
+    "spots": [
+      {
+        "name": "Castle Main Tower",
+        "desc": "The best spot overlooking the Alqueva Dam and the town panorama."
+      },
+      {
+        "name": "Ancient Gates",
+        "desc": "Historic backgrounds with massive walls and arches."
+      },
+      {
+        "name": "White Streets",
+        "desc": "Narrow cobblestone streets lined with exotic white houses."
+      }
+    ],
+    "tips": "Photography Tips",
+    "tipsContent": "Sunrise and sunset offer the softest light. It is also an excellent spot for night sky photography."
+  },
+  "hotels": {
+    "title": "Accommodation Suggestions",
+    "hotels": [
+      {
+        "name": "Traditional Townhouses",
+        "desc": "Experience authentic Alentejo charm with views right from your window.",
+        "price": "Moderate prices, advance booking required"
+      },
+      {
+        "name": "Nearby Country Estates",
+        "desc": "Quiet environments, usually with a pool, ideal for drivers.",
+        "price": "Diverse choices, high value for money"
+      }
+    ],
+    "supplements": "Accommodation Notes",
+    "supplementsContent": "Accommodation in the town is limited. If fully booked, consider staying in nearby Reguengos de Monsaraz."
+  },
+  "gallery": {
+    "title": "Stunning Photos",
+    "subtitle": "Charming Scenery of Centro Histórico de Évora",
+    "captions": [
+      "Castle Panorama",
+      "Ancient Walls",
+      "Overlooking Alqueva Dam",
+      "White Houses and Cobblestones",
+      "Magnificent Sunset",
+      "Starry Night Sky",
+      "Historic City Gate",
+      "Traditional Craft Shop",
+      "Main Church",
+      "Castle Courtyard",
+      "Alentejo Plains",
+      "Defense Tower",
+      "Quiet Town Corner",
+      "White Walls in the Sun",
+      "Distant Landscape",
+      "Castle at Dusk",
+      "Medieval Details",
+      "Spring Wildflowers",
+      "Reservoir View",
+      "Distant Castle View"
+    ],
+    "viewAll": "View more photos on Google Maps",
+    "showAllPhotos": "Show All Photos"
+  },
+  "reviews": {
+    "title": "Visitor Reviews",
+    "declaration": "Review information can be viewed via Google Maps (external link).",
+    "moreReviews": "View More Reviews on Google Maps",
+    "items": [
+      {
+        "name": "João Silva",
+        "date": "2 months ago",
+        "rating": 5,
+        "text": "A wonderfully preserved medieval village! The cobblestone streets and white houses are full of history, and the view of Lake Alqueva from the walls is simply unparalleled. Highly recommend visiting at sunset."
+      },
+      {
+        "name": "Maria Costa",
+        "date": "1 month ago",
+        "rating": 5,
+        "text": "One of the most beautiful towns in Portugal! The tranquility here is relaxing, and the surrounding scenery is spectacular. Just be careful, it gets very hot in the summer, so remember to bring water and sunscreen."
+      },
+      {
+        "name": "Carlos Rodrigues",
+        "date": "3 months ago",
+        "rating": 4,
+        "text": "Amazing place. The castle isn't huge, but the location is perfect. Had a fantastic traditional Portuguese meal at a restaurant in the village. The only issue is that parking can be hard to find in peak season."
+      },
+      {
+        "name": "Ana Martins",
+        "date": "Over 6 months ago",
+        "rating": 5,
+        "text": "A very romantic and charming place. We stayed here for a night, and stargazing was an absolute highlight since it's a famous dark sky reserve in Europe. Completely fell in love with it!"
+      },
+      {
+        "name": "Pedro Santos",
+        "date": "1 year ago",
+        "rating": 5,
+        "text": "The panoramic view here is truly breathtaking. You can see the reservoir and the vast plains intertwined. The town itself is also charming with many small shops selling local handicrafts."
+      },
+      {
+        "name": "Teresa Ferreira",
+        "date": "Over 6 months ago",
+        "rating": 4,
+        "text": "Well worth a visit! Very easy to drive from Évora. Recommend wearing flat shoes because it's all cobblestones. The people in town are very friendly, and there are many great spots for photos."
+      },
+      {
+        "name": "Rui Almeida",
+        "date": "3 months ago",
+        "rating": 5,
+        "text": "Felt like stepping back into the Middle Ages! Every alley and every door has its story. Time seems to stand still when walking on the walls. A must-visit place in the Alentejo region."
+      },
+      {
+        "name": "Catarina Gomes",
+        "date": "2 months ago",
+        "rating": 5,
+        "text": "Too beautiful to describe with words. Whether it's the ancient castle ruins or the blue lake water below, it makes you linger. Especially recommend going to the top of the tower, although it's very windy, the view is the best."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Transportation Guide",
+    "subtitle": "Praça do Giraldo, Jardim Diana, 7000-661 Évora, Portugal",
+    "openMaps": "View on Google Maps"
+  },
+  "footer": {
+    "rights": "© 2026 Centro Histórico de Évora. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Settings",
+    "officialResourcesTitle": "Related Resources & Information",
+    "officialLinks": {
+      "council": "Visit Portugal",
+      "tourism": "Alentejo Tourism Guide",
+      "england": "Reguengos de Monsaraz City Council"
+    },
+    "disclaimer": "This website is an independent third-party travel information project. We have no affiliation with local government or other official institutions."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last Updated: May 2026",
+    "sections": [
+      {
+        "heading": "1. Information We Collect",
+        "content": "We only collect the minimum data necessary to provide our services. This data may include: browsing data (IP address, browser type, visited pages), cookies and similar technologies, and any information you voluntarily provide via contact forms or email."
+      },
+      {
+        "heading": "2. How We Use Your Information",
+        "content": "We use the collected information to: improve website content and user experience, analyze traffic and usage patterns, respond to requests, and comply with our legal obligations."
+      },
+      {
+        "heading": "3. Third-Party Services",
+        "content": "Our website may use third-party services such as Google Maps (for embedded maps and location data), Google Analytics (for traffic analysis), and Unsplash (for images). These services have their own privacy policies."
+      },
+      {
+        "heading": "4. Your Rights",
+        "content": "Under the General Data Protection Regulation (GDPR) and related regulations, you have the right to: access your personal data, request correction or deletion, object to processing, and lodge a complaint with a supervisory authority."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last Updated: May 2026",
+    "sections": [
+      {
+        "heading": "1. Acceptance of Terms",
+        "content": "By accessing and using this website, you agree to be bound by these terms of service."
+      },
+      {
+        "heading": "2. Use of Content",
+        "content": "All content on this website is for informational purposes only. We are an independent third-party travel information website, not affiliated with any tourist attractions, government agencies, or commercial operators."
+      },
+      {
+        "heading": "3. Accuracy of Information",
+        "content": "We strive to provide accurate and timely information, but we cannot guarantee its completeness or accuracy. Itineraries, conditions, and services are subject to change without notice. Always verify important information through official channels before traveling."
+      },
+      {
+        "heading": "4. Intellectual Property",
+        "content": "The design and original content of this website are protected by copyright. Images are sourced from Unsplash and used under license. The use of Google Maps data complies with Google's terms of service."
+      },
+      {
+        "heading": "5. Limitation of Liability",
+        "content": "This website is provided \"as is\" without any warranties. We are not responsible for any losses resulting from the use of information on this website, including but not limited to travel decisions made based on its content."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie Settings",
+    "description": "Last Updated: May 2026\n\nWe use cookies to improve your browsing experience. You can manage your preferences below.",
+    "essential": {
+      "title": "Essential Cookies",
+      "description": "These cookies are essential for the website to function properly and cannot be disabled.",
+      "badge": "Always Active"
+    },
+    "analytics": {
+      "title": "Analytics Cookies",
+      "description": "They help us understand how visitors interact with our website by collecting anonymous usage data.",
+      "items": [
+        {
+          "name": "Google Analytics",
+          "status": "Active",
+          "description": "It collects anonymous information about how visitors use our website."
+        }
+      ]
+    },
+    "marketing": {
+      "title": "Marketing Cookies",
+      "description": "They are used to show relevant advertisements and measure the effectiveness of ad campaigns.",
+      "items": [
+        {
+          "name": "Personalized Ads",
+          "status": "Inactive",
+          "description": "It can show you relevant ads based on your interests."
+        }
+      ]
+    },
+    "save": "Save Preferences",
+    "saved": "Settings saved!",
+    "preferences": {
+      "items": [
+        {
+          "name": "User Preferences",
+          "status": "Active",
+          "description": "Saves your language preferences and website settings."
+        }
+      ],
+      "title": "Preference Cookies",
+      "description": "They remember your settings, such as language and theme preferences."
+    },
+    "consentManagement": "Consent Management: You can change your cookie settings at any time. Please note that disabling certain cookies may affect the website's functionality.",
+    "rejectAll": "Reject All"
+  },
+  "officialManagement": {
+    "title": "About Centro Histórico de Évora",
+    "text": "Centro Histórico de Évora is one of Portugal's most precious historical heritages."
+  }
+}
