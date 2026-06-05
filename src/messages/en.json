@@ -20,22 +20,23 @@
   },
   "intro": {
     "title": "Explore Centro Histórico de Évora",
-    "description": "Centro Histórico de Évora, located in the Alentejo region of Portugal, is a historic medieval castle. Perched high on a hilltop, it overlooks the magnificent Alqueva Dam and the vast surrounding plains.\n\nWalking along the ancient walls, you can feel the rich history while enjoying unparalleled panoramic views. It is a must-visit destination for photography enthusiasts and history buffs.",
+    "description": "The Historic Centre of Évora is situated on the gentle hills of the Alentejo region. The entire old town is enclosed by medieval walls, earning it the title of an open-air museum. Over two thousand years of civilization converge here, preserving ancient Roman ruins, Moorish alleys, Gothic churches, and Renaissance civil architecture. The old town is centered around Praça do Giraldo, with multiple ancient alleys radiating outward. Jardim Diana is located on the old town's high ground, connecting the Roman Temple and the episcopal complex. Whitewashed walls adorned with wrought-iron balconies and hand-painted tiles form the iconic streetscape.",
     "visitGuide": {
       "title": "Visiting Tips",
       "items": [
-        "Recommended to visit in the early morning or evening; the sunset views are the most captivating.",
-        "The castle area features cobblestone streets; please wear comfortable walking shoes.",
-        "Summer temperatures can be high; ensure you have sun protection."
+        "The city features many uneven cobblestone streets; non-slip, comfortable walking shoes are essential. Most guesthouses within the old town can assist with short-distance luggage transfers.",
+        "Summer daytime temperatures are high. Ensure adequate sun protection, carry drinking water, and avoid the midday heat.",
+        "Tour groups mostly arrive at popular sites in the morning. For a quieter experience, try to enter as soon as the venues open.",
+        "Local public museums offer free admission on Sundays; religious sites are not included in this offer."
       ]
     },
     "alsoKnownAs": {
       "title": "Attraction Highlights",
       "items": [
-        "Well-preserved medieval walls and architecture",
-        "Overlooking Alqueva, Europe's largest artificial lake",
-        "Unique Alentejo charming town",
-        "Excellent stargazing spot"
+        "Multi-Era Historic Building Clusters: Concentrated distribution of the 2nd-century Roman Temple of Diana, medieval fortress-like Cathedral, 16th-century Chapel of Bones, and Renaissance noble mansions.",
+        "Authentic Medieval Streets: Moorish-style winding cobblestone paths with perfectly preserved local traditional architectural textures.",
+        "High-Altitude Panoramic Views: The Cathedral tower and Jardim Diana terrace offer sweeping views of the old town's red-tiled roofs and the surrounding Alentejo plains.",
+        "Rich Local Culture: Plazas surrounded by open-air cafes and artisan shops, blending historical monuments with local daily life."
       ]
     }
   },
@@ -78,40 +79,40 @@
   "hours": {
     "title": "Opening Hours",
     "outdoor": "Castle Area",
-    "outdoorTime": "Usually open 24 hours (subject to local arrangements)",
+    "outdoorTime": "The old town streets, Praça do Giraldo, and Jardim Diana are open 24/7 for free. Paid indoor venues have seasonal scheduled opening hours.",
     "lighthouse": "Indoor Exhibitions",
-    "summer": "Summer",
-    "summerTime": "09:00 - 18:00",
-    "winter": "Best Time to Visit",
-    "winterTime": "Spring to Autumn",
-    "warning": "Visiting Tips",
-    "warningTime": "Nighttime illumination is weak; please mind your safety.",
-    "tip": "Holiday hours may vary."
+    "summer": "Chapel of Bones",
+    "summerTime": "Regularly 9:00-17:00, slight adjustments on public holidays",
+    "winter": "Évora Cathedral (including viewing terrace)",
+    "winterTime": "9:30-18:00",
+    "warning": "Roman Temple Outdoor Ruins",
+    "warningTime": "Outdoor ruins open 24/7, attached small exhibition hall has limited hours",
+    "tip": "Best visited from April to October (Spring to Autumn); July and August are very hot at noon, so early morning or evening is preferred."
   },
   "tickets": {
     "title": "Ticket Information",
-    "outdoor": "Main Castle Area",
+    "outdoor": "Old Town Public Streets, Plazas, Temple Exteriors",
     "outdoorPrice": "Free Admission",
     "lighthouse": "Special Exhibitions",
-    "adults": "Adults",
-    "adultsPrice": "Varies by exhibition",
-    "students": "Students/Children",
-    "studentsPrice": "Varies by exhibition",
+    "adults": "Chapel of Bones",
+    "adultsPrice": "Regular admission, discounts for students",
+    "students": "Évora Cathedral (Viewing Terrace)",
+    "studentsPrice": "Adult admission, half-price for students",
     "children": "Parking Fee",
-    "childrenPrice": "Free parking outside the town",
-    "card": "Booking Advice",
-    "cardPrice": "Most areas are free; no advance booking required."
+    "childrenPrice": "Motor vehicles are prohibited inside the ancient walls. Several free public parking lots are available just outside the walls, requiring only a 5 to 10-minute walk into the old town.",
+    "card": "Ticket Advice",
+    "cardPrice": "Discounted combo tickets available for multiple venues"
   },
   "transport": {
     "title": "Transportation",
     "airport": "From the Airport",
-    "airportDesc": "The nearest international airport is Lisbon Airport (LIS), about 180 km away (a 2-hour drive); Faro Airport (FAO) is about 210 km away (a 2.5-hour drive). Renting a car at the airport is highly recommended.",
+    "airportDesc": "Nearest international airports: Lisbon (LIS) Airport (approx. 135 km, 1h 25m drive) and Faro (FAO) Airport (approx. 240 km, 2h 50m drive). Renting a car upon arrival is recommended.",
     "selfDrive": "Driving",
-    "selfDriveDesc": "From Lisbon: Take the A2 highway south, connect to the A6 towards Évora, then follow the N18 and N256 roads. Navigate to Monsaraz; there are several free parking lots outside the town. Note that vehicle access is restricted inside the walls.",
+    "selfDriveDesc": "From Lisbon, take the A2 highway south, then connect to the A6 directly to Évora. Navigate to Jardim Diana and park in the lots outside the city walls.",
     "bus": "Public Transport",
-    "busDesc": "Take a Rede Expressos bus from Lisbon Sete Rios to Évora or Reguengos de Monsaraz. From Reguengos, you must take a local bus (Rodoviária do Alentejo) or a taxi to Monsaraz (approx. 15 km).",
-    "intercity": "Walking",
-    "intercityDesc": "After parking outside the town, you will walk through the ancient gates to enter. The entire town features cobblestone streets, so wear comfortable shoes.",
+    "busDesc": "Take a Rede Expressos intercity bus from Sete Rios station in Lisbon directly to the Évora bus station, which is within walking distance of the old town. Alternatively, there are direct trains from central Lisbon to Évora, requiring a short walk into the city.",
+    "intercity": "Short-Distance Travel",
+    "intercityDesc": "The old town is entirely navigable on foot. The surrounding suburban plains are flat and ideal for cycling or chartering a car to visit nearby megalithic monuments and wineries.",
     "cycling": "Cycling",
     "cyclingDesc": "The surrounding Alentejo region and Alqueva reservoir offer relatively flat and scenic routes, perfect for both road and mountain biking.",
     "tips": "Travel Tips",
@@ -119,15 +120,15 @@
   },
   "route": {
     "title": "Visiting Route",
-    "overview": "It is recommended to allocate half a day. Enter through the main gate, explore the main street, and finally ascend the castle tower for panoramic views.",
+    "overview": "Standard Walking Tour Route (Half-Day Itinerary)",
     "steps": [
-      "Arrive at the parking lot outside town and walk to Porta da Vila",
-      "Stroll along Rua Direita, admiring the white houses",
-      "Visit Igreja Matriz de Nossa Senhora da Lagoa",
-      "Head to the castle area and climb the walls",
-      "Enjoy the breathtaking view of the Alqueva Dam from the main tower",
-      "Wait for the beautiful sunset on the walls",
-      "Enjoy Alentejo specialties at a traditional restaurant"
+      "Walk from the outside parking lot through the ancient aqueduct gate into the old town",
+      "Explore Praça do Giraldo and take a short break",
+      "Walk to visit the Church of St. Francis and the Chapel of Bones",
+      "Head to the Évora Cathedral and climb to the terrace for a panoramic view",
+      "Move to Jardim Diana to view the Roman Temple from a distance",
+      "Get up close to the remaining columns of the Roman Temple of Diana",
+      "Wander through the old town alleys in the evening and taste local specialties"
     ],
     "supplements": [
       "Cobblestone streets can be slippery; wear comfortable, non-slip shoes.",
@@ -140,37 +141,47 @@
     "title": "Photo Spots",
     "spots": [
       {
-        "name": "Castle Main Tower",
-        "desc": "The best spot overlooking the Alqueva Dam and the town panorama."
+        "name": "Cathedral Roof Terrace",
+        "desc": "Capture the continuous roofs of the old town and the distant plains at sunset."
       },
       {
-        "name": "Ancient Gates",
-        "desc": "Historic backgrounds with massive walls and arches."
+        "name": "Jardim Diana Viewing Platform",
+        "desc": "Eye-level view of the main Roman Temple columns with the white houses of the old town in the background."
       },
       {
-        "name": "White Streets",
-        "desc": "Narrow cobblestone streets lined with exotic white houses."
+        "name": "Center of Praça do Giraldo",
+        "desc": "Utilize the radiating streets to create deep, culturally rich compositions."
+      },
+      {
+        "name": "Niche Cobblestone Alleys in the West",
+        "desc": "Whitewashed walls and tiled doors/windows, perfect for portraits."
       }
     ],
     "tips": "Photography Tips",
-    "tipsContent": "Sunrise and sunset offer the softest light. It is also an excellent spot for night sky photography."
+    "tipsContent": "The golden hour at sunset provides soft light. The temple is illuminated at night, making it excellent for night photography."
   },
   "hotels": {
     "title": "Accommodation Suggestions",
     "hotels": [
       {
-        "name": "Traditional Townhouses",
-        "desc": "Experience authentic Alentejo charm with views right from your window.",
-        "price": "Moderate prices, advance booking required"
+        "name": "Historic Guesthouses Inside the Walls",
+        "desc": "Converted from old noble mansions, steps away from major monuments.",
+        "price": "Advance booking required in peak season"
       },
       {
-        "name": "Nearby Country Estates",
-        "desc": "Quiet environments, usually with a pool, ideal for drivers.",
-        "price": "Diverse choices, high value for money"
+        "name": "Suburban Estate Hotels",
+        "desc": "Converted old monasteries and rural farms, often featuring courtyard pools.",
+        "price": "Ideal for self-driving tourists"
+      },
+      {
+        "name": "Budget Apartments Outside the Old Town",
+        "desc": "Close to parking lots with plenty of dining options nearby.",
+        "price": "Outstanding value for money"
       }
     ],
     "supplements": "Accommodation Notes",
-    "supplementsContent": "Accommodation in the town is limited. If fully booked, consider staying in nearby Reguengos de Monsaraz."
+    "supplementsContent": "Focuses on rustic Alentejo cuisine: bread soup, garlic braised dishes, regional wines, and traditional Portuguese sweets. Local flavor restaurants are scattered throughout the old town alleys, perfect for spontaneous dining.",
+    "supplementsTitle": "Local Cuisine"
   },
   "gallery": {
     "title": "Stunning Photos",
