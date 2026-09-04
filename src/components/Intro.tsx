@@ -1,15 +1,55 @@
-import { useTranslations, useMessages } from 'next-intl';
+import { useTranslations, useMessages, useLocale } from 'next-intl';
+import Link from 'next/link';
+
+interface BreadcrumbItem {
+  name: string;
+}
 
 export default function Intro() {
   const t = useTranslations('intro');
   const tOff = useTranslations('officialManagement');
+  const locale = useLocale();
   const messages = useMessages() as any;
   const items: string[] = messages?.intro?.visitGuide?.items || [];
   const alsoKnownAsItems: string[] = messages?.intro?.alsoKnownAs?.items || [];
+  const breadcrumbItems: BreadcrumbItem[] = messages?.breadcrumb?.items || [];
 
   return (
     <section className="section-padding">
       <div className="max-w-4xl mx-auto">
+        <nav aria-label="Breadcrumb" className="mb-8">
+          <ol className="flex flex-wrap items-center gap-2 text-sm">
+            {breadcrumbItems.map((crumb, i) => {
+              const isLast = i === breadcrumbItems.length - 1;
+              const isFirst = i === 0;
+              return (
+                <li key={i} className="flex items-center gap-2" style={{ color: 'var(--text-muted)' }}>
+                  {!isFirst && <span aria-hidden="true">›</span>}
+                  {isFirst ? (
+                    <Link
+                      href={`/${locale}`}
+                      className="hover:underline"
+                      style={{ color: 'var(--accent)' }}
+                    >
+                      {crumb.name}
+                    </Link>
+                  ) : (
+                    <span
+                      aria-current={isLast ? 'page' : undefined}
+                      className={isLast ? 'font-semibold' : ''}
+                      style={{
+                        color: isLast ? 'var(--text-primary)' : 'inherit',
+                        fontWeight: isLast ? 600 : 400,
+                      }}
+                    >
+                      {crumb.name}
+                    </span>
+                  )}
+                </li>
+              );
+            })}
+          </ol>
+        </nav>
         <h2
           className="font-display text-3xl sm:text-4xl font-semibold mb-6"
           style={{ color: 'var(--text-primary)' }}

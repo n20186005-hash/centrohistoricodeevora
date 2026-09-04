@@ -1,26 +1,29 @@
 {
   "meta": {
-    "title": "Centro Histórico de Évora | Medieval Castle & Stunning Panoramas in Portugal",
-    "description": "Complete guide to exploring Centro Histórico de Évora in Portugal. Learn about opening hours, transportation, and photo spots."
+    "title": "Centro Histórico de Évora (Évora) - O que visitar e ver | Guia",
+    "description": "Guia completo do Centro Histórico de Évora, Património Mundial da UNESCO no Alentejo, Portugal. O que visitar e ver em Évora - Templo Romano, Capela dos Ossos, Sé de Évora - com mapa, horários e dicas de viagem."
   },
   "header": {
     "home": "Home",
     "gallery": "Gallery",
     "reviews": "Reviews",
     "map": "Map",
-    "backToHome": "Back to Home"
+    "backToHome": "Back to Home",
+    "thingsToSee": "O que visitar",
+    "faq": "FAQ"
   },
   "hero": {
     "title": "Centro Histórico de Évora",
-    "subtitle": "Praça do Giraldo · Portugal",
+    "subtitle": "Praça do Giraldo · Évora · Alentejo · Portugal",
     "rating": "4.5",
-    "reviewCount": "5,589",
+    "reviewCount": "5.781",
     "hours": "Open 24 Hours",
-    "openMaps": "View Location"
+    "openMaps": "View Location",
+    "imgAlt": "Centro Histórico de Évora - o centro histórico classificado da UNESCO em Évora, Alentejo, Portugal"
   },
   "intro": {
     "title": "Explore Centro Histórico de Évora",
-    "description": "The Historic Centre of Évora is situated on the gentle hills of the Alentejo region. The entire old town is enclosed by medieval walls, earning it the title of an open-air museum. Over two thousand years of civilization converge here, preserving ancient Roman ruins, Moorish alleys, Gothic churches, and Renaissance civil architecture. The old town is centered around Praça do Giraldo, with multiple ancient alleys radiating outward. Jardim Diana is located on the old town's high ground, connecting the Roman Temple and the episcopal complex. Whitewashed walls adorned with wrought-iron balconies and hand-painted tiles form the iconic streetscape.",
+    "description": "Bem-vindo ao Centro Histórico de Évora, conhecido como o coração histórico da cidade de Évora, capital histórica da região portuguesa do Alentejo, classificado como Património Mundial da UNESCO. O centro histórico estende-se pelas colinas suaves do Alentejo e é delimitado por muralhas medievais, o que lhe valeu o título de museu a céu aberto. Aqui confluem mais de dois mil anos de civilização, preservando ruínas romanas, ruelas de influência muçulmana, igrejas góticas e arquitetura civil renascentista. O centro histórico organiza-se em torno da Praça do Giraldo, de onde irradiam ruelas antigas e sinuosas. O Jardim Diana ocupa a zona alta da cidade, ligando o Templo Romano de Évora ao conjunto episcopal. Paredes caiadas com varandas de ferro forjado e azulejos pintados à mão formam a paisagem mais característica das ruas. A partir do centro, os visitantes podem caminhar facilmente entre os monumentos emblemáticos de Évora - o Templo Romano, a Sé Catedral, a Capela dos Ossos e o Aqueduto da Água de Prata - descritos em pormenor nas secções seguintes.",
     "visitGuide": {
       "title": "Visiting Tips",
       "items": [
@@ -33,10 +36,10 @@
     "alsoKnownAs": {
       "title": "Attraction Highlights",
       "items": [
-        "Multi-Era Historic Building Clusters: Concentrated distribution of the 2nd-century Roman Temple of Diana, medieval fortress-like Cathedral, 16th-century Chapel of Bones, and Renaissance noble mansions.",
-        "Authentic Medieval Streets: Moorish-style winding cobblestone paths with perfectly preserved local traditional architectural textures.",
-        "High-Altitude Panoramic Views: The Cathedral tower and Jardim Diana terrace offer sweeping views of the old town's red-tiled roofs and the surrounding Alentejo plains.",
-        "Rich Local Culture: Plazas surrounded by open-air cafes and artisan shops, blending historical monuments with local daily life."
+        "Conjuntos Monumentais de Várias Épocas: o Templo Romano de Évora (século I d.C.), a Sé medieval, a Capela dos Ossos do século XVI e os palácios renascentistas concentram-se num centro pequeno.",
+        "Ruas Medievais Autênticas: ruelas sinuosas de calçada, de influência muçulmana, ladeadas por casas caiadas e azulejos pintados à mão.",
+        "Miradouros Panorâmicos: o terraço da Sé e o Jardim Diana oferecem vistas sobre os telhados de telha da cidade e as planícies do Alentejo.",
+        "Cultura Local Viva: praças rodeadas de esplanadas e lojas de artesanato, misturando monumentos históricos com o quotidiano alentejano."
       ]
     }
   },
@@ -45,18 +48,18 @@
     "sections": [
       {
         "id": "history",
-        "title": "History",
-        "content": "Built in the 13th century, Centro Histórico de Évora was a crucial part of Portugal's border defense system. It witnessed multiple clashes between Moors and Christians and played a key role in the Reconquista."
+        "title": "História",
+        "content": "A história de Évora estende-se por mais de dois mil anos. Conhecida como Ebora Liberalitas Julia na época romana, a cidade prosperou sob domínio muçulmano e foi conquistada por Geraldo Sem Pavor em 1165, tornando-se uma das cidades mais importantes do jovem reino de Portugal. O centro histórico preserva este passado em camadas - fundações romanas, ruas medievais, igrejas góticas e palácios renascentistas. Em 1986, o Centro Histórico de Évora foi inscrito na lista do Património Mundial da UNESCO (referência 361)."
       },
       {
         "id": "architecture",
-        "title": "Architecture & Views",
-        "content": "Constructed mainly from schist and limestone, the castle blends perfectly with the natural environment. From the main tower, you get a 360-degree view of the stunning Alentejo landscape."
+        "title": "Arquitetura & Vistas",
+        "content": "O centro histórico é marcado pelas muralhas medievais, ruelas sinuosas, casas caiadas e fachadas revestidas de azulejos. Os seus monumentos abrangem dois milénios: o Templo Romano de Évora, a Sé românico-gótica, a Igreja de São Francisco gótico-manuelina, os palácios renascentistas e o Aqueduto da Água de Prata do século XVI. O conjunto é frequentemente descrito como uma cidade-museu da arquitetura portuguesa."
       },
       {
         "id": "experience",
-        "title": "Core Experience",
-        "content": "Pass through the ancient gates, stroll along narrow streets exploring white houses and traditional craft shops, and wait for the sunset at the highest point of the castle."
+        "title": "Experiência Central",
+        "content": "Comece na Praça do Giraldo, suba pelas ruelas até à Sé de Évora e ao seu terraço-miradouro e desça depois até à Capela dos Ossos, ao Jardim Diana e ao Templo Romano de Évora. Ao fim do dia, o templo fica iluminado e o centro histórico mantém-se vivo com cafés e restaurantes - a forma perfeita de terminar um dia em Évora."
       }
     ]
   },
@@ -187,26 +190,26 @@
     "title": "Stunning Photos",
     "subtitle": "Charming Scenery of Centro Histórico de Évora",
     "captions": [
-      "Castle Panorama",
-      "Ancient Walls",
-      "Overlooking Alqueva Dam",
-      "White Houses and Cobblestones",
-      "Magnificent Sunset",
-      "Starry Night Sky",
-      "Historic City Gate",
-      "Traditional Craft Shop",
-      "Main Church",
-      "Castle Courtyard",
-      "Alentejo Plains",
-      "Defense Tower",
-      "Quiet Town Corner",
-      "White Walls in the Sun",
-      "Distant Landscape",
-      "Castle at Dusk",
-      "Medieval Details",
-      "Spring Wildflowers",
-      "Reservoir View",
-      "Distant Castle View"
+      "Panorama do Centro Histórico de Évora",
+      "Muralhas Medievais e Porta da Cidade",
+      "Templo Romano de Évora",
+      "Casas Caiadas e Ruelas de Calçada",
+      "Praça do Giraldo",
+      "Sé Catedral de Évora",
+      "Jardim Diana",
+      "Capela dos Ossos e Igreja de São Francisco",
+      "Aqueduto da Água de Prata",
+      "Vista do Terraço da Sé",
+      "Claustro da Universidade de Évora",
+      "Vista sobre as Planícies do Alentejo",
+      "Azulejos e Pormenores Decorativos",
+      "Ruas do Centro ao Fim do Dia",
+      "Fonte Renascentista",
+      "Templo Romano Iluminado à Noite",
+      "Varandas e Candeeiros Históricos",
+      "Telhados do Centro Histórico de Évora",
+      "Cromeleque dos Almendres (Monumentos Megalíticos)",
+      "Vista sobre o Campo Alentejano"
     ],
     "viewAll": "View more photos on Google Maps",
     "showAllPhotos": "Show All Photos"
@@ -218,58 +221,60 @@
     "items": [
       {
         "name": "João Silva",
-        "date": "2 months ago",
+        "date": "há 2 meses",
         "rating": 5,
-        "text": "A wonderfully preserved medieval village! The cobblestone streets and white houses are full of history, and the view of Lake Alqueva from the walls is simply unparalleled. Highly recommend visiting at sunset."
+        "text": "Um centro histórico lindíssimo e bem preservado. O Templo Romano junto ao Jardim Diana é impressionante e passear pelas ruelas da Praça do Giraldo parece uma viagem no tempo."
       },
       {
         "name": "Maria Costa",
-        "date": "1 month ago",
+        "date": "há 1 mês",
         "rating": 5,
-        "text": "One of the most beautiful towns in Portugal! The tranquility here is relaxing, and the surrounding scenery is spectacular. Just be careful, it gets very hot in the summer, so remember to bring water and sunscreen."
+        "text": "Uma das minhas cidades preferidas em Portugal. A vista do terraço da Sé sobre os telhados e as planícies do Alentejo é inesquecível. No verão, vá cedo para evitar o calor do meio-dia."
       },
       {
         "name": "Carlos Rodrigues",
-        "date": "3 months ago",
+        "date": "há 3 meses",
         "rating": 4,
-        "text": "Amazing place. The castle isn't huge, but the location is perfect. Had a fantastic traditional Portuguese meal at a restaurant in the village. The only issue is that parking can be hard to find in peak season."
+        "text": "Perfeito para um dia a partir de Lisboa. A Capela dos Ossos é única e o centro histórico tem muito carácter. Estacionar no verão é complicado, por isso chegue cedo."
       },
       {
         "name": "Ana Martins",
-        "date": "Over 6 months ago",
+        "date": "há mais de 6 meses",
         "rating": 5,
-        "text": "A very romantic and charming place. We stayed here for a night, and stargazing was an absolute highlight since it's a famous dark sky reserve in Europe. Completely fell in love with it!"
+        "text": "Passei um dia inteiro sem me aborrecer - templo romano, catedral, museu e cafés nas ruas antigas. Muito acessível a pé e cheio de história em cada esquina."
       },
       {
         "name": "Pedro Santos",
-        "date": "1 year ago",
+        "date": "há 1 ano",
         "rating": 5,
-        "text": "The panoramic view here is truly breathtaking. You can see the reservoir and the vast plains intertwined. The town itself is also charming with many small shops selling local handicrafts."
+        "text": "Dois mil anos de história num centro tão pequeno é notável. O Templo Romano iluminado à noite é belíssimo e ótimo para fotografias."
       },
       {
         "name": "Teresa Ferreira",
-        "date": "Over 6 months ago",
+        "date": "há mais de 6 meses",
         "rating": 4,
-        "text": "Well worth a visit! Very easy to drive from Évora. Recommend wearing flat shoes because it's all cobblestones. The people in town are very friendly, and there are many great spots for photos."
+        "text": "Chega-se facilmente de comboio a partir de Lisboa. Use sapatos confortáveis por causa da calçada e reserve tempo para o terraço da Sé - a vista é o ponto alto."
       },
       {
         "name": "Rui Almeida",
-        "date": "3 months ago",
+        "date": "há 3 meses",
         "rating": 5,
-        "text": "Felt like stepping back into the Middle Ages! Every alley and every door has its story. Time seems to stand still when walking on the walls. A must-visit place in the Alentejo region."
+        "text": "Imperdível no Alentejo. Passear pelas ruelas, ver o pôr do sol no Jardim Diana e provar a gastronomia local tornaram o dia perfeito."
       },
       {
         "name": "Catarina Gomes",
-        "date": "2 months ago",
+        "date": "há 2 meses",
         "rating": 5,
-        "text": "Too beautiful to describe with words. Whether it's the ancient castle ruins or the blue lake water below, it makes you linger. Especially recommend going to the top of the tower, although it's very windy, the view is the best."
+        "text": "Pequeno mas riquíssimo - ruínas romanas, catedral gótica, capela dos ossos e ruelas caiadas. O melhor é a atmosfera do centro ao entardecer."
       }
     ]
   },
   "mapSection": {
     "title": "Transportation Guide",
     "subtitle": "Jardim Diana, 7000-661 Évora, Portugal",
-    "openMaps": "View on Google Maps"
+    "openMaps": "View on Google Maps",
+    "authorityPrefix": "Informação oficial do município:",
+    "authorityLink": "Câmara Municipal de Évora"
   },
   "footer": {
     "rights": "© 2026 Centro Histórico de Évora. All rights reserved.",
@@ -279,14 +284,37 @@
     "officialResourcesTitle": "Related Resources & Information",
     "officialLinks": {
       "council": "Visit Portugal",
-      "tourism": "Alentejo Tourism Guide",
-      "england": "Reguengos de Monsaraz City Council"
+      "tourism": "Turismo do Alentejo",
+      "england": "Câmara Municipal de Évora"
     },
-    "disclaimer": "This website is an independent third-party travel information project. We have no affiliation with local government or other official institutions."
+    "disclaimer": "This website is an independent third-party travel information project. We have no affiliation with local government or other official institutions.",
+    "photoCredit": "Todas as imagens apresentadas neste website pertencem e permanecem propriedade dos seus fotógrafos originais, a quem são reservados os respetivos direitos de autor.",
+    "resources": [
+      {
+        "name": "Câmara Municipal de Évora",
+        "url": "https://www.cm-evora.pt/"
+      },
+      {
+        "name": "Visit Portugal (Turismo de Portugal)",
+        "url": "https://www.visitportugal.com/"
+      },
+      {
+        "name": "Turismo do Alentejo",
+        "url": "https://www.visitalentejo.pt/"
+      },
+      {
+        "name": "UNESCO - Centro Histórico de Évora",
+        "url": "https://whc.unesco.org/en/list/361/"
+      },
+      {
+        "name": "Direção-Geral do Património Cultural",
+        "url": "https://www.patrimoniocultural.gov.pt/"
+      }
+    ]
   },
   "privacy": {
     "title": "Privacy Policy",
-    "lastUpdated": "Last Updated: May 2026",
+    "lastUpdated": "Última atualização: setembro de 2026",
     "sections": [
       {
         "heading": "1. Information We Collect",
@@ -308,7 +336,7 @@
   },
   "terms": {
     "title": "Terms of Service",
-    "lastUpdated": "Last Updated: May 2026",
+    "lastUpdated": "Última atualização: setembro de 2026",
     "sections": [
       {
         "heading": "1. Acceptance of Terms",
@@ -334,7 +362,7 @@
   },
   "cookieSettings": {
     "title": "Cookie Settings",
-    "description": "Last Updated: May 2026\n\nWe use cookies to improve your browsing experience. You can manage your preferences below.",
+    "description": "Última atualização: setembro de 2026\n\nUtilizamos cookies para melhorar a sua experiência de navegação. Pode gerir as suas preferências abaixo.",
     "essential": {
       "title": "Essential Cookies",
       "description": "These cookies are essential for the website to function properly and cannot be disabled.",
@@ -380,6 +408,252 @@
   },
   "officialManagement": {
     "title": "About Centro Histórico de Évora",
-    "text": "Centro Histórico de Évora is one of Portugal's most precious historical heritages."
+    "text": "O Centro Histórico de Évora é o centro histórico de Évora classificado como Património Mundial da UNESCO (inscrito em 1986, ref. 361), capital da região portuguesa do Alentejo. Este website é um guia de visita independente e não tem qualquer afiliação oficial; para informação autorizada consulte sempre a Câmara Municipal de Évora e a Direção-Geral do Património Cultural."
+  },
+  "breadcrumb": {
+    "items": [
+      {
+        "name": "Início"
+      },
+      {
+        "name": "Alentejo"
+      },
+      {
+        "name": "Évora"
+      },
+      {
+        "name": "Centro Histórico de Évora"
+      }
+    ]
+  },
+  "thingsToSee": {
+    "title": "O que visitar e ver em Évora",
+    "subtitle": "Os monumentos imperdíveis do Centro Histórico de Évora (UNESCO), todos a poucos minutos a pé uns dos outros.",
+    "items": [
+      {
+        "id": "templo-romano-de-evora",
+        "name": "Templo Romano de Évora",
+        "desc": "O templo romano melhor preservado de Portugal, erguido sobre colunas coríntias de granito junto ao Jardim Diana desde o século I d.C. - um dos símbolos da cidade."
+      },
+      {
+        "id": "se-de-evora",
+        "name": "Sé Catedral de Évora",
+        "desc": "Iniciada em 1186, esta catedral românico-gótica domina o centro histórico. Suba ao terraço-miradouro para uma vista panorâmica sobre as planícies do Alentejo."
+      },
+      {
+        "id": "capela-dos-ossos",
+        "name": "Capela dos Ossos e Igreja de São Francisco",
+        "desc": "Um complexo franciscano do século XVI cuja famosa Capela dos Ossos é revestida por milhares de ossadas e crânios humanos - uma experiência inesquecível."
+      },
+      {
+        "id": "praca-do-giraldo",
+        "name": "Praça do Giraldo",
+        "desc": "A praça principal histórica de Évora e o coração vivo do centro, com a sua fonte renascentista e a Igreja de Santo Antão."
+      },
+      {
+        "id": "aqueduto-da-agua-de-prata",
+        "name": "Aqueduto da Água de Prata",
+        "desc": "Um aqueduto renascentista mandado construir pelo rei D. João III (1531-1537); os seus arcos atravessam os campos e entram pelas muralhas da cidade."
+      },
+      {
+        "id": "universidade-de-evora",
+        "name": "Universidade de Évora",
+        "desc": "Universidade jesuíta fundada em 1559; os seus claustros de arcadas revestidos de azulejos azuis e brancos formam um dos recantos mais elegantes da cidade."
+      },
+      {
+        "id": "museu-nacional-frei-manuel-do-cenaculo",
+        "name": "Museu Nacional Frei Manuel do Cenáculo",
+        "desc": "Museu nacional instalado no antigo paço arquiepiscopal, junto ao Templo Romano, com coleções de arqueologia romana e pintura europeia."
+      },
+      {
+        "id": "muralhas-e-portas-da-cidade",
+        "name": "Muralhas e Portas da Cidade",
+        "desc": "As muralhas e portas medievais que ainda cercam o centro definem o seu carácter classificado pela UNESCO; dos muros avista-se a planície alentejana."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Perguntas Frequentes",
+    "subtitle": "Respostas práticas para visitar o Centro Histórico de Évora.",
+    "items": [
+      {
+        "q": "Onde fica o Centro Histórico de Évora?",
+        "a": "O Centro Histórico de Évora é o núcleo antigo amuralhado de Évora, a principal cidade do Alentejo, em Portugal. O acesso principal faz-se pela Praça do Giraldo e, na zona alta, junto ao Jardim Diana, encontra-se o Templo Romano de Évora. Morada: Jardim Diana, 7000-661 Évora, Portugal. Veja a localização exata no <a href=\"#map\">mapa abaixo</a>."
+      },
+      {
+        "q": "O que visitar e ver em Évora num dia?",
+        "a": "Um dia é suficiente para percorrer o centro histórico, pequeno e compacto, e conhecer os seus principais monumentos - o Templo Romano de Évora, a Sé Catedral e o seu terraço, a Capela dos Ossos, a Praça do Giraldo, a Universidade de Évora e o Aqueduto da Água de Prata. Comece pela <a href=\"#things-to-see\">lista do que visitar em Évora</a> e siga o <a href=\"#route\">percurso a pé</a> sugerido."
+      },
+      {
+        "q": "É preciso pagar para visitar o Centro Histórico de Évora?",
+        "a": "A zona exterior do centro histórico - ruas, praças e exteriores dos monumentos - está aberta ao público 24 horas por dia e é de acesso livre. O Templo Romano fica ao ar livre. Os monumentos interiores, como a Capela dos Ossos, o museu da Sé e o terraço-miradouro, têm bilhete pago; consulte os <a href=\"#hours\">horários de abertura</a>."
+      },
+      {
+        "q": "Quanto tempo é preciso para visitar o centro histórico de Évora?",
+        "a": "Reserve 3 a 4 horas para um passeio tranquilo pelos principais pontos: o Templo Romano, o terraço da Sé e a Capela dos Ossos, com uma pausa para café na Praça do Giraldo. Com um dia inteiro, pode ainda visitar os museus, a Universidade de Évora e o Cromeleque dos Almendres, nos arredores."
+      },
+      {
+        "q": "Como ir de Lisboa a Évora?",
+        "a": "De carro são cerca de 135 km pelas autoestradas A2/A6 (aproximadamente 1h30). De comboio, a Comboios de Portugal (CP) tem ligações regulares de Lisboa até à estação de Évora, a cerca de 15 minutos a pé do centro histórico. A Rede Expressos liga ainda Lisboa (Sete Rios) ao terminal rodoviário de Évora, perto do centro."
+      },
+      {
+        "q": "Onde estacionar para visitar o centro histórico de Évora?",
+        "a": "A circulação automóvel é condicionada dentro das muralhas. Utilize os parques de estacionamento situados logo a seguir às muralhas e caminhe 5 a 10 minutos até ao centro. No verão, chegue cedo porque os lugares esgotam rapidamente."
+      },
+      {
+        "q": "Qual é a melhor altura para visitar o centro histórico de Évora?",
+        "a": "De abril a outubro (primavera a outono) as condições são as melhores. Em julho e agosto o calor do meio-dia é intenso, por isso planeie o passeio para o início da manhã ou o final da tarde; as noites de verão são especialmente agradáveis."
+      },
+      {
+        "q": "O Centro Histórico de Évora é Património Mundial da UNESCO?",
+        "a": "Sim. O Centro Histórico de Évora foi inscrito na Lista do Património Mundial da UNESCO em 1986 (referência 361) como um exemplo notável de cidade renascentista adaptada às suas raízes medievais e romanas."
+      }
+    ]
+  },
+  "sources": {
+    "title": "Fontes Oficiais & Referências",
+    "subtitle": "Guia independente de terceiros - para informações corretas e atualizadas, consulte sempre os canais oficiais abaixo.",
+    "items": [
+      {
+        "name": "Câmara Municipal de Évora",
+        "url": "https://www.cm-evora.pt/"
+      },
+      {
+        "name": "Visit Portugal (Turismo de Portugal)",
+        "url": "https://www.visitportugal.com/"
+      },
+      {
+        "name": "Turismo do Alentejo",
+        "url": "https://www.visitalentejo.pt/"
+      },
+      {
+        "name": "Direção-Geral do Património Cultural",
+        "url": "https://www.patrimoniocultural.gov.pt/"
+      },
+      {
+        "name": "UNESCO World Heritage Centre - Centro Histórico de Évora",
+        "url": "https://whc.unesco.org/en/list/361/"
+      },
+      {
+        "name": "Comboios de Portugal (CP)",
+        "url": "https://www.cp.pt/"
+      }
+    ]
+  },
+  "facilities": {
+    "title": "Equipamentos e Serviços Práticos",
+    "subtitle": "Comodidades úteis para explorar o Centro Histórico de Évora.",
+    "note": "Este é um site educativo, independente e sem fins lucrativos. Listamos apenas tipos de serviços, de forma neutra, sem recomendar estabelecimentos ou marcas específicas; confirme sempre as localizações no local ou no mapa.",
+    "items": [
+      {
+        "id": "wc",
+        "name": "Casas de Banho Públicas",
+        "desc": "Há casas de banho públicas junto às principais praças e monumentos do centro histórico; algumas exigem pagamento de pequeno valor. Muitos cafés e museus disponibilizam também instalações aos visitantes."
+      },
+      {
+        "id": "parking",
+        "name": "Estacionamento (fora das muralhas)",
+        "desc": "A circulação automóvel é condicionada dentro das muralhas. Existem parques pagos e gratuitos a 5-10 minutos a pé do centro; em época alta enchem depressa, por isso chegue cedo ou use os transportes."
+      },
+      {
+        "id": "dining",
+        "name": "Restauração e Cafés",
+        "desc": "O centro histórico está repleto de restaurantes, tascas, cafés e pastelarias, de refeições rápidas a pratos completos."
+      },
+      {
+        "id": "hotels",
+        "name": "Alojamento",
+        "desc": "Dentro das muralhas predominam pequenos hotéis, alojamentos locais e casas de hóspedes, todos a curta distância a pé; fora das muralhas há mais opções."
+      },
+      {
+        "id": "shops",
+        "name": "Supermercados e Lojas",
+        "desc": "Pequenos supermercados, mercearias, padarias e lojas de lembranças espalham-se pelas ruas do centro para compras do dia a dia."
+      },
+      {
+        "id": "fuel-ev",
+        "name": "Combustível e Carregamento Elétrico",
+        "desc": "As gasolineiras e os carregadores para veículos elétricos situam-se sobretudo nas vias circulares fora das muralhas; aconselha-se abastecer antes de entrar no centro."
+      },
+      {
+        "id": "atm",
+        "name": "Bancos e Multibancos",
+        "desc": "Bancos e caixas multibanco existem perto das principais ruas e praças do centro; a maioria aceita cartões internacionais."
+      },
+      {
+        "id": "pharmacy",
+        "name": "Farmácias e Saúde",
+        "desc": "Évora tem várias farmácias e cuidados de saúde primários; em caso de urgência ou hospital geral, dirija-se ao hospital municipal fora das muralhas."
+      }
+    ]
+  },
+  "stories": {
+    "title": "Histórias, História e Lendas",
+    "subtitle": "Momentos-chave e relatos de mais de dois mil anos de Évora - todos os episódios abaixo assentam em factos documentados e crónicas.",
+    "kinds": {
+      "history": "Documentado",
+      "legend": "Crónica & Lenda"
+    },
+    "items": [
+      {
+        "kind": "history",
+        "title": "1165: Geraldo Sem Pavor e a cidade que ficou portuguesa",
+        "content": "Évora florescera na época romana e de novo sob domínio muçulmano, mas, durante a Reconquista portuguesa, esta cidade ainda sob controlo árabe foi tomada em 1165 pelo cavaleiro Geraldo Sem Pavor. A vila foi rapidamente repovoada, em 1186 começou a construir-se a Sé e Évora passou a pertencer definitivamente a Portugal - baluarte essencial da expansão de D. Afonso Henriques para sul."
+      },
+      {
+        "kind": "legend",
+        "title": "Como entrou Geraldo? Carros de lenha ou bois?",
+        "content": "Os relatos da conquista de 1165 divergem: uns dizem que os homens de Geraldo entraram escondidos em carros de lenha, outros que cristãos do interior abriram as portas enquanto a guarnição descansava na Semana Santa. Os pormenores são difíceis de provar, mas as crónicas e a memória local repetem-nos até hoje, envolvendo o cavaleiro \"Sem Pavor\" em lenda. Seja como for, setembro de 1165 foi uma viragem na história de Évora."
+      },
+      {
+        "kind": "history",
+        "title": "O templo mal batizado: o mistério de Diana",
+        "content": "O templo romano que hoje coroa a zona alta da cidade esteve durante séculos escondido dentro de estruturas do castelo e da câmara municipal, sendo libertado apenas no século XIX. No século XVI, o humanista André de Resende chamou-lhe \"Templo de Diana\" e o belo engano ficou; os estudiosos modernos inclinam-se para o culto imperial ou Júpiter, mas a divindade continua por provar - o que só aumenta o seu mistério."
+      },
+      {
+        "kind": "history",
+        "title": "A Capela dos Ossos: meditar entre esqueletos",
+        "content": "No século XVI, os frades franciscanos revestiram as paredes de uma capela lateral de São Francisco com milhares de ossos vindos de cemitérios próximos, como aviso da brevidade da vida. Sobre a porta permanece o famoso mote: \"Nós ossos que aqui estamos, pelos vossos esperamos\". Será talvez o epitáfio mais impressionante da Europa."
+      },
+      {
+        "kind": "history",
+        "title": "Uma universidade com duas vidas: 1559 e 1973",
+        "content": "Em 1559, o cardeal-rei D. Henrique fundou em Évora uma universidade jesuíta, tornando-a um dos centros do saber em Portugal. Em 1759, o Marquês de Pombal expulsou os jesuítas e a universidade encerrou. Só em 1973, após mais de dois séculos de interrupção, a Universidade de Évora reabriu no mesmo local - os seus claustros de azulejos contam ainda hoje essa história de fim e renascimento."
+      },
+      {
+        "kind": "history",
+        "title": "O Aqueduto da Água de Prata e as casas entre os arcos",
+        "content": "Entre 1531 e 1537, D. João III encarregou o arquiteto Francisco de Arruda de construir o aqueduto que trazia água de nascentes do exterior. As explicações para o nome \"Água de Prata\" variam - uns dizem que a água brilhava como prata, outros ligam-no ao financiamento da obra. O mais curioso é que, mais tarde, construíram-se casas entre os arcos, criando ruas onde a casa e o aqueduto se fundem; ainda hoje se veem junto às muralhas."
+      },
+      {
+        "kind": "history",
+        "title": "1663: o ano em que Évora se perdeu e se recuperou",
+        "content": "Durante a Guerra da Restauração, tropas espanholas ocuparam brevemente Évora em maio de 1663. Um mês depois, o exército português venceu a Batalha de Ameixial e obrigou os ocupantes a retirar, devolvendo Évora a Portugal. O episódio lembra que este tranquilo centro histórico foi outrora um prémio disputado entre coroas."
+      }
+    ]
+  },
+  "weather": {
+    "title": "Tempo em Évora Hoje e Previsão a Vários Dias",
+    "subtitle": "Tempo em tempo real e previsão para vários dias no Centro Histórico de Évora (coordenadas do Jardim Diana). Dados da API gratuita Open-Meteo, obtidos e em cache no servidor.",
+    "now": "Agora",
+    "forecast": "Previsão",
+    "feels": "Sensação",
+    "wind": "Vento",
+    "humidity": "Humidade",
+    "updated": "Atualizado",
+    "forecastUpdated": "Previsão",
+    "kmh": "km/h",
+    "source": "Dados: Open-Meteo",
+    "codes": {
+      "clear": "Céu limpo",
+      "partly": "Parcialmente nublado",
+      "overcast": "Encoberto",
+      "fog": "Nevoeiro",
+      "drizzle": "Chuvisco",
+      "rain": "Chuva",
+      "snow": "Neve",
+      "showers": "Aguaceiros",
+      "thunder": "Trovoada"
+    }
   }
 }

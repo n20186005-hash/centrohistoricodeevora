@@ -2,6 +2,7 @@
 
 import { useTranslations } from 'next-intl';
 import { useState, useCallback } from 'react';
+import { siteConfig } from '@/config';
 
 const photoIndices = Array.from({ length: 19 }, (_, i) => i + 1);
 
@@ -62,6 +63,7 @@ export default function Gallery() {
                     className="w-full h-full object-cover rounded-lg"
                     style={{ minHeight: i === 0 ? '400px' : '180px' }}
                     loading="lazy"
+                    decoding="async"
                   />
                   <div className="absolute inset-0 bg-black/0 group-hover:bg-black/30 transition-colors rounded-lg flex items-end">
                     <p className="text-white text-sm p-3 opacity-0 group-hover:opacity-100 transition-opacity">
@@ -74,7 +76,7 @@ export default function Gallery() {
 
             <div className="flex flex-col items-center mt-8 gap-4">
               <a
-                href="https://maps.app.goo.gl/KUS9V88exRzTsuz86"
+                href={siteConfig.mapsShareUrl}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-sm hover:underline"

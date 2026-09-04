@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3a7a8d"/>
+      <stop offset="1" stop-color="#295767"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="96" fill="url(#bg)"/>
+  <!-- 庙宇山墙轮廓：埃武拉罗马神庙意象 -->
+  <path d="M136 386 V216 L256 116 L376 216 V386 Z" fill="#ffffff" opacity="0.96"/>
+  <path d="M196 386 V286 H316 V386" fill="#3a7a8d"/>
+  <!-- 柱式 -->
+  <rect x="196" y="230" width="26" height="72" rx="4" fill="#ffffff"/>
+  <rect x="243" y="230" width="26" height="72" rx="4" fill="#ffffff"/>
+  <rect x="290" y="230" width="26" height="72" rx="4" fill="#ffffff"/>
+  <!-- 柱顶与楣 -->
+  <rect x="176" y="206" width="160" height="26" rx="6" fill="#ffffff"/>
+  <rect x="156" y="160" width="200" height="14" rx="6" fill="#ffffff"/>
+  <circle cx="196" cy="134" r="6" fill="#ffffff"/>
+  <circle cx="256" cy="122" r="6" fill="#ffffff"/>
+  <circle cx="316" cy="134" r="6" fill="#ffffff"/>
+</svg>

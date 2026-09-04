@@ -1,4 +1,5 @@
 import { useTranslations } from 'next-intl';
+import { siteConfig } from '@/config';
 
 export default function MapEmbed() {
   const t = useTranslations('mapSection');
@@ -25,13 +26,13 @@ export default function MapEmbed() {
             This is for visual cleanliness only. Google's Terms of Service apply.
           */}
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3113.430030588726!2d-7.910300184651347!3d38.57116897962253!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd19e4fb90e791e3%3A0x33b1e32d18dfaf62!2sCentro%20Hist%C3%B3rico%20de%20%C3%89vora!5e0!3m2!1szh-CN!2spt!4v1717556000000!5m2!1szh-CN!2spt"
+            src={siteConfig.mapsEmbedSrc}
             width="100%"
             height="450"
             style={{ border: 0 }}
             allowFullScreen
             loading="lazy"
-            referrerPolicy="no-referrer-when-downgrade"
+            referrerPolicy="strict-origin-when-cross-origin"
             title="Google Maps - Centro Histórico de Évora"
           />
         </div>
@@ -39,7 +40,7 @@ export default function MapEmbed() {
         {/* Open in Google Maps */}
         <div className="mt-6 flex justify-center">
           <a
-            href="https://maps.app.goo.gl/KUS9V88exRzTsuz86"
+            href={siteConfig.mapsShareUrl}
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-5 py-2.5 rounded-full text-sm font-medium text-white transition-colors"
@@ -55,6 +56,20 @@ export default function MapEmbed() {
               <polyline points="15 3 21 3 21 9" />
               <line x1="10" y1="14" x2="21" y2="3" />
             </svg>
+          </a>
+        </div>
+
+        {/* 官方市政权威外链 */}
+        <div className="mt-4 text-center text-xs" style={{ color: 'var(--text-muted)' }}>
+          {t('authorityPrefix')}{' '}
+          <a
+            href={siteConfig.cmEvoraUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="font-medium hover:underline"
+            style={{ color: 'var(--accent)' }}
+          >
+            {t('authorityLink')}
           </a>
         </div>
       </div>

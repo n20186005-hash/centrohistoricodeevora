@@ -1,6 +1,9 @@
 import { setRequestLocale } from 'next-intl/server';
 import { useTranslations, useLocale, useMessages } from 'next-intl';
 import type { Metadata } from 'next';
+import { localeHome } from '@/config';
+
+const SEG = '/privacy-policy';
 
 export async function generateMetadata({
   params,
@@ -8,24 +11,22 @@ export async function generateMetadata({
   params: Promise<{ locale: string }>;
 }): Promise<Metadata> {
   const { locale } = await params;
-  const baseUrl = 'https://greatyarmouthbeach.com';
-  const localePrefix = locale === 'it' ? '' : locale === 'en' ? '/en' : locale === 'fr' ? '/fr' : '/zh-Hant';
-  const itUrl = `${baseUrl}/privacy-policy`;
-  const enUrl = `${baseUrl}/en/privacy-policy`;
-  const frUrl = `${baseUrl}/fr/privacy-policy`;
-  const zhUrl = `${baseUrl}/zh-Hant/privacy-policy`;
-  const selfUrl = locale === 'it' ? itUrl : locale === 'en' ? enUrl : locale === 'fr' ? frUrl : zhUrl;
+  const selfUrl = localeHome(locale) + SEG;
+  const zhUrl = localeHome('zh') + SEG;
+  const enUrl = localeHome('en') + SEG;
+  const ptUrl = localeHome('pt') + SEG;
+  const mwlUrl = localeHome('mwl') + SEG;
 
   return {
     alternates: {
       canonical: selfUrl,
       languages: {
-        'it': itUrl,
-        'en': enUrl,
-        'fr': frUrl,
-        'zh-Hant': zhUrl,
-        'x-default': itUrl,
-      },
+        'zh-CN': zhUrl,
+        en: enUrl,
+        pt: ptUrl,
+        mwl: mwlUrl,
+        'x-default': ptUrl,
+      } as Record<string, string>,
     },
   };
 }
@@ -35,7 +36,7 @@ function PrivacyContent() {
   const ht = useTranslations('header');
   const locale = useLocale();
   const messages = useMessages() as any;
-  const homeHref = locale === 'it' ? '/' : `/${locale}`;
+  const homeHref = `/${locale}`;
   const sections = (messages?.privacy?.sections || []) as Array<{ heading: string; content: string }>;
 
   return (

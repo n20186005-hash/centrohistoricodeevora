@@ -190,3 +190,17 @@ h1, h2, h3, h4, h5, h6 {
 a {
   transition: color 0.2s ease;
 }
+
+/* Fixed header offset for in-page anchors */
+section[id],
+div[id] {
+  scroll-margin-top: 5rem;
+}
+
+/* FAQ <details> chevron reset */
+details > summary {
+  list-style: none;
+}
+details > summary::-webkit-details-marker {
+  display: none;
+}

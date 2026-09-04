@@ -1,18 +1,16 @@
-import { useTranslations } from 'next-intl';
-import { useLocale } from 'next-intl';
+import { useTranslations, useMessages, useLocale } from 'next-intl';
 
-const officialLinks = [
-  { name: '葡萄牙国家旅游局', url: 'https://www.visitportugal.com/en' },
-  { name: '葡萄牙国家文化遗产保护总局', url: 'https://www.patrimoniocultural.gov.pt/' },
-  { name: '阿连特茹大区旅游局', url: 'https://www.visitalentejo.pt/' },
-  { name: '雷根戈什-迪蒙萨拉斯市政府', url: 'https://www.cm-reguengos-monsaraz.pt/' },
-  { name: '葡萄牙出入境与内政管理', url: 'https://aima.gov.pt/pt' },
-];
+interface FooterResource {
+  name: string;
+  url: string;
+}
 
 export default function Footer() {
   const t = useTranslations('footer');
   const locale = useLocale();
-  const prefix = locale === 'en' ? '' : `/${locale}`;
+  const messages = useMessages() as { footer?: { resources?: FooterResource[] } };
+  const resources = messages?.footer?.resources ?? [];
+  const prefix = `/${locale}`;
 
   return (
     <footer
@@ -29,13 +27,13 @@ export default function Footer() {
               {t('officialResourcesTitle')}
             </p>
             <div className="flex flex-col gap-2">
-              {officialLinks.map((link, i) => (
-                <a 
+              {resources.map((link, i) => (
+                <a
                   key={i}
-                  href={link.url} 
-                  target="_blank" 
-                  rel="noopener noreferrer" 
-                  className="hover:underline text-sm" 
+                  href={link.url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="hover:underline text-sm"
                   style={{ color: 'var(--accent)' }}
                 >
                   {link.name}
@@ -61,6 +59,7 @@ export default function Footer() {
           style={{ borderTop: '1px solid var(--border-color)', color: 'var(--text-muted)' }}
         >
           <p>{t('rights')}</p>
+          <p className="text-xs max-w-3xl mx-auto leading-relaxed">{t('photoCredit')}</p>
           <p className="text-xs max-w-3xl mx-auto leading-relaxed">{t('disclaimer')}</p>
         </div>
       </div>

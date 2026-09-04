@@ -69,9 +69,16 @@ export default function CookieSettingsClient() {
     } catch {}
   }, []);
 
+  function notifyConsentChanged() {
+    if (typeof window !== 'undefined') {
+      window.dispatchEvent(new Event('consent-updated'));
+    }
+  }
+
   function handleSave() {
     localStorage.setItem('cookiePrefs', JSON.stringify({ analytics, preferences, marketing }));
     setSaved(true);
+    notifyConsentChanged();
     setTimeout(() => setSaved(false), 2000);
   }
 
@@ -81,6 +88,7 @@ export default function CookieSettingsClient() {
     setMarketing(false);
     localStorage.setItem('cookiePrefs', JSON.stringify({ analytics: false, preferences: false, marketing: false }));
     setSaved(true);
+    notifyConsentChanged();
     setTimeout(() => setSaved(false), 2000);
   }
 

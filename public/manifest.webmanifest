@@ -1,0 +1,19 @@
+{
+  "name": "Centro Histórico de Évora - Visitor Guide",
+  "short_name": "Évora Historic Centre",
+  "description": "Independent visitor guide to the Historic Centre of Évora, UNESCO World Heritage, Portugal.",
+  "start_url": "/zh/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#faf6f0",
+  "theme_color": "#3a7a8d",
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

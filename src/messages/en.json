@@ -1,26 +1,29 @@
 {
   "meta": {
-    "title": "Centro Histórico de Évora | Medieval Castle & Stunning Panoramas in Portugal",
-    "description": "Complete guide to exploring Centro Histórico de Évora in Portugal. Learn about opening hours, transportation, and photo spots."
+    "title": "Centro Histórico de Évora (Évora, Portugal) - Visitor Guide & Location",
+    "description": "Complete visitor guide to the Historic Centre of Évora, UNESCO World Heritage in Alentejo, Portugal. What to see and visit in one day - Roman Temple, Chapel of Bones, Évora Cathedral - plus map, opening hours and transport tips."
   },
   "header": {
     "home": "Home",
     "gallery": "Gallery",
     "reviews": "Reviews",
     "map": "Map",
-    "backToHome": "Back to Home"
+    "backToHome": "Back to Home",
+    "thingsToSee": "What to Visit",
+    "faq": "FAQ"
   },
   "hero": {
     "title": "Centro Histórico de Évora",
-    "subtitle": "Praça do Giraldo · Portugal",
+    "subtitle": "Praça do Giraldo · Évora · Alentejo · Portugal",
     "rating": "4.5",
-    "reviewCount": "5,589",
+    "reviewCount": "5,781",
     "hours": "Open 24 Hours",
-    "openMaps": "View Location"
+    "openMaps": "View Location",
+    "imgAlt": "Centro Histórico de Évora - the UNESCO historic centre of Évora, Alentejo, Portugal"
   },
   "intro": {
     "title": "Explore Centro Histórico de Évora",
-    "description": "The Historic Centre of Évora is situated on the gentle hills of the Alentejo region. The entire old town is enclosed by medieval walls, earning it the title of an open-air museum. Over two thousand years of civilization converge here, preserving ancient Roman ruins, Moorish alleys, Gothic churches, and Renaissance civil architecture. The old town is centered around Praça do Giraldo, with multiple ancient alleys radiating outward. Jardim Diana is located on the old town's high ground, connecting the Roman Temple and the episcopal complex. Whitewashed walls adorned with wrought-iron balconies and hand-painted tiles form the iconic streetscape.",
+    "description": "Welcome to the Centro Histórico de Évora, widely known as the Historic Centre of Évora - the UNESCO-listed heart of the city of Évora, the historic capital of Portugal's Alentejo region. The old town sits on the gentle hills of the Alentejo and is enclosed by medieval walls, earning it the title of an open-air museum. Over two thousand years of civilization converge here, preserving ancient Roman ruins, Moorish alleys, Gothic churches and Renaissance civil architecture. The old town is centred around Praça do Giraldo, with narrow ancient alleys radiating outward. Jardim Diana stands on the high ground of the old town, linking the Roman Temple of Évora with the episcopal complex. Whitewashed walls with wrought-iron balconies and hand-painted azulejo tiles form the iconic streetscape. From the centre, visitors can easily walk between the landmark monuments of Évora - the Roman Temple of Évora, the Sé de Évora cathedral, the Chapel of Bones and the Água de Prata aqueduct - which are described in detail below.",
     "visitGuide": {
       "title": "Visiting Tips",
       "items": [
@@ -33,10 +36,10 @@
     "alsoKnownAs": {
       "title": "Attraction Highlights",
       "items": [
-        "Multi-Era Historic Building Clusters: Concentrated distribution of the 2nd-century Roman Temple of Diana, medieval fortress-like Cathedral, 16th-century Chapel of Bones, and Renaissance noble mansions.",
-        "Authentic Medieval Streets: Moorish-style winding cobblestone paths with perfectly preserved local traditional architectural textures.",
-        "High-Altitude Panoramic Views: The Cathedral tower and Jardim Diana terrace offer sweeping views of the old town's red-tiled roofs and the surrounding Alentejo plains.",
-        "Rich Local Culture: Plazas surrounded by open-air cafes and artisan shops, blending historical monuments with local daily life."
+        "Multi-Era Monument Clusters: the 1st-century AD Roman Temple of Évora, the medieval Sé cathedral, the 16th-century Chapel of Bones and Renaissance noble mansions are concentrated within one small centre.",
+        "Authentic Medieval Streets: Moorish-style winding cobblestone paths lined with whitewashed houses and hand-painted azulejo tiles.",
+        "Panoramic Viewpoints: the cathedral roof terrace and Jardim Diana offer sweeping views over the red-tiled roofs of the old town and the surrounding Alentejo plains.",
+        "Living Local Culture: squares surrounded by open-air cafés and artisan shops, blending historic monuments with everyday Alentejo life."
       ]
     }
   },
@@ -46,17 +49,17 @@
       {
         "id": "history",
         "title": "History",
-        "content": "Built in the 13th century, Centro Histórico de Évora was a crucial part of Portugal's border defense system. It witnessed multiple clashes between Moors and Christians and played a key role in the Reconquista."
+        "content": "Évora's history spans over two thousand years. Known as Ebora Liberalitas Julia in Roman times, the town flourished under Muslim rule and was taken by Geraldo Sem Pavor (Gerald the Fearless) in 1165, becoming one of the most important cities of the young kingdom of Portugal. Its historic centre preserves this layered past - Roman foundations, medieval streets, Gothic churches and Renaissance palaces. In 1986 the Historic Centre of Évora was inscribed on the UNESCO World Heritage List (reference 361)."
       },
       {
         "id": "architecture",
         "title": "Architecture & Views",
-        "content": "Constructed mainly from schist and limestone, the castle blends perfectly with the natural environment. From the main tower, you get a 360-degree view of the stunning Alentejo landscape."
+        "content": "The historic centre is defined by its medieval walls, winding alleys, whitewashed houses and azulejo-tiled facades. Its outstanding monuments span two millennia: the Roman Temple of Évora, the Romanesque-Gothic Sé cathedral, the Gothic and Manueline Igreja de São Francisco, Renaissance palaces and the 16th-century Água de Prata aqueduct. The ensemble is often described as a museum-city of Portuguese architecture."
       },
       {
         "id": "experience",
         "title": "Core Experience",
-        "content": "Pass through the ancient gates, stroll along narrow streets exploring white houses and traditional craft shops, and wait for the sunset at the highest point of the castle."
+        "content": "Start at Praça do Giraldo, follow the alleys up to the Sé de Évora and its roof terrace, then descend to the Chapel of Bones, Jardim Diana and the Roman Temple of Évora. In the evening the temple is illuminated and the old town remains lively with cafés and restaurants - the perfect way to end a day in Évora."
       }
     ]
   },
@@ -187,26 +190,26 @@
     "title": "Stunning Photos",
     "subtitle": "Charming Scenery of Centro Histórico de Évora",
     "captions": [
-      "Castle Panorama",
-      "Ancient Walls",
-      "Overlooking Alqueva Dam",
-      "White Houses and Cobblestones",
-      "Magnificent Sunset",
-      "Starry Night Sky",
-      "Historic City Gate",
-      "Traditional Craft Shop",
-      "Main Church",
-      "Castle Courtyard",
-      "Alentejo Plains",
-      "Defense Tower",
-      "Quiet Town Corner",
-      "White Walls in the Sun",
-      "Distant Landscape",
-      "Castle at Dusk",
-      "Medieval Details",
-      "Spring Wildflowers",
-      "Reservoir View",
-      "Distant Castle View"
+      "Centro Histórico de Évora Panorama",
+      "Medieval City Walls & Gate",
+      "Roman Temple of Évora",
+      "Whitewashed Houses & Cobblestone Alleys",
+      "Praça do Giraldo",
+      "Sé de Évora Cathedral",
+      "Jardim Diana",
+      "Chapel of Bones & São Francisco Church",
+      "Água de Prata Aqueduct",
+      "Cathedral Roof Terrace View",
+      "University of Évora Cloister",
+      "View over the Alentejo Plains",
+      "Azulejo Tiles & Ornamental Details",
+      "Old Town Streets at Dusk",
+      "Renaissance Fountain",
+      "Roman Temple Illuminated at Night",
+      "Historic Balconies & Street Lamps",
+      "Old Town Rooftops of Évora",
+      "Almendres Cromlech (Nearby Megalithic Monuments)",
+      "View over the Alentejo Countryside"
     ],
     "viewAll": "View more photos on Google Maps",
     "showAllPhotos": "Show All Photos"
@@ -220,56 +223,58 @@
         "name": "João Silva",
         "date": "2 months ago",
         "rating": 5,
-        "text": "A wonderfully preserved medieval village! The cobblestone streets and white houses are full of history, and the view of Lake Alqueva from the walls is simply unparalleled. Highly recommend visiting at sunset."
+        "text": "A beautifully preserved historic centre. The Roman Temple above Jardim Diana is stunning, and walking the old streets around Praça do Giraldo feels like stepping back in time."
       },
       {
         "name": "Maria Costa",
         "date": "1 month ago",
         "rating": 5,
-        "text": "One of the most beautiful towns in Portugal! The tranquility here is relaxing, and the surrounding scenery is spectacular. Just be careful, it gets very hot in the summer, so remember to bring water and sunscreen."
+        "text": "One of my favourite towns in Portugal. The view from the cathedral terrace over the rooftops and the Alentejo plains is unforgettable. Go early in summer to avoid the midday heat."
       },
       {
         "name": "Carlos Rodrigues",
         "date": "3 months ago",
         "rating": 4,
-        "text": "Amazing place. The castle isn't huge, but the location is perfect. Had a fantastic traditional Portuguese meal at a restaurant in the village. The only issue is that parking can be hard to find in peak season."
+        "text": "Perfect for a day trip from Lisbon. The Chapel of Bones is unique and the old town is full of character. Parking can be tricky in summer, so arrive early."
       },
       {
         "name": "Ana Martins",
         "date": "Over 6 months ago",
         "rating": 5,
-        "text": "A very romantic and charming place. We stayed here for a night, and stargazing was an absolute highlight since it's a famous dark sky reserve in Europe. Completely fell in love with it!"
+        "text": "Spent a full day here without getting bored - Roman temple, cathedral, museum and cafés in the old streets. Very walkable and full of history at every corner."
       },
       {
         "name": "Pedro Santos",
         "date": "1 year ago",
         "rating": 5,
-        "text": "The panoramic view here is truly breathtaking. You can see the reservoir and the vast plains intertwined. The town itself is also charming with many small shops selling local handicrafts."
+        "text": "Two thousand years of history in one small centre is remarkable. The illuminated Roman Temple at night is beautiful and great for photos."
       },
       {
         "name": "Teresa Ferreira",
         "date": "Over 6 months ago",
         "rating": 4,
-        "text": "Well worth a visit! Very easy to drive from Évora. Recommend wearing flat shoes because it's all cobblestones. The people in town are very friendly, and there are many great spots for photos."
+        "text": "Easy train ride from Lisbon. Wear comfortable shoes for the cobblestones and save time for the cathedral terrace - the view is the highlight."
       },
       {
         "name": "Rui Almeida",
         "date": "3 months ago",
         "rating": 5,
-        "text": "Felt like stepping back into the Middle Ages! Every alley and every door has its story. Time seems to stand still when walking on the walls. A must-visit place in the Alentejo region."
+        "text": "A must-see in the Alentejo. Strolling through the alleys, watching the sunset from Jardim Diana and tasting the local food made it a perfect day."
       },
       {
         "name": "Catarina Gomes",
         "date": "2 months ago",
         "rating": 5,
-        "text": "Too beautiful to describe with words. Whether it's the ancient castle ruins or the blue lake water below, it makes you linger. Especially recommend going to the top of the tower, although it's very windy, the view is the best."
+        "text": "Compact but rich - Roman ruins, Gothic cathedral, bone chapel and whitewashed alleys. The best part is the atmosphere of the old town at dusk."
       }
     ]
   },
   "mapSection": {
     "title": "Transportation Guide",
     "subtitle": "Jardim Diana, 7000-661 Évora, Portugal",
-    "openMaps": "View on Google Maps"
+    "openMaps": "View on Google Maps",
+    "authorityPrefix": "Official municipal information:",
+    "authorityLink": "Câmara Municipal de Évora"
   },
   "footer": {
     "rights": "© 2026 Centro Histórico de Évora. All rights reserved.",
@@ -280,13 +285,36 @@
     "officialLinks": {
       "council": "Visit Portugal",
       "tourism": "Alentejo Tourism Guide",
-      "england": "Reguengos de Monsaraz City Council"
+      "england": "Câmara Municipal de Évora"
     },
-    "disclaimer": "This website is an independent third-party travel information project. We have no affiliation with local government or other official institutions."
+    "disclaimer": "This website is an independent third-party travel information project. We have no affiliation with local government or other official institutions.",
+    "photoCredit": "All photos displayed on this website remain the property and copyright of their original photographers.",
+    "resources": [
+      {
+        "name": "Câmara Municipal de Évora",
+        "url": "https://www.cm-evora.pt/"
+      },
+      {
+        "name": "Visit Portugal (Turismo de Portugal)",
+        "url": "https://www.visitportugal.com/"
+      },
+      {
+        "name": "Turismo do Alentejo",
+        "url": "https://www.visitalentejo.pt/"
+      },
+      {
+        "name": "UNESCO - Historic Centre of Évora",
+        "url": "https://whc.unesco.org/en/list/361/"
+      },
+      {
+        "name": "Direção-Geral do Património Cultural",
+        "url": "https://www.patrimoniocultural.gov.pt/"
+      }
+    ]
   },
   "privacy": {
     "title": "Privacy Policy",
-    "lastUpdated": "Last Updated: May 2026",
+    "lastUpdated": "Last Updated: September 2026",
     "sections": [
       {
         "heading": "1. Information We Collect",
@@ -308,7 +336,7 @@
   },
   "terms": {
     "title": "Terms of Service",
-    "lastUpdated": "Last Updated: May 2026",
+    "lastUpdated": "Last Updated: September 2026",
     "sections": [
       {
         "heading": "1. Acceptance of Terms",
@@ -334,7 +362,7 @@
   },
   "cookieSettings": {
     "title": "Cookie Settings",
-    "description": "Last Updated: May 2026\n\nWe use cookies to improve your browsing experience. You can manage your preferences below.",
+    "description": "Last Updated: September 2026\n\nWe use cookies to improve your browsing experience. You can manage your preferences below.",
     "essential": {
       "title": "Essential Cookies",
       "description": "These cookies are essential for the website to function properly and cannot be disabled.",
@@ -380,6 +408,252 @@
   },
   "officialManagement": {
     "title": "About Centro Histórico de Évora",
-    "text": "Centro Histórico de Évora is one of Portugal's most precious historical heritages."
+    "text": "The Centro Histórico de Évora is the UNESCO World Heritage old town of Évora, capital of Portugal’s Alentejo region (inscribed in 1986, ref. 361). This website is an independent visitor guide and has no official affiliation; for authoritative information always consult the Câmara Municipal de Évora and the Direção-Geral do Património Cultural."
+  },
+  "breadcrumb": {
+    "items": [
+      {
+        "name": "Home"
+      },
+      {
+        "name": "Alentejo"
+      },
+      {
+        "name": "Évora"
+      },
+      {
+        "name": "Centro Histórico de Évora"
+      }
+    ]
+  },
+  "thingsToSee": {
+    "title": "What to See & Visit in Évora",
+    "subtitle": "The must-see sights of the UNESCO Historic Centre of Évora, all within easy walking distance of each other.",
+    "items": [
+      {
+        "id": "templo-romano-de-evora",
+        "name": "Roman Temple of Évora (Templo Romano)",
+        "desc": "The best-preserved Roman temple in Portugal, standing on granite Corinthian columns above Jardim Diana since the 1st century AD - one of the symbols of the city."
+      },
+      {
+        "id": "se-de-evora",
+        "name": "Sé de Évora (Évora Cathedral)",
+        "desc": "Begun in 1186, this Romanesque-Gothic cathedral rises over the old town. Climb to the roof terrace for panoramic views of the Alentejo plains."
+      },
+      {
+        "id": "capela-dos-ossos",
+        "name": "Chapel of Bones & Igreja de São Francisco",
+        "desc": "A 16th-century Franciscan church whose famous Chapel of Bones is lined with thousands of human bones and skulls - an unforgettable sight."
+      },
+      {
+        "id": "praca-do-giraldo",
+        "name": "Praça do Giraldo",
+        "desc": "Évora's historic main square and the lively heart of the old town, with its Renaissance fountain and the Church of Santo Antão."
+      },
+      {
+        "id": "aqueduto-da-agua-de-prata",
+        "name": "Aqueduto da Água de Prata",
+        "desc": "A Renaissance aqueduct commissioned by King João III (1531-1537); its arches cross the fields and pass through the old town walls."
+      },
+      {
+        "id": "universidade-de-evora",
+        "name": "University of Évora",
+        "desc": "A Jesuit university founded in 1559; its arcaded cloisters decorated with blue-and-white azulejos form one of the most elegant corners of the city."
+      },
+      {
+        "id": "museu-nacional-frei-manuel-do-cenaculo",
+        "name": "Museu Nacional Frei Manuel do Cenáculo",
+        "desc": "A national museum housed in the archbishop’s palace beside the Roman Temple, displaying Roman archaeology and European painting."
+      },
+      {
+        "id": "muralhas-e-portas-da-cidade",
+        "name": "City Walls & Gates",
+        "desc": "The medieval walls and gates that still encircle the centre shape its UNESCO-protected character; views from the walls stretch over the surrounding plains."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Practical answers about visiting the Historic Centre of Évora.",
+    "items": [
+      {
+        "q": "Where is the Historic Centre of Évora located?",
+        "a": "The Centro Histórico de Évora is the walled old town of Évora, the main city of the Alentejo region in Portugal. The main access is through Praça do Giraldo, while Jardim Diana and the Roman Temple of Évora stand on the highest ground of the old town. Address: Jardim Diana, 7000-661 Évora, Portugal. See the exact location on the <a href=\"#map\">map below</a>."
+      },
+      {
+        "q": "What can you visit and see in Évora in one day?",
+        "a": "A day is enough to walk the compact historic centre and see its main landmarks - the Roman Temple of Évora, the Sé de Évora cathedral and its roof terrace, the Chapel of Bones, Praça do Giraldo, the University of Évora and the Água de Prata aqueduct. Start with the <a href=\"#things-to-see\">list of what to visit in Évora</a> and follow the suggested <a href=\"#route\">walking route</a>."
+      },
+      {
+        "q": "Is the Historic Centre of Évora free to visit?",
+        "a": "The outdoor area of the historic centre - streets, squares and the exterior of the monuments - is open to the public 24 hours a day and free to visit. The Roman Temple stands in the open air. Indoor monuments such as the Chapel of Bones, the cathedral museum and the viewing terrace charge admission; see the <a href=\"#hours\">opening hours</a> section for details."
+      },
+      {
+        "q": "How much time do you need to visit the historic centre of Évora?",
+        "a": "Allow 3-4 hours for a relaxed walk covering the main sights: the Roman Temple, the cathedral roof terrace and the Chapel of Bones, with a coffee break at Praça do Giraldo. With a full day you can also visit the museums, the University of Évora and the Almendres Cromlech on the outskirts."
+      },
+      {
+        "q": "How do you get from Lisbon to Évora?",
+        "a": "By car it is about 135 km via the A2/A6 motorways (around 1h30). By train, Comboios de Portugal (CP) runs regular services from Lisbon to the Évora station, about a 15-minute walk from the old town. Rede Expressos buses also connect Lisbon (Sete Rios) to the Évora bus terminal near the centre."
+      },
+      {
+        "q": "Where can you park to visit the historic centre of Évora?",
+        "a": "Motor traffic is restricted inside the walls. Use the car parks located just outside the old town and walk in 5-10 minutes. In summer, arrive early as spaces fill quickly."
+      },
+      {
+        "q": "When is the best time to visit the historic centre of Évora?",
+        "a": "April-October (spring to autumn) offers the best conditions. July and August can be very hot at midday, so plan your walk for the early morning or the late afternoon; summer evenings are particularly pleasant."
+      },
+      {
+        "q": "Is the Historic Centre of Évora a UNESCO World Heritage site?",
+        "a": "Yes. The Historic Centre of Évora was inscribed on the UNESCO World Heritage List in 1986 (reference 361) as an outstanding example of a Renaissance city adapted to its medieval and Roman roots."
+      }
+    ]
+  },
+  "sources": {
+    "title": "Official Sources & References",
+    "subtitle": "Independent third-party guide - for accurate, up-to-date information always consult the official channels below.",
+    "items": [
+      {
+        "name": "Câmara Municipal de Évora",
+        "url": "https://www.cm-evora.pt/"
+      },
+      {
+        "name": "Visit Portugal (Turismo de Portugal)",
+        "url": "https://www.visitportugal.com/"
+      },
+      {
+        "name": "Turismo do Alentejo",
+        "url": "https://www.visitalentejo.pt/"
+      },
+      {
+        "name": "Direção-Geral do Património Cultural",
+        "url": "https://www.patrimoniocultural.gov.pt/"
+      },
+      {
+        "name": "UNESCO World Heritage Centre - Historic Centre of Évora",
+        "url": "https://whc.unesco.org/en/list/361/"
+      },
+      {
+        "name": "Comboios de Portugal (CP)",
+        "url": "https://www.cp.pt/"
+      }
+    ]
+  },
+  "facilities": {
+    "title": "Practical Facilities & Services",
+    "subtitle": "Useful amenities for exploring the Historic Centre of Évora.",
+    "note": "This is an independent, non-profit educational website. We list facility types only, in a neutral way, and do not recommend any specific business or brand; always confirm exact locations on site or on a map.",
+    "items": [
+      {
+        "id": "wc",
+        "name": "Public Toilets",
+        "desc": "Public toilets are available near the main squares and sights of the old town; some require a small fee. Many cafés and museums also offer facilities to visitors."
+      },
+      {
+        "id": "parking",
+        "name": "Parking (outside the walls)",
+        "desc": "Motor traffic is restricted inside the walls. Paid and free car parks sit within a 5-10 minute walk of the old town; in peak season spaces fill early, so arrive early or use public transport."
+      },
+      {
+        "id": "dining",
+        "name": "Restaurants & Cafés",
+        "desc": "The old town is dense with restaurants, small taverns (tasca), cafés and pastry shops, from quick snacks to full meals."
+      },
+      {
+        "id": "hotels",
+        "name": "Hotels & Guesthouses",
+        "desc": "Inside the walls you will mostly find small boutique hotels, guesthouses (alojamento local) and family-run lodgings within walking distance of the sights; more options exist just outside."
+      },
+      {
+        "id": "shops",
+        "name": "Supermarkets & Shops",
+        "desc": "Small supermarkets, grocery stores, bakeries and souvenir shops are scattered through the old town for daily needs, drinks and snacks."
+      },
+      {
+        "id": "fuel-ev",
+        "name": "Fuel & EV Charging",
+        "desc": "Petrol stations and electric-vehicle chargers are located mainly on the ring roads outside the walls; drivers are advised to refuel or recharge before entering the old town."
+      },
+      {
+        "id": "atm",
+        "name": "Banks & ATMs",
+        "desc": "Bank branches and cash machines (ATMs) are found near the main streets and squares of the old town; most accept international cards."
+      },
+      {
+        "id": "pharmacy",
+        "name": "Pharmacies & Health",
+        "desc": "Évora has several pharmacies and primary-care points; for emergencies or a full hospital, head to the municipal hospital outside the walls."
+      }
+    ]
+  },
+  "stories": {
+    "title": "Stories, History & Legends",
+    "subtitle": "Key moments and tales from over two thousand years of Évora - every account below is based on documented history and chronicles.",
+    "kinds": {
+      "history": "Documented",
+      "legend": "Chronicle & Legend"
+    },
+    "items": [
+      {
+        "kind": "history",
+        "title": "1165: Geraldo Sem Pavor and the city that joined Portugal",
+        "content": "Évora had flourished under the Romans and again under Muslim rule, but during the Portuguese Reconquista this still Moorish-held city was taken in 1165 by the knight Geraldo Sem Pavor ('Geraldo the Fearless'). The town was quickly rebuilt, work on its cathedral began in 1186, and Évora became a lasting part of Portugal - a key stronghold in King Afonso Henriques' expansion to the south."
+      },
+      {
+        "kind": "legend",
+        "title": "How did Geraldo get in? Firewood carts or a herd of oxen",
+        "content": "Accounts of the 1165 conquest differ: some say Geraldo's soldiers slipped into the city hidden among carts of firewood, others that Christians inside opened the gates while the garrison relaxed during Holy Week (Semana Santa). The details are hard to prove, yet chronicles and local memory have retold them ever since, adding legend to the 'Fearless' knight. Whatever truly happened, September 1165 was a turning point for Évora."
+      },
+      {
+        "kind": "history",
+        "title": "The misnamed temple: the Diana mystery",
+        "content": "The Roman temple that crowns the hill above the old town was once buried inside medieval castle and town-hall structures and only freed again in the 19th century. In the 16th century the humanist André de Resende first called it the \"Temple of Diana\", and the beautiful mistake stuck. Modern scholars lean towards an imperial cult or Jupiter, but the true deity remains unproven - which only adds to its mystery."
+      },
+      {
+        "kind": "history",
+        "title": "The Chapel of Bones: meditating among skeletons",
+        "content": "In the 16th century, Franciscan monks lined the walls of a side chapel at São Francisco with thousands of bones gathered from nearby cemeteries, as a reminder of life's brevity. Above the entrance still stands the famous Portuguese motto: 'Nós ossos que aqui estamos, pelos vossos esperamos' - 'We bones that are here, await yours'. It may be Europe's most striking epitaph."
+      },
+      {
+        "kind": "history",
+        "title": "A university with two lives: 1559 and 1973",
+        "content": "In 1559 Cardinal-King D. Henrique founded a Jesuit university in Évora, making it one of Portugal’s centres of learning. In 1759 the Marquis of Pombal expelled the Jesuits and the university closed. Only in 1973, after a gap of more than two centuries, did the University of Évora reopen on the same site - its azulejo-lined arcaded cloisters still tell the story of an ending and a rebirth."
+      },
+      {
+        "kind": "history",
+        "title": "The Água de Prata aqueduct and the homes between its arches",
+        "content": "Between 1531 and 1537 King João III commissioned the architect Francisco de Arruda to build the aqueduct that brought spring water into the town. Explanations for the name \"Água de Prata\" (silver water) vary - some say the water gleamed like silver, others link it to how the works were financed. Most curious of all, houses were later built between the arches, creating streets where home and aqueduct merge; they can still be seen along the old walls today."
+      },
+      {
+        "kind": "history",
+        "title": "1663: the year Évora was lost and regained",
+        "content": "During the Portuguese Restoration War, Spanish troops briefly occupied Évora in May 1663. A month later the Portuguese army won the Battle of Ameixial and forced the occupiers to withdraw, returning Évora to Portugal. The episode is a reminder that this quiet historic centre was once a prize fought over by crowns."
+      }
+    ]
+  },
+  "weather": {
+    "title": "Évora Weather Today & Multi-Day Forecast",
+    "subtitle": "Live and multi-day weather for the Historic Centre of Évora (Jardim Diana coordinates). Data comes from the free Open-Meteo API and is fetched and cached on the server.",
+    "now": "Now",
+    "forecast": "Forecast",
+    "feels": "Feels like",
+    "wind": "Wind",
+    "humidity": "Humidity",
+    "updated": "Updated",
+    "forecastUpdated": "Forecast",
+    "kmh": "km/h",
+    "source": "Data: Open-Meteo",
+    "codes": {
+      "clear": "Clear sky",
+      "partly": "Partly cloudy",
+      "overcast": "Overcast",
+      "fog": "Fog",
+      "drizzle": "Drizzle",
+      "rain": "Rain",
+      "snow": "Snow",
+      "showers": "Rain showers",
+      "thunder": "Thunderstorm"
+    }
   }
 }

@@ -1,12 +1,15 @@
 'use client';
 
-import { useTranslations } from 'next-intl';
+import { useTranslations, useLocale } from 'next-intl';
 import LanguageToggle from './LanguageToggle';
 import ThemeToggle from './ThemeToggle';
 import { useState, useEffect } from 'react';
 
+const NAV_IDS = ['things-to-see', 'gallery', 'reviews', 'faq', 'map'] as const;
+
 export default function Header() {
   const t = useTranslations('header');
+  const locale = useLocale();
   const [scrolled, setScrolled] = useState(false);
 
   useEffect(() => {
@@ -14,6 +17,15 @@ export default function Header() {
     window.addEventListener('scroll', handler, { passive: true });
     return () => window.removeEventListener('scroll', handler);
   }, []);
+
+  const base = `/${locale}`;
+  const navLabelKey: Record<string, string> = {
+    'things-to-see': 'thingsToSee',
+    gallery: 'gallery',
+    reviews: 'reviews',
+    faq: 'faq',
+    map: 'map',
+  };
 
   return (
     <header
@@ -25,19 +37,25 @@ export default function Header() {
       }}
     >
       <div className="max-w-6xl mx-auto px-4 sm:px-6 h-16 flex items-center justify-between">
-        <a href="/" className="font-display text-lg font-semibold tracking-tight" style={{ color: scrolled ? 'var(--text-primary)' : '#fff' }}>
+        <a
+          href={base}
+          className="font-display text-lg font-semibold tracking-tight"
+          style={{ color: scrolled ? 'var(--text-primary)' : '#fff' }}
+        >
           Centro Histórico de Évora
         </a>
 
-        <nav className="hidden md:flex items-center gap-6">
-          {(['gallery', 'reviews', 'map'] as const).map((section) => (
+        <nav className="hidden lg:flex items-center gap-6" aria-label="Main">
+          {NAV_IDS.map((id) => (
             <a
-              key={section}
-              href={`/#${section}`}
+              key={id}
+              href={`${base}/#${id}`}
               className="text-sm font-medium transition-colors"
-              style={{ color: scrolled ? 'var(--text-secondary)' : 'rgba(255,255,255,0.85)' }}
+              style={{
+                color: scrolled ? 'var(--text-secondary)' : 'rgba(255,255,255,0.85)',
+              }}
             >
-              {t(section)}
+              {t(navLabelKey[id] as any)}
             </a>
           ))}
         </nav>

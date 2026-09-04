@@ -7,7 +7,7 @@ export default function HoursSection() {
   const t = useTranslations('hours');
 
   return (
-    <section className="section-padding">
+    <section id="hours" className="section-padding">
       <div className="max-w-4xl mx-auto">
         <h2
           className="font-display text-3xl sm:text-4xl font-semibold mb-6"
