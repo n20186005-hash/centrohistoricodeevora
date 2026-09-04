@@ -634,7 +634,7 @@
   },
   "weather": {
     "title": "Tempo em Évora Hoje e Previsão a Vários Dias",
-    "subtitle": "Tempo em tempo real e previsão para vários dias no Centro Histórico de Évora (coordenadas do Jardim Diana). Dados da API gratuita Open-Meteo, obtidos e em cache no servidor.",
+    "subtitle": "Tempo em tempo real e previsão para vários dias no Centro Histórico de Évora (Jardim Diana). Consulte antes de sair: se a previsão for de chuva, leve guarda-chuva.",
     "now": "Agora",
     "forecast": "Previsão",
     "feels": "Sensação",
@@ -643,7 +643,6 @@
     "updated": "Atualizado",
     "forecastUpdated": "Previsão",
     "kmh": "km/h",
-    "source": "Dados: Open-Meteo",
     "codes": {
       "clear": "Céu limpo",
       "partly": "Parcialmente nublado",

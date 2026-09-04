@@ -634,7 +634,7 @@
   },
   "weather": {
     "title": "埃武拉实时天气与多日预报",
-    "subtitle": "面向埃武拉历史中心（Jardim Diana 坐标）的实时与未来多日天气。数据来自免费开放接口 Open-Meteo，服务端获取并缓存。",
+    "subtitle": "埃武拉历史中心（戴安娜花园）一带的实时天气与未来多日预报。出门前看一眼：有雨记得带伞，晴天轻松出行。",
     "now": "当前天气",
     "forecast": "未来预报",
     "feels": "体感",
@@ -643,7 +643,6 @@
     "updated": "更新于",
     "forecastUpdated": "多日预报",
     "kmh": "公里/小时",
-    "source": "数据来源：Open-Meteo",
     "codes": {
       "clear": "晴朗",
       "partly": "局部多云",

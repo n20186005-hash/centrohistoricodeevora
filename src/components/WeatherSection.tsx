@@ -262,12 +262,6 @@ export default function WeatherSection({ data }: { data: WeatherData | null }) {
                 </div>
               ))}
             </div>
-            <div
-              className="mt-4 pt-3 text-xs"
-              style={{ borderTop: '1px solid var(--border-color)', color: 'var(--text-muted)' }}
-            >
-              {t('source')} · open-meteo.com
-            </div>
           </div>
         </div>
       </div>

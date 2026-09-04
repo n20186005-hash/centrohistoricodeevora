@@ -634,7 +634,7 @@
   },
   "weather": {
     "title": "Évora Weather Today & Multi-Day Forecast",
-    "subtitle": "Live and multi-day weather for the Historic Centre of Évora (Jardim Diana coordinates). Data comes from the free Open-Meteo API and is fetched and cached on the server.",
+    "subtitle": "Live and multi-day weather for the Historic Centre of Évora (Jardim Diana). Check before you head out — if rain is expected, grab an umbrella.",
     "now": "Now",
     "forecast": "Forecast",
     "feels": "Feels like",
@@ -643,7 +643,6 @@
     "updated": "Updated",
     "forecastUpdated": "Forecast",
     "kmh": "km/h",
-    "source": "Data: Open-Meteo",
     "codes": {
       "clear": "Clear sky",
       "partly": "Partly cloudy",
