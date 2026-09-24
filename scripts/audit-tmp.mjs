@@ -1,5 +1,5 @@
 import { readFileSync, readdirSync } from 'node:fs';
-const h = readFileSync('out/zh.html', 'utf8');
+const h = readFileSync('.next/server/app/zh.html', 'utf8');
 const count = (re) => (h.match(re) || []).length;
 console.log('ld+json blocks          :', count(/application\/ld\+json/g));
 console.log('FAQPage schema          :', count(/"@type":"FAQPage"/g));

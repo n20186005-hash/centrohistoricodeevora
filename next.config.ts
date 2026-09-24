@@ -12,9 +12,10 @@ const nextConfig: NextConfig = {
       { protocol: 'https' as const, hostname: 'images.unsplash.com' },
     ],
   },
-  // 静态导出
-  output: 'export',
-  distDir: 'out',
+  // OpenNext (Cloudflare Workers) 需要 standalone 输出，
+  // 以生成 .next/standalone，否则 opennextjs-cloudflare 的
+  // createCacheAssets 读 pages-manifest.json 时会 ENOENT 崩溃。
+  output: 'standalone',
 };
 
 export default withNextIntl(nextConfig);
