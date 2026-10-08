@@ -16,7 +16,7 @@
     "title": "Centro Histórico de Évora",
     "subtitle": "Praça do Giraldo · Évora · Alentejo · Portugal",
     "rating": "4.5",
-    "reviewCount": "5.781",
+    "reviewCount": "5,862",
     "hours": "Open 24 Hours",
     "openMaps": "View Location",
     "imgAlt": "Centro Histórico de Évora - o centro histórico classificado da UNESCO em Évora, Alentejo, Portugal"
@@ -25,16 +25,16 @@
     "title": "Explore Centro Histórico de Évora",
     "description": "Bem-vindo ao Centro Histórico de Évora, conhecido como o coração histórico da cidade de Évora, capital histórica da região portuguesa do Alentejo, classificado como Património Mundial da UNESCO. O centro histórico estende-se pelas colinas suaves do Alentejo e é delimitado por muralhas medievais, o que lhe valeu o título de museu a céu aberto. Aqui confluem mais de dois mil anos de civilização, preservando ruínas romanas, ruelas de influência muçulmana, igrejas góticas e arquitetura civil renascentista. O centro histórico organiza-se em torno da Praça do Giraldo, de onde irradiam ruelas antigas e sinuosas. O Jardim Diana ocupa a zona alta da cidade, ligando o Templo Romano de Évora ao conjunto episcopal. Paredes caiadas com varandas de ferro forjado e azulejos pintados à mão formam a paisagem mais característica das ruas. A partir do centro, os visitantes podem caminhar facilmente entre os monumentos emblemáticos de Évora - o Templo Romano, a Sé Catedral, a Capela dos Ossos e o Aqueduto da Água de Prata - descritos em pormenor nas secções seguintes.",
     "visitGuide": {
-      "title": "Visiting Tips",
+      "title": "Dicas para a Visita",
       "items": [
-        "The city features many uneven cobblestone streets; non-slip, comfortable walking shoes are essential. Most guesthouses within the old town can assist with short-distance luggage transfers.",
-        "Summer daytime temperatures are high. Ensure adequate sun protection, carry drinking water, and avoid the midday heat.",
-        "Tour groups mostly arrive at popular sites in the morning. For a quieter experience, try to enter as soon as the venues open.",
-        "Local public museums offer free admission on Sundays; religious sites are not included in this offer."
+        "A cidade tem muitas ruas de calçada irregular; calçado confortável e antiderrapante é indispensável. A maioria dos alojamentos no centro histórico pode ajudar com transferências de bagagem a curta distância.",
+        "No verão, as temperaturas diurnas são muito altas. Use proteção solar, leve água e evite o calor do meio-dia.",
+        "Os grupos de visitantes chegam sobretudo de manhã aos locais mais procurados. Para uma visita mais tranquila, entre assim que abrem.",
+        "Os museus públicos locais têm entrada gratuita aos domingos; os locais de culto não estão incluídos nesta oferta."
       ]
     },
     "alsoKnownAs": {
-      "title": "Attraction Highlights",
+      "title": "Destaques da Visita",
       "items": [
         "Conjuntos Monumentais de Várias Épocas: o Templo Romano de Évora (século I d.C.), a Sé medieval, a Capela dos Ossos do século XVI e os palácios renascentistas concentram-se num centro pequeno.",
         "Ruas Medievais Autênticas: ruelas sinuosas de calçada, de influência muçulmana, ladeadas por casas caiadas e azulejos pintados à mão.",
@@ -44,7 +44,7 @@
     }
   },
   "knowledge": {
-    "title": "Discover the Charm of Centro Histórico de Évora",
+    "title": "Descubra o Encanto do Centro Histórico de Évora",
     "sections": [
       {
         "id": "history",
@@ -64,50 +64,50 @@
     ]
   },
   "basicInfo": {
-    "title": "Basic Information",
-    "officialName": "Official Name",
+    "title": "Informações Práticas",
+    "officialName": "Nome Oficial",
     "officialNameValue": "Centro Histórico de Évora",
-    "type": "Attraction Type",
-    "typeValue": "Tourist Attraction",
-    "country": "Country",
+    "type": "Tipo de Atração",
+    "typeValue": "Atração Turística",
+    "country": "País",
     "countryValue": "Portugal",
-    "city": "City",
+    "city": "Cidade",
     "cityValue": "Évora",
-    "googleRating": "Google Rating",
-    "address": "Address",
+    "googleRating": "Avaliação do Google",
+    "address": "Morada",
     "addressValue": "Jardim Diana, 7000-661 Évora, Portugal",
-    "plusCode": "Plus Code",
+    "plusCode": "Código Plus",
     "plusCodeValue": "H3CR+86 Évora, Portugal"
   },
   "hours": {
-    "title": "Opening Hours",
-    "outdoor": "Castle Area",
-    "outdoorTime": "The old town streets, Praça do Giraldo, and Jardim Diana are open 24/7 for free. Paid indoor venues have seasonal scheduled opening hours.",
-    "lighthouse": "Indoor Exhibitions",
-    "summer": "Chapel of Bones",
-    "summerTime": "Regularly 9:00-17:00, slight adjustments on public holidays",
-    "winter": "Évora Cathedral (including viewing terrace)",
+    "title": "Horários de Visita",
+    "outdoor": "Centro Histórico ao Ar Livre",
+    "outdoorTime": "As ruas do centro histórico, a Praça do Giraldo e o Jardim Diana estão abertos 24 horas por dia e são de acesso livre. Os espaços interiores pagos têm horários de abertura sazonais.",
+    "lighthouse": "Exposições no Interior",
+    "summer": "Capela dos Ossos",
+    "summerTime": "Habitualmente 9:00-17:00, com pequenos ajustes nos feriados",
+    "winter": "Sé de Évora (incluindo terraço-miradouro)",
     "winterTime": "9:30-18:00",
-    "warning": "Roman Temple Outdoor Ruins",
-    "warningTime": "Outdoor ruins open 24/7, attached small exhibition hall has limited hours",
-    "tip": "Best visited from April to October (Spring to Autumn); July and August are very hot at noon, so early morning or evening is preferred."
+    "warning": "Ruínas do Templo Romano ao Ar Livre",
+    "warningTime": "As ruínas ao ar livre estão abertas 24/7; a pequena sala de exposições anexa tem horários limitados",
+    "tip": "A melhor época é de abril a outubro (primavera a outono); em julho e agosto o calor do meio-dia é intenso, pelo que se recomenda de manhã cedo ou ao final da tarde."
   },
   "tickets": {
-    "title": "Ticket Information",
-    "outdoor": "Old Town Public Streets, Plazas, Temple Exteriors",
-    "outdoorPrice": "Free Admission",
-    "lighthouse": "Special Exhibitions",
-    "adults": "Chapel of Bones",
-    "adultsPrice": "Regular admission, discounts for students",
-    "students": "Évora Cathedral (Viewing Terrace)",
-    "studentsPrice": "Adult admission, half-price for students",
-    "children": "Parking Fee",
-    "childrenPrice": "Motor vehicles are prohibited inside the ancient walls. Several free public parking lots are available just outside the walls, requiring only a 5 to 10-minute walk into the old town.",
-    "card": "Ticket Advice",
-    "cardPrice": "Discounted combo tickets available for multiple venues"
+    "title": "Bilheteira e Preços",
+    "outdoor": "Ruas e Praças Públicas do Centro, Exteriores dos Monumentos",
+    "outdoorPrice": "Entrada Livre",
+    "lighthouse": "Exposições Especiais",
+    "adults": "Capela dos Ossos",
+    "adultsPrice": "Entrada normal, com desconto para estudantes",
+    "students": "Sé de Évora (Terraço-Miradouro)",
+    "studentsPrice": "Entrada normal, metade do preço para estudantes",
+    "children": "Estacionamento",
+    "childrenPrice": "Os veículos motorizados são proibidos dentro das muralhas. Existem vários parques públicos gratuitos mesmo à saída das muralhas, a apenas 5 a 10 minutos a pé do centro histórico.",
+    "card": "Dica de Bilheteira",
+    "cardPrice": "Disponíveis bilhetes combinados com desconto para vários espaços"
   },
   "transport": {
-    "title": "Transportation",
+    "title": "Como Chegar a Évora",
     "airport": "From the Airport",
     "airportDesc": "Nearest international airports: Lisbon (LIS) Airport (approx. 135 km, 1h 25m drive) and Faro (FAO) Airport (approx. 240 km, 2h 50m drive). Renting a car upon arrival is recommended.",
     "selfDrive": "Driving",
@@ -122,7 +122,7 @@
     "tipsDesc": "Due to limited public transport schedules in the Alentejo region, renting a car is strongly advised for the flexibility to explore nearby wineries, megalithic monuments, and the Alqueva Dam."
   },
   "route": {
-    "title": "Visiting Route",
+    "title": "Roteiro a Pé",
     "overview": "Standard Walking Tour Route (Half-Day Itinerary)",
     "steps": [
       "Walk from the outside parking lot through the ancient aqueduct gate into the old town",
@@ -141,7 +141,7 @@
     "supplementsTitle": "Visiting Notes"
   },
   "photoSpots": {
-    "title": "Photo Spots",
+    "title": "Melhores Locais para Fotografar",
     "spots": [
       {
         "name": "Cathedral Roof Terrace",
@@ -160,11 +160,11 @@
         "desc": "Whitewashed walls and tiled doors/windows, perfect for portraits."
       }
     ],
-    "tips": "Photography Tips",
+    "tips": "Dicas de Fotografia",
     "tipsContent": "The golden hour at sunset provides soft light. The temple is illuminated at night, making it excellent for night photography."
   },
   "hotels": {
-    "title": "Accommodation Suggestions",
+    "title": "Onde Ficar em Évora",
     "hotels": [
       {
         "name": "Historic Guesthouses Inside the Walls",
@@ -182,9 +182,9 @@
         "price": "Outstanding value for money"
       }
     ],
-    "supplements": "Accommodation Notes",
-    "supplementsContent": "Focuses on rustic Alentejo cuisine: bread soup, garlic braised dishes, regional wines, and traditional Portuguese sweets. Local flavor restaurants are scattered throughout the old town alleys, perfect for spontaneous dining.",
-    "supplementsTitle": "Local Cuisine"
+    "supplements": "Notas de Alojamento",
+    "supplementsContent": "Foca-se na gastronomia rústica alentejana: sopa de pão, ensopados de alho, vinhos regionais e doces tradicionais portugueses. Restaurantes de sabor local espalham-se pelas ruelas do centro histórico, ideais para refeições espontâneas.",
+    "supplementsTitle": "Gastronomia Local"
   },
   "gallery": {
     "title": "Stunning Photos",
@@ -270,7 +270,7 @@
     ]
   },
   "mapSection": {
-    "title": "Transportation Guide",
+    "title": "Guia de Transporte",
     "subtitle": "Jardim Diana, 7000-661 Évora, Portugal",
     "openMaps": "View on Google Maps",
     "authorityPrefix": "Informação oficial do município:",
@@ -317,20 +317,20 @@
     "lastUpdated": "Última atualização: setembro de 2026",
     "sections": [
       {
-        "heading": "1. Information We Collect",
-        "content": "We only collect the minimum data necessary to provide our services. This data may include: browsing data (IP address, browser type, visited pages), cookies and similar technologies, and any information you voluntarily provide via contact forms or email."
+        "heading": "1. Informação que Recolhemos",
+        "content": "Recolhemos apenas os dados mínimos necessários para prestar os nossos serviços. Estes dados podem incluir: dados de navegação (endereço IP, tipo de navegador, páginas visitadas), cookies e tecnologias semelhantes, e qualquer informação que forneça voluntariamente através de formulários de contacto ou e-mail."
       },
       {
-        "heading": "2. How We Use Your Information",
-        "content": "We use the collected information to: improve website content and user experience, analyze traffic and usage patterns, respond to requests, and comply with our legal obligations."
+        "heading": "2. Como Utilizamos a Sua Informação",
+        "content": "Utilizamos a informação recolhida para: melhorar o conteúdo e a experiência do utilizador, analisar padrões de tráfego e utilização, responder a pedidos e cumprir as nossas obrigações legais."
       },
       {
-        "heading": "3. Third-Party Services",
-        "content": "Our website may use third-party services such as Google Maps (for embedded maps and location data), Google Analytics (for traffic analysis), and Unsplash (for images). These services have their own privacy policies."
+        "heading": "3. Serviços de Terceiros",
+        "content": "O nosso website pode utilizar serviços de terceiros como o Google Maps (para mapas e dados de localização incorporados), o Google Analytics (para análise de tráfego) e o Unsplash (para imagens). Estes serviços têm as suas próprias políticas de privacidade."
       },
       {
-        "heading": "4. Your Rights",
-        "content": "Under the General Data Protection Regulation (GDPR) and related regulations, you have the right to: access your personal data, request correction or deletion, object to processing, and lodge a complaint with a supervisory authority."
+        "heading": "4. Os Seus Direitos",
+        "content": "Ao abrigo do Regulamento Geral sobre a Proteção de Dados (RGPD) e regulamentos afins, tem o direito de: aceder aos seus dados pessoais, solicitar retificação ou eliminação, opor-se ao tratamento e apresentar reclamação junto de uma autoridade de controlo."
       }
     ]
   },
@@ -339,72 +339,72 @@
     "lastUpdated": "Última atualização: setembro de 2026",
     "sections": [
       {
-        "heading": "1. Acceptance of Terms",
-        "content": "By accessing and using this website, you agree to be bound by these terms of service."
+        "heading": "1. Aceitação dos Termos",
+        "content": "Ao aceder e utilizar este website, concorda em ficar vinculado por estes termos de serviço."
       },
       {
-        "heading": "2. Use of Content",
-        "content": "All content on this website is for informational purposes only. We are an independent third-party travel information website, not affiliated with any tourist attractions, government agencies, or commercial operators."
+        "heading": "2. Utilização do Conteúdo",
+        "content": "Todo o conteúdo deste website tem apenas caráter informativo. Somos um website independente de informação de viagens, não afiliado a qualquer atração turística, organismo público ou operador comercial."
       },
       {
-        "heading": "3. Accuracy of Information",
-        "content": "We strive to provide accurate and timely information, but we cannot guarantee its completeness or accuracy. Itineraries, conditions, and services are subject to change without notice. Always verify important information through official channels before traveling."
+        "heading": "3. Exatidão da Informação",
+        "content": "Esforçamo-nos por fornecer informação exata e atualizada, mas não podemos garantir a sua exaustividade ou exatidão. Itinerários, condições e serviços podem alterar-se sem aviso prévio. Verifique sempre a informação importante através dos canais oficiais antes de viajar."
       },
       {
-        "heading": "4. Intellectual Property",
-        "content": "The design and original content of this website are protected by copyright. Images are sourced from Unsplash and used under license. The use of Google Maps data complies with Google's terms of service."
+        "heading": "4. Propriedade Intelectual",
+        "content": "O design e o conteúdo original deste website estão protegidos por direitos de autor. As imagens provêm do Unsplash e são utilizadas sob licença. A utilização de dados do Google Maps cumpre os termos de serviço da Google."
       },
       {
-        "heading": "5. Limitation of Liability",
-        "content": "This website is provided \"as is\" without any warranties. We are not responsible for any losses resulting from the use of information on this website, including but not limited to travel decisions made based on its content."
+        "heading": "5. Limitação de Responsabilidade",
+        "content": "Este website é fornecido \"na presente forma\", sem quaisquer garantias. Não nos responsabilizamos por quaisquer perdas resultantes da utilização da informação nele contida, incluindo, nomeadamente, decisões de viagem baseadas no seu conteúdo."
       }
     ]
   },
   "cookieSettings": {
-    "title": "Cookie Settings",
-    "description": "Última atualização: setembro de 2026\n\nUtilizamos cookies para melhorar a sua experiência de navegação. Pode gerir as suas preferências abaixo.",
+    "title": "Definições de Cookies",
+    "description": "Última atualização: outubro de 2026\n\nUtilizamos cookies para melhorar a sua experiência de navegação. Pode gerir as suas preferências abaixo.",
     "essential": {
-      "title": "Essential Cookies",
-      "description": "These cookies are essential for the website to function properly and cannot be disabled.",
-      "badge": "Always Active"
+      "title": "Cookies Essenciais",
+      "description": "Estes cookies são essenciais para o correto funcionamento do website e não podem ser desativados.",
+      "badge": "Sempre Ativos"
     },
     "analytics": {
-      "title": "Analytics Cookies",
-      "description": "They help us understand how visitors interact with our website by collecting anonymous usage data.",
+      "title": "Cookies de Análise",
+      "description": "Ajudam-nos a compreender como os visitantes interagem com o site, recolhendo dados de utilização anónimos.",
       "items": [
         {
           "name": "Google Analytics",
-          "status": "Active",
-          "description": "It collects anonymous information about how visitors use our website."
+          "status": "Ativo",
+          "description": "Recolhe informação anónima sobre a forma como os visitantes utilizam o nosso website."
         }
       ]
     },
     "marketing": {
-      "title": "Marketing Cookies",
-      "description": "They are used to show relevant advertisements and measure the effectiveness of ad campaigns.",
+      "title": "Cookies de Marketing",
+      "description": "São utilizados para apresentar anúncios relevantes e medir a eficácia das campanhas publicitárias.",
       "items": [
         {
-          "name": "Personalized Ads",
-          "status": "Inactive",
-          "description": "It can show you relevant ads based on your interests."
+          "name": "Anúncios Personalizados",
+          "status": "Inativo",
+          "description": "Pode apresentar-lhe anúncios relevantes com base nos seus interesses."
         }
       ]
     },
-    "save": "Save Preferences",
-    "saved": "Settings saved!",
+    "save": "Guardar Preferências",
+    "saved": "Preferências guardadas!",
     "preferences": {
       "items": [
         {
-          "name": "User Preferences",
-          "status": "Active",
-          "description": "Saves your language preferences and website settings."
+          "name": "Preferências do Utilizador",
+          "status": "Ativo",
+          "description": "Guarda as suas preferências de idioma e definições do website."
         }
       ],
-      "title": "Preference Cookies",
-      "description": "They remember your settings, such as language and theme preferences."
+      "title": "Cookies de Preferências",
+      "description": "Lembram as suas definições, como as preferências de idioma e tema."
     },
-    "consentManagement": "Consent Management: You can change your cookie settings at any time. Please note that disabling certain cookies may affect the website's functionality.",
-    "rejectAll": "Reject All"
+    "consentManagement": "Gestão de Consentimento: pode alterar as suas definições de cookies em qualquer momento. Note que a desativação de certos cookies pode afetar a funcionalidade do website.",
+    "rejectAll": "Rejeitar Todos"
   },
   "officialManagement": {
     "title": "About Centro Histórico de Évora",
@@ -654,5 +654,29 @@
       "showers": "Aguaceiros",
       "thunder": "Trovoada"
     }
+  },
+  "guideOQueVisitar": {
+    "title": "O Que Visitar em Évora: Roteiro, Mapa e Lugares Imperdíveis",
+    "description": "Não sabe o que visitar em Évora? Guia prático com os monumentos imperdíveis do Centro Histórico (Património Mundial da UNESCO), mapa, roteiro a pé e dicas para organizar a visita num dia.",
+    "h1": "O Que Visitar em Évora",
+    "intro": "O Centro Histórico de Évora reúne num espaço compacto dois milénios de história e é o coração vivo da cidade alentejana. Perto uns dos outros, a poucos minutos a pé, estão o Templo Romano, a Sé Catedral, a Capela dos Ossos, a Praça do Giraldo e o Aqueduto da Água de Prata. Abaixo listamos os lugares imperdíveis e um roteiro simples para aproveitar o melhor da cidade num único dia.",
+    "listTitle": "Lugares Imperdíveis no Centro Histórico",
+    "planTitle": "Como Organizar o Roteiro de 1 Dia",
+    "planText": "Comece pela manhã na Praça do Giraldo e suba pelas ruelas até à Sé e ao seu terraço-miradouro. Siga depois até à Capela dos Ossos e desça até ao Jardim Diana e ao Templo Romano. Reserve a tarde para a Universidade de Évora, o Museu Nacional Frei Manuel do Cenáculo e as muralhas, e termine o dia com a luz dourada do pôr do sol sobre os telhados brancos do centro.",
+    "faqTitle": "Perguntas Frequentes sobre o que Visitar"
+  },
+  "guideEvoraUmDia": {
+    "title": "Évora em 1 Dia: Roteiro, Horários e Dicas Práticas",
+    "description": "Planeie Évora em 1 dia com este roteiro a pé pelos monumentos principais, horários sugeridos e dicas práticas de transporte e estacionamento no Centro Histórico.",
+    "h1": "Évora em 1 Dia",
+    "intro": "Um dia inteiro basta para conhecer o essencial do Centro Histórico de Évora sem pressa. Este roteiro a pé agrupa os monumentos por proximidade, aproveita os horários de abertura e deixa tempo para pausas numa esplanada da Praça do Giraldo.",
+    "morningTitle": "Manhã",
+    "morningText": "Praça do Giraldo → Sé de Évora e terraço-miradouro (9:30-18:00) → Jardim Diana e Templo Romano ao ar livre. Entre cedo para evitar o calor e as filas dos grupos de visita.",
+    "afternoonTitle": "Tarde",
+    "afternoonText": "Capela dos Ossos (9:00-17:00) → Igreja de São Francisco → Universidade de Évora e claustros de azulejo → Muralhas e Portas da Cidade. Se sobrar tempo, o Museu Nacional Frei Manuel do Cenáculo fica junto ao Templo Romano.",
+    "eveningTitle": "Noite",
+    "eveningText": "Regresse à Praça do Giraldo ao fim do dia para jantar e fotografar o Templo Romano iluminado. O centro mantém-se vivo com cafés e restaurantes até tarde.",
+    "tipsTitle": "Dicas Práticas para o Roteiro de 1 Dia",
+    "tipsText": "Estacione fora das muralhas e caminhe 5 a 10 minutos até ao centro; leve calçado confortável e água no verão; os museus públicos têm entrada gratuita aos domingos. Consulte sempre os horários oficiais antes da visita."
   }
 }

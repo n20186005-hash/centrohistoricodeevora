@@ -44,7 +44,7 @@ export const siteConfig = {
   plusCode: 'H3CR+86',
   geo: { latitude: 38.570845, longitude: -7.909381 },
   rating: 4.5,
-  reviewCount: 5781,
+  reviewCount: 5862,
   mapsShareUrl: 'https://maps.app.goo.gl/KUS9V88exRzTsuz86',
   mapsEmbedSrc:
     'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5548.291642710998!2d-7.9093811!3d38.57084499999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd19e4dd9f6e5edd%3A0xa4bd2c4b85acf00b!2sCentro%20Hist%C3%B3rico%20de%20%C3%89vora!5e1!3m2!1szh-CN!2s!4v1788515739848!5m2!1szh-CN!2s',
@@ -55,7 +55,7 @@ export const siteConfig = {
   // 首图
   heroImagePath: '/gallery/centro-historico-de-evora (1).jpg',
   gaId: 'G-HXM22WWPKP',
-  lastUpdated: '2026-09-04',
+  lastUpdated: '2026-10-08',
 } as const;
 
 // 用于 OG / JSON-LD 的绝对图片 URL（文件名含空格，需 URL 编码）
