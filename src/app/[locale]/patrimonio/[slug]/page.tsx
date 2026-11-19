@@ -38,7 +38,7 @@ export default async function HeritagePage({ params }: { params: Promise<{locale
     const tr = heritageTranslations[locale][slug];
     const chinese = locale === 'zh';
     const labels = chinese ? {back:'← 返回埃武拉景点', heritage:'历史遗产 · 葡萄牙埃武拉', map:'在 Google 地图查看地点 ↗', history:'历史背景', features:'建筑特色与观察重点', visit:'游览建议', practical:'实用信息', access:'位置与交通', hours:'开放与门票', photo:'摄影建议', nearby:'附近景点', source:'查看资料来源 ↗'} : {back:'← Explore Évora heritage',heritage:'Heritage · Évora, Portugal',map:'Open location in Google Maps ↗',history:'Historical background',features:'Architecture and what to notice',visit:'Visiting advice',practical:'Practical information',access:'Location and transport',hours:'Opening and admission',photo:'Photography',nearby:'Nearby places',source:'Consult heritage source ↗'};
-    return <><Header/><main className="pt-16" style={{color:'var(--text-primary)',background:'var(--bg-primary)'}}>
+    return <><Header solid/><main className="pt-16" style={{color:'var(--text-primary)',background:'var(--bg-primary)'}}>
       <section className="py-16 px-4 sm:px-6" style={{background:'var(--bg-secondary)'}}><div className="max-w-5xl mx-auto">
         <a href={`/${locale}#patrimonio`} className="text-sm hover:underline" style={{color:'var(--accent)'}}>{labels.back}</a>
         <p className="mt-8 text-sm uppercase tracking-widest" style={{color:'var(--accent)'}}>{labels.heritage}</p>
@@ -65,7 +65,7 @@ export default async function HeritagePage({ params }: { params: Promise<{locale
     isPartOf: { '@type': 'Place', name: 'Centro Histórico de Évora', url: `${siteConfig.baseUrl}/pt` },
   };
   return <>
-    <Header />
+    <Header solid />
     <main className="pt-16" style={{ color: 'var(--text-primary)', background: 'var(--bg-primary)' }}>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd).replace(/</g, '\\u003c') }} />
       <section className="py-16 px-4 sm:px-6" style={{ background: 'var(--bg-secondary)' }}>

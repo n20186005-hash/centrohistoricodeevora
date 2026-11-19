@@ -7,7 +7,7 @@ import { useState, useEffect } from 'react';
 
 const NAV_IDS = ['things-to-see', 'gallery', 'reviews', 'faq', 'map'] as const;
 
-export default function Header() {
+export default function Header({ solid = false }: { solid?: boolean }) {
   const t = useTranslations('header');
   const locale = useLocale();
   const [scrolled, setScrolled] = useState(false);
@@ -31,29 +31,29 @@ export default function Header() {
     <header
       className="fixed top-0 left-0 right-0 z-50 transition-all duration-300"
       style={{
-        background: scrolled ? 'var(--bg-secondary)' : 'transparent',
-        borderBottom: scrolled ? '1px solid var(--border-color)' : 'none',
-        backdropFilter: scrolled ? 'blur(12px)' : 'none',
+        background: scrolled || solid ? 'var(--bg-secondary)' : 'transparent',
+        borderBottom: scrolled || solid ? '1px solid var(--border-color)' : 'none',
+        backdropFilter: scrolled || solid ? 'blur(12px)' : 'none',
       }}
     >
       <div className="max-w-6xl mx-auto px-4 sm:px-6 h-16 flex items-center justify-between">
         <a
           href={base}
           className="font-display text-lg font-semibold tracking-tight"
-          style={{ color: scrolled ? 'var(--text-primary)' : '#fff' }}
+          style={{ color: scrolled || solid ? 'var(--text-primary)' : '#fff' }}
         >
           Centro Histórico de Évora
         </a>
 
         <nav className="hidden lg:flex items-center gap-6" aria-label="Main">
-          {(locale === 'pt' || locale === 'en' || locale === 'zh') && <a href={`${base}/#patrimonio`} className="text-sm font-medium transition-colors" style={{ color: scrolled ? 'var(--text-secondary)' : 'rgba(255,255,255,0.85)' }}>{locale === 'zh' ? '周边景点' : locale === 'en' ? 'Explore' : 'Património'}</a>}
+          {(locale === 'pt' || locale === 'en' || locale === 'zh') && <a href={`${base}/#patrimonio`} className="text-sm font-medium transition-colors" style={{ color: scrolled || solid ? 'var(--text-secondary)' : 'rgba(255,255,255,0.85)' }}>{locale === 'zh' ? '周边景点' : locale === 'en' ? 'Explore' : 'Património'}</a>}
           {NAV_IDS.map((id) => (
             <a
               key={id}
               href={`${base}/#${id}`}
               className="text-sm font-medium transition-colors"
               style={{
-                color: scrolled ? 'var(--text-secondary)' : 'rgba(255,255,255,0.85)',
+                color: scrolled || solid ? 'var(--text-secondary)' : 'rgba(255,255,255,0.85)',
               }}
             >
               {t(navLabelKey[id] as any)}
