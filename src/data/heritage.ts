@@ -33,7 +33,7 @@ export const heritagePlaces: HeritagePlace[] = [
     access:'Jardim Público de Évora, junto à Rua da República, Évora, Portugal. A pé desde a Igreja de São Francisco e o centro histórico.',
     hours:'A abertura dos portões e o acesso a zonas interiores podem variar com manutenção e eventos municipais; consulte os avisos locais.',price:'O passeio pelas áreas públicas do jardim é normalmente gratuito; exposições ou eventos podem ter condições próprias.',
     faq:[{question:'O Jardim Público é o mesmo lugar que o Palácio de D. Manuel?',answer:'Não. O jardim é o espaço verde; o palácio é um monumento histórico que se encontra no seu interior.'},{question:'Quanto tempo reservar para o jardim?',answer:'Um passeio de 30–60 minutos permite observar as alamedas, as ruínas fingidas e o palácio.'}],
-    source:'https://www.cm-evora.pt/municipe/areas-de-acao/ambiente/espacos-verdes-jardins-e-lagos/',mapQuery:'Jardim Público de Évora, Rua da República, Évora, Portugal',image:'https://commons.wikimedia.org/wiki/Special:FilePath/Jardim_P%C3%BAblico_de_%C3%89vora.jpg',
+    source:'https://www.cm-evora.pt/municipe/areas-de-acao/ambiente/espacos-verdes-jardins-e-lagos/',mapQuery:'Jardim Público de Évora, Rua da República, Évora, Portugal',image:'/heritage/jardim-publico-de-evora.jpg',
   },
   {
     slug:'chafariz-das-portas-de-moura',name:'Chafariz das Portas de Moura',subtitle:'Fonte maneirista e memória da água no espaço urbano de Évora',
@@ -48,7 +48,7 @@ export const heritagePlaces: HeritagePlace[] = [
     access:'Largo das Portas de Moura, Évora, Portugal. Acesso a pé pela malha histórica; confirme a travessia em ruas com trânsito.',
     hours:'Monumento exterior observável do espaço público, sujeito a eventuais condicionamentos de obras e circulação.',price:'Sem bilhete para observar a fonte a partir do espaço público.',
     faq:[{question:'A fonte está ligada ao Aqueduto da Água de Prata?',answer:'Integra a história do abastecimento de água da cidade, transformado pelas obras renascentistas do aqueduto.'},{question:'É a mesma fonte da Praça do Giraldo?',answer:'Não. É um chafariz distinto nas Portas de Moura, cuja tipologia antecede a solução da Praça do Giraldo.'}],
-    source:'https://www.cm-evora.pt/locais/chafariz-das-portas-de-moura/',mapQuery:'Chafariz das Portas de Moura, Largo das Portas de Moura, Évora, Portugal',image:'https://commons.wikimedia.org/wiki/Special:FilePath/Chafariz_das_Portas_de_Moura_-_%C3%89vora_-_Portugal_%2852364023257%29.jpg',
+    source:'https://www.cm-evora.pt/locais/chafariz-das-portas-de-moura/',mapQuery:'Chafariz das Portas de Moura, Largo das Portas de Moura, Évora, Portugal',image:'/heritage/chafariz-das-portas-de-moura.jpg',
   },
   {
     slug:'igreja-do-espirito-santo-de-evora',name:'Igreja do Espírito Santo de Évora',subtitle:'Uma igreja maneirista de tradição jesuíta junto à universidade',
@@ -63,7 +63,7 @@ export const heritagePlaces: HeritagePlace[] = [
     access:'Largo dos Colegiais, 1, 7000-803 Évora, Portugal. A igreja fica junto ao Colégio do Espírito Santo; siga até à sua entrada própria.',
     hours:'O acesso interior depende dos horários de culto e abertura da igreja; confirme junto da instituição.',price:'Observação exterior a partir do espaço público sem bilhete; eventuais visitas interiores seguem regras locais.',
     faq:[{question:'A Igreja do Espírito Santo faz parte do Colégio?',answer:'Os dois edifícios integram a história do conjunto jesuíta, mas possuem funções e regras de acesso distintas.'},{question:'O que observar na fachada?',answer:'O pórtico de sete arcadas redondas é um dos elementos mais característicos da composição maneirista.'}],
-    source:'https://www.visitportugal.com/pt-pt/content/igreja-do-espirito-santo-evora',mapQuery:'Igreja do Espírito Santo, Largo dos Colegiais 1, 7000-803 Évora, Portugal',image:'https://commons.wikimedia.org/wiki/Special:FilePath/Igreja_do_Esp%C3%ADrito_Santo_%2844042130242%29.jpg',
+    source:'https://www.visitportugal.com/pt-pt/content/igreja-do-espirito-santo-evora',mapQuery:'Igreja do Espírito Santo, Largo dos Colegiais 1, 7000-803 Évora, Portugal',image:'/heritage/igreja-do-espirito-santo-de-evora.jpg',
   },
   {
     slug:'palacio-dos-duques-de-cadaval',name:'Palácio dos Duques de Cadaval',subtitle:'Residência nobre, torres medievais e património junto ao Templo Romano',
@@ -79,7 +79,7 @@ export const heritagePlaces: HeritagePlace[] = [
     hours:'A Casa Cadaval publica os horários do palácio e das áreas visitáveis. Eventos e manutenção podem alterar a circulação; consulte os canais do palácio antes da visita.',
     price:'A visita ao museu e à igreja pode exigir bilhete. Consulte a bilheteira oficial para preços, descontos e modalidades atualizadas.',
     faq:[{question:'O palácio é ainda uma residência privada?',answer:'Sim. O conjunto permanece ligado à família Cadaval; apenas espaços e percursos definidos pelo gestor estão abertos à visita.'},{question:'Posso combinar o palácio com o Templo Romano?',answer:'Sim. Os dois monumentos são vizinhos, tornando natural uma visita conjunta a pé.'}],
-    source:'https://palaciocadaval.com/sobre/',mapQuery:'Palácio dos Duques de Cadaval, Rua Augusto Filipe Simões, Évora, Portugal',image:'https://commons.wikimedia.org/wiki/Special:FilePath/Pal%C3%A1cio_dos_Duques_de_Cadaval_-_%C3%89vora_-_Portugal_%288027820791%29.jpg',
+    source:'https://palaciocadaval.com/sobre/',mapQuery:'Palácio dos Duques de Cadaval, Rua Augusto Filipe Simões, Évora, Portugal',image:'/heritage/palacio-dos-duques-de-cadaval.jpg',
   },
   {
     slug:'igreja-da-misericordia-de-evora',name:'Igreja da Misericórdia de Évora',subtitle:'Azulejos narrativos, talha dourada e a história da assistência em Évora',
@@ -95,7 +95,7 @@ export const heritagePlaces: HeritagePlace[] = [
     hours:'A abertura da igreja e do museu pode depender de celebrações e programação. Confirme o acesso junto da instituição antes da deslocação.',
     price:'Bilhetes e condições de entrada variam conforme os espaços visitáveis e a programação; consulte a Santa Casa ou a informação no local.',
     faq:[{question:'O que representam os azulejos?',answer:'Os painéis ilustram as Obras da Misericórdia e são uma das principais razões para visitar o interior.'},{question:'A igreja e o museu têm a mesma entrada?',answer:'As condições do circuito podem variar. Consulte os avisos da instituição para conhecer os espaços abertos.'}],
-    source:'https://www.cm-evora.pt/locais/igreja-e-museu-da-misericordia/',mapQuery:'Igreja da Misericórdia, Largo da Misericórdia, Évora, Portugal',image:'https://commons.wikimedia.org/wiki/Special:FilePath/Igreja_da_Miseric%C3%B3rdia_de_%C3%89vora_%287%29.jpg',
+    source:'https://www.cm-evora.pt/locais/igreja-e-museu-da-misericordia/',mapQuery:'Igreja da Misericórdia, Largo da Misericórdia, Évora, Portugal',image:'/heritage/igreja-da-misericordia-de-evora.jpg',
   },
   {
     slug:'ermida-de-sao-bras',name:'Ermida de São Brás',subtitle:'Um marco tardo-gótico e manuelino-mudéjar fora das muralhas de Évora',
@@ -111,7 +111,7 @@ export const heritagePlaces: HeritagePlace[] = [
     hours:'O exterior pode ser observado do espaço público; a abertura interior depende das condições religiosas e locais.',
     price:'Sem bilhete para contemplar a fachada desde o exterior público; confirme condições de entrada para visitas especiais.',
     faq:[{question:'A Ermida de São Brás fica dentro das muralhas?',answer:'Não. O monumento situa-se fora da cerca histórica, junto à área do Rossio.'},{question:'Por que foi construída?',answer:'Foi mandada construir em 1480 por D. João II numa área associada anteriormente a assistência aos doentes.'}],
-    source:'https://www.visitportugal.com/pt-pt/content/ermida-de-sao-bras',mapQuery:'Ermida de São Brás, Rossio de São Brás, Évora, Portugal',image:'https://commons.wikimedia.org/wiki/Special:FilePath/Ermida_de_S%C3%A3o_Br%C3%A1s_%28%C3%89vora%29_66.jpg',
+    source:'https://www.visitportugal.com/pt-pt/content/ermida-de-sao-bras',mapQuery:'Ermida de São Brás, Rossio de São Brás, Évora, Portugal',image:'/heritage/ermida-de-sao-bras.jpg',
   },
   {
     slug:'igreja-da-graca',name:'Igreja da Graça',subtitle:'Uma fachada renascentista singular no centro de Évora',
@@ -126,7 +126,7 @@ export const heritagePlaces: HeritagePlace[] = [
     access:'Travessa do Landim, centro histórico de Évora, Portugal. A pé desde a Praça do Giraldo ou a Igreja de São Francisco; o pavimento histórico pode ser irregular.',
     hours:'A observação exterior depende do espaço público. Entrada no templo apenas conforme os horários e regras locais.',price:'Sem bilhete para observar a fachada da rua; confirme condições para eventual visita interior.',
     faq:[{question:'O que torna a Igreja da Graça diferente?',answer:'A fachada renascentista com figuras esculpidas no coroamento é a característica visual mais conhecida.'},{question:'Posso visitar o interior?',answer:'O acesso não deve ser presumido. Verifique no local os horários de abertura e a possibilidade de visita.'}],
-    source:'https://www.visitportugal.com/pt-pt/content/igreja-da-graca-evora',mapQuery:'Igreja da Graça, Travessa do Landim, Évora, Portugal',image:'https://commons.wikimedia.org/wiki/Special:FilePath/Igreja_da_Gra%C3%A7a_%28%C3%89vora%29.jpg',
+    source:'https://www.visitportugal.com/pt-pt/content/igreja-da-graca-evora',mapQuery:'Igreja da Graça, Travessa do Landim, Évora, Portugal',image:'/heritage/igreja-da-graca.jpg',
   },
   {
     slug:'igreja-dos-loios',name:'Igreja dos Lóios (São João Evangelista)',subtitle:'Gótico-manuelino e azulejos históricos ao lado do Templo Romano',
@@ -141,7 +141,7 @@ export const heritagePlaces: HeritagePlace[] = [
     access:'Junto ao Largo do Conde de Vila Flor e à área do Palácio de Cadaval, centro histórico de Évora, Portugal.',
     hours:'Visita interior dependente do funcionamento do circuito patrimonial; confirme horários antes de se deslocar.',price:'O acesso interior pode integrar um bilhete de visita; consulte a entidade responsável.',
     faq:[{question:'Igreja dos Lóios e São João Evangelista são o mesmo monumento?',answer:'Sim. São nomes usados para a igreja ligada ao antigo convento dos Lóios.'},{question:'Qual é a principal atração interior?',answer:'Os painéis de azulejos históricos narram episódios da vida de São Lourenço Justiniano.'}],
-    source:'https://www.visitportugal.com/pt-pt/NR/exeres/32E691D3-0E7D-47CF-97E7-F3AA635A45AA',mapQuery:'Igreja de São João Evangelista Igreja dos Lóios, Évora, Portugal',image:'https://commons.wikimedia.org/wiki/Special:FilePath/Igreja_dos_Loios_-_%C3%89vora_-_Portugal_%282318754280%29.jpg',
+    source:'https://www.visitportugal.com/pt-pt/NR/exeres/32E691D3-0E7D-47CF-97E7-F3AA635A45AA',mapQuery:'Igreja de São João Evangelista Igreja dos Lóios, Évora, Portugal',image:'/heritage/igreja-dos-loios.jpg',
   },
   {
     slug:'colegio-do-espirito-santo',name:'Colégio do Espírito Santo',subtitle:'O claustro universitário que guarda séculos de ensino em Évora',
@@ -156,7 +156,7 @@ export const heritagePlaces: HeritagePlace[] = [
     access:'Largo dos Colegiais, Évora, Portugal. Acesso a pé a partir da zona alta do centro histórico.',
     hours:'Abertura de zonas universitárias e visitas patrimoniais varia com o calendário académico. Consulte a Universidade de Évora.',price:'Acesso a eventos, visitas ou circuitos específicos depende das regras da universidade; confirme antes da deslocação.',
     faq:[{question:'O colégio ainda funciona como universidade?',answer:'Sim. O edifício é património universitário e mantém funções académicas.'},{question:'Posso entrar em todas as salas?',answer:'Não. Respeite as áreas autorizadas, as aulas e as informações da Universidade de Évora.'}],
-    source:'https://atom.uevora.pt/index.php/colegio-do-espirito-santo-de-evora',mapQuery:'Colégio do Espírito Santo Universidade de Évora, Largo dos Colegiais, Évora, Portugal',image:'https://commons.wikimedia.org/wiki/Special:FilePath/Universidade_de_%C3%89vora_-_Claustro_geral_dos_Estudos_%281%29.jpg',
+    source:'https://atom.uevora.pt/index.php/colegio-do-espirito-santo-de-evora',mapQuery:'Colégio do Espírito Santo Universidade de Évora, Largo dos Colegiais, Évora, Portugal',image:'/heritage/colegio-do-espirito-santo.jpg',
   },
   {
     slug: 'templo-romano-de-evora', name: 'Templo Romano de Évora',
