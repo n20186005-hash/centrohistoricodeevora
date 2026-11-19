@@ -46,6 +46,7 @@ export default function Header() {
         </a>
 
         <nav className="hidden lg:flex items-center gap-6" aria-label="Main">
+          {locale === 'pt' && <a href={`${base}/#patrimonio`} className="text-sm font-medium transition-colors" style={{ color: scrolled ? 'var(--text-secondary)' : 'rgba(255,255,255,0.85)' }}>Património</a>}
           {NAV_IDS.map((id) => (
             <a
               key={id}

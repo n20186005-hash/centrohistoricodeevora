@@ -1,12 +1,13 @@
 import { MetadataRoute } from 'next';
 import { siteConfig, localeHome, LOCALES } from '@/config';
+import { heritagePlaces } from '@/data/heritage';
 
 export const dynamic = 'force-static';
 
 const ROUTES = ['', '/privacy-policy', '/terms-of-service', '/cookie-settings'];
 
 // 葡语专属攻略页（仅 pt 语言版本）
-const PT_GUIDE_ROUTES = ['/o-que-visitar-em-evora', '/evora-em-um-dia'];
+const PT_GUIDE_ROUTES = ['/o-que-visitar-em-evora', '/evora-em-um-dia', ...heritagePlaces.map((place) => `/patrimonio/${place.slug}`)];
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const sitemap: MetadataRoute.Sitemap = [];
