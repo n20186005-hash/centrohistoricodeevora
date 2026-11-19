@@ -60,10 +60,10 @@ export const heritagePlaces: HeritagePlace[] = [
     visit:'Reserve 20–45 minutos para o exterior e eventual acesso interior. Combine com o Colégio do Espírito Santo, respeitando as diferenças entre áreas universitárias e religiosas.',
     route:['Comece pela fachada e observe o ritmo dos sete arcos','Se o templo estiver aberto, siga apenas as zonas permitidas sem perturbar celebrações','Continue a pé para o Colégio do Espírito Santo e a zona da Sé'],
     photography:'Fotografe a fachada num ângulo que permita ler as sete arcadas; no interior, respeite os avisos sobre imagens, flash e serviços religiosos.',
-    access:'Zona da Rua do Cardeal Rei e do Colégio do Espírito Santo, centro histórico de Évora, Portugal. Consulte o mapa para a entrada específica da igreja.',
+    access:'Largo dos Colegiais, 1, 7000-803 Évora, Portugal. A igreja fica junto ao Colégio do Espírito Santo; siga até à sua entrada própria.',
     hours:'O acesso interior depende dos horários de culto e abertura da igreja; confirme junto da instituição.',price:'Observação exterior a partir do espaço público sem bilhete; eventuais visitas interiores seguem regras locais.',
     faq:[{question:'A Igreja do Espírito Santo faz parte do Colégio?',answer:'Os dois edifícios integram a história do conjunto jesuíta, mas possuem funções e regras de acesso distintas.'},{question:'O que observar na fachada?',answer:'O pórtico de sete arcadas redondas é um dos elementos mais característicos da composição maneirista.'}],
-    source:'https://www.visitportugal.com/pt-pt/content/igreja-do-espirito-santo-evora',mapQuery:'Igreja do Espírito Santo, Évora, Portugal',image:'https://commons.wikimedia.org/wiki/Special:FilePath/Igreja_do_Esp%C3%ADrito_Santo_%2844042130242%29.jpg',
+    source:'https://www.visitportugal.com/pt-pt/content/igreja-do-espirito-santo-evora',mapQuery:'Igreja do Espírito Santo, Largo dos Colegiais 1, 7000-803 Évora, Portugal',image:'https://commons.wikimedia.org/wiki/Special:FilePath/Igreja_do_Esp%C3%ADrito_Santo_%2844042130242%29.jpg',
   },
   {
     slug:'palacio-dos-duques-de-cadaval',name:'Palácio dos Duques de Cadaval',subtitle:'Residência nobre, torres medievais e património junto ao Templo Romano',
