@@ -33,19 +33,10 @@ export default function sitemap(): MetadataRoute.Sitemap {
   }
 
   for (const route of PT_GUIDE_ROUTES) {
-    const url = localeHome('pt') + route;
-    sitemap.push({
-      url,
-      lastModified: new Date(siteConfig.lastUpdated),
-      changeFrequency: 'weekly',
-      priority: 0.8,
-      alternates: {
-        languages: {
-          pt: url,
-          'x-default': url,
-        } as Record<string, string>,
-      },
-    });
+    const isHeritage = route.startsWith('/patrimonio/');
+    const locales = isHeritage ? ['pt', 'en', 'zh'] : ['pt'];
+    const languages = isHeritage ? { pt: localeHome('pt') + route, en: localeHome('en') + route, 'zh-CN': localeHome('zh') + route, 'x-default': localeHome('pt') + route } : { pt: localeHome('pt') + route, 'x-default': localeHome('pt') + route };
+    for (const locale of locales) sitemap.push({ url: localeHome(locale) + route, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.8, alternates: { languages } });
   }
 
   return sitemap;

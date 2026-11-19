@@ -39,7 +39,7 @@ export default async function HomePage({
         <Hero />
         <Intro />
         <ThingsToSeeSection />
-        {locale === 'pt' && <HeritageSection />}
+        {(locale === 'pt' || locale === 'en' || locale === 'zh') && <HeritageSection locale={locale} />}
         <StoriesSection />
         <BasicInfo />
         <HoursSection />

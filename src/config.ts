@@ -19,7 +19,7 @@ export const DEFAULT_LOCALE: SiteLocale = 'pt';
 
 // 域名单点解析：部署时可通过环境变量 CURRENT_SITE_DOMAIN 覆盖（不写死），
 // 未设置时回退到默认正式域名。避免 canonical / hreflang / OG / JSON-LD 指向错误站点。
-const DEFAULT_DOMAIN = 'centrohistoricodeevora.com';
+const DEFAULT_DOMAIN = 'www.centrohistoricodeevora.com';
 
 function resolveBaseUrl(): string {
   const candidate =
