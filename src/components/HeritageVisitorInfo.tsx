@@ -9,9 +9,30 @@ const copy = {
 
 export default function HeritageVisitorInfo({place,locale,mapUrl}:{place:HeritagePlace;locale:'pt'|'en'|'zh'|'mwl';mapUrl:string}){
   const t=copy[locale];
+  const extra = {
+    pt:{plan:'Conselhos para explorar',highlights:'O que torna este lugar especial',hours:'Horários e condições de abertura',tickets:'Bilhetes e preços',walk:'A pé no centro histórico',road:'De carro e estacionamento',publicTransport:'Transportes públicos',culture:'Património e contexto cultural',responsible:'Cuidados durante a visita',navigation:'Abrir a localização exata no Google Maps',roadText:'Na cidade histórica há ruas estreitas e zonas com restrição automóvel. Consulte os parques públicos autorizados e conclua o percurso a pé.',publicText:'Chegue primeiro a Évora por transporte regional e consulte horários e ligações locais atualizados; a última etapa costuma ser pedonal.'},
+    en:{plan:'How to plan your visit',highlights:'Why this place stands out',hours:'Opening hours and access',tickets:'Tickets and prices',walk:'Walking in the old town',road:'Driving and parking',publicTransport:'Public transport',culture:'Heritage and cultural context',responsible:'Before you enter',navigation:'Open this specific place in Google Maps',roadText:'The old town has narrow streets and driving restrictions. Check authorised public parking areas and complete the approach on foot.',publicText:'Use regional services to Évora, check current timetables and connections, and walk the final stretch to the monument.'},
+    zh:{plan:'游览建议与停留时间',highlights:'景点特色与观察重点',hours:'开放时间与入内条件',tickets:'门票与收费',walk:'老城步行到达',road:'自驾及停车',publicTransport:'公共交通',culture:'历史文化与参观体验',responsible:'游览须知',navigation:'在 Google 地图查看该景点的具体位置',roadText:'老城区有狭窄街道和车辆限制。自驾请先查询允许使用的公共停车区域，再步行进入历史城区。',publicText:'可先搭乘城际列车或巴士抵达埃武拉，核对最新时刻与当地接驳方式，最后一段通常适合步行。'},
+    mwl:{plan:'Cunseilhos pa la besita',highlights:'L que faz special este lhugar',hours:'Horários i cundiçones',tickets:'Bilhetes i preços',walk:'A pie ne l centro stórico',road:'De carro i stacionamento',publicTransport:'Transportes públicos',culture:'Património i cultura',responsible:'Cuidados na besita',navigation:'Ber l lhugar ne l Google Maps',roadText:'Ne l centro stórico hai ruas estreitas i restriçones pa ls carros. Procure stacionamento público permitido i siga a pie.',publicText:'Chegue a Ébora cun transportes regionales, confirme ls horários i faça l último troço a pie.'},
+  }[locale];
   return <section className="space-y-7" aria-label={t.heading}>
+    <div className="grid md:grid-cols-2 gap-5">
+      <div className="rounded-2xl p-6" style={{background:'var(--bg-secondary)'}}><h2 className="text-xl font-semibold mb-3">{extra.plan}</h2><p>{place.visit}</p></div>
+      <div className="rounded-2xl p-6" style={{background:'var(--bg-secondary)'}}><h2 className="text-xl font-semibold mb-3">{extra.highlights}</h2><ul className="list-disc pl-5 space-y-2">{place.observe.map(item=><li key={item}>{item}</li>)}</ul></div>
+    </div>
     <h2 className="font-display text-2xl font-bold">{t.heading}</h2>
     <dl className="grid sm:grid-cols-2 gap-4">{[[t.name,place.name],[t.address,place.access],[t.duration,place.visit],[t.status,place.hours]].map(([label,value])=><div key={label} className="rounded-xl border p-5" style={{borderColor:'var(--border-color)'}}><dt className="font-semibold mb-2">{label}</dt><dd className="text-sm" style={{color:'var(--text-secondary)'}}>{value}</dd></div>)}</dl>
+    <div className="grid md:grid-cols-2 gap-5">
+      <section className="rounded-2xl border p-6" style={{borderColor:'var(--border-color)'}}><h3 className="text-xl font-semibold mb-3">{extra.hours}</h3><p>{place.hours}</p></section>
+      <section className="rounded-2xl border p-6" style={{borderColor:'var(--border-color)'}}><h3 className="text-xl font-semibold mb-3">{extra.tickets}</h3><p>{place.price}</p></section>
+    </div>
+    <section className="space-y-4"><h3 className="text-xl font-semibold">{t.transport}</h3><div className="grid md:grid-cols-3 gap-4">
+      <div className="rounded-xl border p-5" style={{borderColor:'var(--border-color)'}}><h4 className="font-semibold mb-2">{extra.walk}</h4><p className="text-sm">{place.access}</p></div>
+      <div className="rounded-xl border p-5" style={{borderColor:'var(--border-color)'}}><h4 className="font-semibold mb-2">{extra.road}</h4><p className="text-sm">{extra.roadText}</p></div>
+      <div className="rounded-xl border p-5" style={{borderColor:'var(--border-color)'}}><h4 className="font-semibold mb-2">{extra.publicTransport}</h4><p className="text-sm">{extra.publicText}</p></div>
+    </div><a href={mapUrl} target="_blank" rel="noopener noreferrer" className="underline text-sm font-semibold" style={{color:'var(--accent)'}}>{extra.navigation}</a></section>
+    <section className="rounded-2xl p-6" style={{background:'var(--bg-secondary)'}}><h3 className="text-xl font-semibold mb-3">{extra.culture}</h3><p>{place.history}</p><p className="mt-3">{place.architecture}</p></section>
+    <section className="rounded-2xl border p-6" style={{borderColor:'var(--border-color)'}}><h3 className="text-xl font-semibold mb-3">{extra.responsible}</h3><p>{place.photography}</p><p className="mt-3">{place.hours}</p></section>
     <div className="grid md:grid-cols-2 gap-5"><div className="rounded-2xl p-6" style={{background:'var(--bg-secondary)'}}><h3 className="text-xl font-semibold mb-3">{t.transport}</h3><p>{t.transportText}</p><p className="mt-3 text-sm">{place.access}</p></div><div className="rounded-2xl p-6" style={{background:'var(--bg-secondary)'}}><h3 className="text-xl font-semibold mb-3">{t.reviews}</h3><p>{t.reviewText}</p><a href={mapUrl} target="_blank" rel="noopener noreferrer" className="inline-block mt-4 font-semibold underline" style={{color:'var(--accent)'}}>{t.reviewLink}</a></div></div>
     <section className="rounded-2xl border p-6" style={{borderColor:'var(--border-color)'}}><h3 className="text-xl font-semibold mb-3">{t.stay}</h3><p>{t.stayText}</p></section>
   </section>;
