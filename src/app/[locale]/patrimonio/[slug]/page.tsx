@@ -3,6 +3,7 @@ import { notFound } from 'next/navigation';
 import { setRequestLocale } from 'next-intl/server';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
+import HeritageVisitorInfo from '@/components/HeritageVisitorInfo';
 import { heritagePlaces } from '@/data/heritage';
 import { heritageTranslations } from '@/data/heritageTranslations';
 import { heritageDeepTranslations } from '@/data/heritageDeepTranslations';
@@ -67,6 +68,7 @@ export default async function HeritagePage({ params }: { params: Promise<{locale
       <div className="max-w-5xl mx-auto px-4 sm:px-6 py-12 space-y-14 leading-relaxed">
         <section><h2 className="font-display text-3xl font-bold mb-4">{labels.discover} {tr.name}</h2><p>{tr.intro}</p></section>
         <section className="rounded-2xl p-7" style={{background:'var(--bg-secondary)'}}><h2 className="font-display text-2xl font-bold mb-3">{labels.management}</h2><p>{deep.management}</p></section>
+        <HeritageVisitorInfo place={{...place,name:tr.name,subtitle:tr.subtitle,introduction:tr.intro,history:tr.history,architecture:tr.features,visit:tr.visit,...deep}} locale={locale} mapUrl={mapUrl}/>
         <div className="grid md:grid-cols-2 gap-8"><section><h2 className="text-2xl font-semibold mb-3">{labels.history}</h2><p>{tr.history}</p></section><section><h2 className="text-2xl font-semibold mb-3">{labels.features}</h2><p>{tr.features}</p></section></div>
         <section><h2 className="text-2xl font-semibold mb-4">{labels.observe}</h2><ul className="list-disc pl-6 space-y-3">{deep.observe.map(item=><li key={item}>{item}</li>)}</ul></section>
         <section id="informacoes"><h2 className="text-2xl font-semibold mb-4">{labels.practical}</h2><div className="grid sm:grid-cols-2 gap-4">{[[labels.access,deep.access],[labels.hours,deep.hours],[labels.price,deep.price],[labels.visit,tr.visit]].map(([label,value])=><div key={label} className="rounded-xl p-5 border" style={{borderColor:'var(--border-color)'}}><h3 className="font-semibold mb-2">{label}</h3><p className="text-sm" style={{color:'var(--text-secondary)'}}>{value}</p></div>)}</div></section>
@@ -108,6 +110,7 @@ export default async function HeritagePage({ params }: { params: Promise<{locale
       <div className="max-w-5xl mx-auto px-4 sm:px-6 py-12 space-y-14 leading-relaxed">
         <section><h2 className="font-display text-3xl font-bold mb-4">Descobrir {place.name}</h2><p>{place.introduction}</p></section>
         <section className="rounded-2xl p-7" style={{ background: 'var(--bg-secondary)' }}><h2 className="font-display text-2xl font-bold mb-3">Sobre a gestão e conservação</h2><p>{place.management}</p></section>
+        <HeritageVisitorInfo place={place} locale="pt" mapUrl={mapUrl}/>
         <div className="grid md:grid-cols-2 gap-8">
           <section><h2 className="text-2xl font-semibold mb-3">História</h2><p>{place.history}</p></section>
           <section><h2 className="text-2xl font-semibold mb-3">Arquitetura e paisagem</h2><p>{place.architecture}</p></section>
