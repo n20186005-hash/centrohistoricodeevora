@@ -24,7 +24,7 @@
     "imgAlt": "Centro Histórico de Évora - o centro histórico classificado da UNESCO em Évora, Alentejo, Portugal"
   },
   "intro": {
-    "title": "Explore Centro Histórico de Évora",
+    "title": "Explorar o Centro Histórico de Évora",
     "description": "Bem-vindo ao Centro Histórico de Évora, conhecido como o coração histórico da cidade de Évora, capital histórica da região portuguesa do Alentejo, classificado como Património Mundial da UNESCO. O centro histórico estende-se pelas colinas suaves do Alentejo e é delimitado por muralhas medievais, o que lhe valeu o título de museu a céu aberto. Aqui confluem mais de dois mil anos de civilização, preservando ruínas romanas, ruelas de influência muçulmana, igrejas góticas e arquitetura civil renascentista. O centro histórico organiza-se em torno da Praça do Giraldo, de onde irradiam ruelas antigas e sinuosas. O Jardim Diana ocupa a zona alta da cidade, ligando o Templo Romano de Évora ao conjunto episcopal. Paredes caiadas com varandas de ferro forjado e azulejos pintados à mão formam a paisagem mais característica das ruas. A partir do centro, os visitantes podem caminhar facilmente entre os monumentos emblemáticos de Évora - o Templo Romano, a Sé Catedral, a Capela dos Ossos e o Aqueduto da Água de Prata - descritos em pormenor nas secções seguintes.",
     "visitGuide": {
       "title": "Dicas para a Visita",
@@ -412,7 +412,7 @@
     "rejectAll": "Rejeitar Todos"
   },
   "officialManagement": {
-    "title": "About Centro Histórico de Évora",
+    "title": "Sobre o Centro Histórico de Évora",
     "text": "O Centro Histórico de Évora é o centro histórico de Évora classificado como Património Mundial da UNESCO (inscrito em 1986, ref. 361), capital da região portuguesa do Alentejo. Este website é um guia de visita independente e não tem qualquer afiliação oficial; para informação autorizada consulte sempre a Câmara Municipal de Évora e a Direção-Geral do Património Cultural."
   },
   "breadcrumb": {

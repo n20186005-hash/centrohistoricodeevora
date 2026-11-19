@@ -80,5 +80,39 @@ for (const locale of FILES) {
   }
 }
 
+// Check actual display strings, not source-code comments or URLs.
+function leafStrings(value, path = '', result = {}) {
+  if (typeof value === 'string') result[path] = value;
+  else if (value !== null && typeof value === 'object') {
+    for (const [key, child] of Object.entries(value)) {
+      leafStrings(child, path ? `${path}.${key}` : key, result);
+    }
+  }
+  return result;
+}
+
+const english = leafStrings(load('en'));
+const mirandese = leafStrings(load('mwl'));
+const MARKDOWN_LEAK = /(^|\n)\s*(?:#{2,6}\s|\*\s{2,}|>\s)|\*\*[^*]+\*\*|<!--|\/\*[^]*?\*\//;
+for (const locale of FILES) {
+  for (const [path, value] of Object.entries(leafStrings(load(locale)))) {
+    if (/\.url$/.test(path)) continue;
+    if (MARKDOWN_LEAK.test(value)) {
+      fail = 1;
+      console.error(`[${locale}] VISIBLE MARKDOWN/COMMENT MARKER at ${path}`);
+    }
+    if (locale === 'en' && /[\u3400-\u9fff]/u.test(value)) {
+      fail = 1;
+      console.error(`[en] CJK TEXT at ${path}`);
+    }
+  }
+}
+for (const [path, value] of Object.entries(english)) {
+  if (path !== 'hero.subtitle' && value === mirandese[path] && value.trim().split(/\s+/).length >= 7) {
+    fail = 1;
+    console.error(`[mwl] ENGLISH SENTENCE NOT TRANSLATED at ${path}`);
+  }
+}
+
 console.log(fail ? 'FAIL' : `PARITY OK — ${FILES.length} files, ${ref.length} structural tokens`);
 process.exit(fail);

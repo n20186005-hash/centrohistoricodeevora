@@ -637,6 +637,30 @@
       }
     ]
   },
+  "guideOQueVisitar": {
+    "title": "What to See in Évora: Historic Sights, Walking Route and Map",
+    "description": "Explore Évora's UNESCO-listed historic centre with its Roman Temple, Cathedral, Chapel of Bones and practical one-day walking route.",
+    "h1": "What to See in Évora",
+    "intro": "Évora's historic centre brings two thousand years of history together within a compact walking area. The Roman Temple, Cathedral, Chapel of Bones, Giraldo Square and Água de Prata Aqueduct are all close enough to combine on foot. Use this guide to choose highlights and plan your day.",
+    "listTitle": "Essential Places in the Historic Centre",
+    "planTitle": "How to Plan One Day in Évora",
+    "planText": "Start at Giraldo Square and walk up to the Cathedral and its viewing terrace. Continue to the Chapel of Bones, then see Jardim Diana and the Roman Temple. Allow time for the university, national museum and city walls before returning to the centre for evening light.",
+    "faqTitle": "Frequently Asked Questions About Visiting Évora"
+  },
+  "guideEvoraUmDia": {
+    "title": "Évora in One Day: Walking Itinerary, Hours and Tips",
+    "description": "Plan one day in Évora with a practical walking itinerary, suggested stops, transport and parking guidance.",
+    "h1": "Évora in One Day",
+    "intro": "One full day lets you discover Évora's main historic landmarks at an unhurried pace. This route groups nearby sights and leaves room for a break in Giraldo Square.",
+    "morningTitle": "Morning",
+    "morningText": "Giraldo Square → Évora Cathedral and viewing terrace → Jardim Diana and the outdoor Roman Temple. Start early to avoid peak heat and larger groups.",
+    "afternoonTitle": "Afternoon",
+    "afternoonText": "Chapel of Bones → São Francisco Church → University of Évora and tiled cloisters → city walls and gates. If time allows, visit the National Museum beside the Roman Temple.",
+    "eveningTitle": "Evening",
+    "eveningText": "Return to Giraldo Square for dinner and take photos of the Roman Temple after dark. Cafés and restaurants bring the old town to life in the evening.",
+    "tipsTitle": "Practical Tips for a One-Day Visit",
+    "tipsText": "Check authorised parking outside the walls, wear comfortable shoes on the cobblestones and carry water in summer. Verify current opening hours and ticket arrangements before setting out."
+  },
   "weather": {
     "title": "Évora Weather Today & Multi-Day Forecast",
     "subtitle": "Live and multi-day weather for the Historic Centre of Évora (Jardim Diana). Check before you head out — if rain is expected, grab an umbrella.",

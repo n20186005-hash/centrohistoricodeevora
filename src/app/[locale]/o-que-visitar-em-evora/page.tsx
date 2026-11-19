@@ -1,4 +1,3 @@
-import { notFound } from 'next/navigation';
 import type { Metadata } from 'next';
 import { setRequestLocale, getTranslations } from 'next-intl/server';
 import { siteConfig } from '@/config';
@@ -9,10 +8,11 @@ import FAQSection from '@/components/FAQSection';
 import MapEmbed from '@/components/MapEmbed';
 import Footer from '@/components/Footer';
 
-const PATH = '/pt/o-que-visitar-em-evora';
+const SLUG = 'o-que-visitar-em-evora';
+const LOCALES = ['pt', 'en', 'zh', 'mwl'] as const;
 
 export function generateStaticParams() {
-  return [{ locale: 'pt' }];
+  return LOCALES.map((locale) => ({locale}));
 }
 
 export async function generateMetadata({
@@ -21,15 +21,15 @@ export async function generateMetadata({
   params: Promise<{ locale: string }>;
 }): Promise<Metadata> {
   const { locale } = await params;
-  if (locale !== 'pt') return {};
+  if (!LOCALES.includes(locale as (typeof LOCALES)[number])) return {};
   const t = await getTranslations({ locale, namespace: 'guideOQueVisitar' });
-  const url = `${siteConfig.baseUrl}${PATH}`;
+  const url = `${siteConfig.baseUrl}/${locale}/${SLUG}`;
   return {
     title: t('title'),
     description: t('description'),
     alternates: {
       canonical: url,
-      languages: { pt: url, 'x-default': url } as Record<string, string>,
+      languages: { ...Object.fromEntries(LOCALES.map(lang => [lang === 'zh' ? 'zh-CN' : lang, `${siteConfig.baseUrl}/${lang}/${SLUG}`])), 'x-default': `${siteConfig.baseUrl}/pt/${SLUG}` } as Record<string, string>,
     },
   };
 }
@@ -40,7 +40,6 @@ export default async function OQueVisitarPage({
   params: Promise<{ locale: string }>;
 }) {
   const { locale } = await params;
-  if (locale !== 'pt') notFound();
   setRequestLocale(locale);
   const t = await getTranslations({ locale, namespace: 'guideOQueVisitar' });
 
