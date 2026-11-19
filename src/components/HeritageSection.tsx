@@ -1,8 +1,8 @@
 import { heritagePlaces } from '@/data/heritage';
 import { heritageTranslations } from '@/data/heritageTranslations';
 
-export default function HeritageSection({ locale = 'pt' }: { locale?: 'pt' | 'en' | 'zh' }) {
-  const labels = locale === 'zh' ? {kicker:'探索埃武拉',heading:'历史中心及周边景点',intro:'了解埃武拉的罗马遗迹、教堂、广场与城市历史，每个地点都有独立介绍与地图。',cta:'查看景点 →'} : locale === 'en' ? {kicker:'Explore Évora',heading:'Monuments and places in the historic centre',intro:'Discover Roman remains, churches, squares and local history with a dedicated guide and map for each place.',cta:'Explore this place →'} : {kicker:'Explorar Évora',heading:'Monumentos e lugares do centro histórico',intro:'Do legado romano às muralhas e à engenharia renascentista: descubra a história, os percursos a pé e a localização de cada monumento antes da visita.',cta:'Explorar este lugar →'};
+export default function HeritageSection({ locale = 'pt' }: { locale?: 'pt' | 'en' | 'zh' | 'mwl' }) {
+  const labels = locale === 'mwl' ? {kicker:'Çcubrir Ébora',heading:'Monumentos i lhugares de l centro stórico',intro:'De l tiempo romano a las muralhas i al aqueduto: çcubra la stória i ls percursos a pie de cada monumento.',cta:'Çcubrir este lhugar →'} : locale === 'zh' ? {kicker:'探索埃武拉',heading:'历史中心及周边景点',intro:'了解埃武拉的罗马遗迹、教堂、广场与城市历史，每个地点都有独立介绍与地图。',cta:'查看景点 →'} : locale === 'en' ? {kicker:'Explore Évora',heading:'Monuments and places in the historic centre',intro:'Discover Roman remains, churches, squares and local history with a dedicated guide and map for each place.',cta:'Explore this place →'} : {kicker:'Explorar Évora',heading:'Monumentos e lugares do centro histórico',intro:'Do legado romano às muralhas e à engenharia renascentista: descubra a história, os percursos a pé e a localização de cada monumento antes da visita.',cta:'Explorar este lugar →'};
   return <section id="patrimonio" className="section-padding py-16 px-4 sm:px-6" style={{ background: 'var(--bg-secondary)' }}>
     <div className="max-w-6xl mx-auto">
       <p className="text-sm tracking-widest uppercase mb-3" style={{ color: 'var(--accent)' }}>{labels.kicker}</p>
