@@ -1,45 +1,47 @@
 {
   "meta": {
-    "title": "Centro Histórico de Évora (Évora, Portugal) - Visitor Guide & Location",
-    "description": "Complete visitor guide to the Historic Centre of Évora, UNESCO World Heritage in Alentejo, Portugal. What to see and visit in one day - Roman Temple, Chapel of Bones, Évora Cathedral - plus map, opening hours and transport tips."
+    "title": "Centro Stórico de Ébora — Guia de besita i lhocalizaçon",
+    "description": "Guia de l Centro Stórico de Ébora, Património Mundial de la UNESCO ne l Alentejo. Çcubra l Templo Romano, la Capela de ls Uossos, la Sé, ls percursos, ls mapas i ls transportes."
   },
+  "accessibility": { "toggleTheme": "Mudar l tema", "switchLanguage": "Mudar de lhéngua" },
   "header": {
-    "home": "Home",
-    "gallery": "Gallery",
-    "reviews": "Reviews",
-    "map": "Map",
-    "backToHome": "Back to Home",
-    "thingsToSee": "What to Visit",
-    "faq": "FAQ"
+    "navigationLabel": "Navegaçon percipal",
+    "home": "Anício",
+    "gallery": "Galerie",
+    "reviews": "Abaliaçones",
+    "map": "Mapa",
+    "backToHome": "Boltar al anício",
+    "thingsToSee": "Qué besitar",
+    "faq": "Preguntas frequentes"
   },
   "hero": {
     "title": "Centro Histórico de Évora",
     "subtitle": "Praça do Giraldo · Évora · Alentejo · Portugal",
     "rating": "4.5",
     "reviewCount": "5,931",
-    "hours": "Open 24 Hours",
-    "openMaps": "View Location",
-    "imgAlt": "Centro Histórico de Évora - the UNESCO historic centre of Évora, Alentejo, Portugal"
+    "hours": "Espaços públicos abiertos 24 horas",
+    "openMaps": "Ber la lhocalizaçon",
+    "imgAlt": "Centro Stórico de Ébora, património de la UNESCO ne l Alentejo"
   },
   "intro": {
-    "title": "Explore Centro Histórico de Évora",
-    "description": "Welcome to the Centro Histórico de Évora, widely known as the Historic Centre of Évora - the UNESCO-listed heart of the city of Évora, the historic capital of Portugal's Alentejo region. The old town sits on the gentle hills of the Alentejo and is enclosed by medieval walls, earning it the title of an open-air museum. Over two thousand years of civilization converge here, preserving ancient Roman ruins, Moorish alleys, Gothic churches and Renaissance civil architecture. The old town is centred around Praça do Giraldo, with narrow ancient alleys radiating outward. Jardim Diana stands on the high ground of the old town, linking the Roman Temple of Évora with the episcopal complex. Whitewashed walls with wrought-iron balconies and hand-painted azulejo tiles form the iconic streetscape. From the centre, visitors can easily walk between the landmark monuments of Évora - the Roman Temple of Évora, the Sé de Évora cathedral, the Chapel of Bones and the Água de Prata aqueduct - which are described in detail below.",
+    "title": "Çcubrir l Centro Stórico de Ébora",
+    "description": "L Centro Stórico de Ébora ye l coraçon antigo de la cidade i faz parte de l Património Mundial de la UNESCO. Antre las muralhas i las ruas de piedra, l besitante atopa mais de dous mil anhos de stória: restos romanos, ruas de l tiempo mouro, eigreijas góticas i palácios de l Renacimento. La Praça do Giraldo ye un ponto central de ls percursos a pie. Ne l alto, l Jardim Diana liga l Templo Romano a la Sé. Las casas brancas, las barandas de fierro i ls azulejos marcan la paisaige de las ruas. L Templo Romano, la Capela de ls Uossos, la Sé i l Aqueduto de l Água de Prata puoden çcubrir-se nun percurso pul centro.",
     "visitGuide": {
-      "title": "Visiting Tips",
+      "title": "Cunseilhos pa la besita",
       "items": [
-        "The city features many uneven cobblestone streets; non-slip, comfortable walking shoes are essential. Most guesthouses within the old town can assist with short-distance luggage transfers.",
-        "Summer daytime temperatures are high. Ensure adequate sun protection, carry drinking water, and avoid the midday heat.",
-        "Tour groups mostly arrive at popular sites in the morning. For a quieter experience, try to enter as soon as the venues open.",
-        "Local public museums offer free admission on Sundays; religious sites are not included in this offer."
+        "Las ruas de piedra son desiguales; use calçado cómodo i antideslizante. Cumprobe l acésso cul alojamento se lhebou bagage.",
+        "Ne l berano faz munta calor. Lhebe augua i proteçon de l sol, i evite las horas de calor mais fuerte.",
+        "Ls lhugares mais conhecidos receben grupos de manhana. Pa ua besita mais calma, llegue cedo.",
+        "Ls museus i ls lhugares religiosos puoden tener regras de bilhete defrentes; confirme las condiçones de cada lhugar."
       ]
     },
     "alsoKnownAs": {
-      "title": "Attraction Highlights",
+      "title": "Pontos de anteresse",
       "items": [
-        "Multi-Era Monument Clusters: the 1st-century AD Roman Temple of Évora, the medieval Sé cathedral, the 16th-century Chapel of Bones and Renaissance noble mansions are concentrated within one small centre.",
-        "Authentic Medieval Streets: Moorish-style winding cobblestone paths lined with whitewashed houses and hand-painted azulejo tiles.",
-        "Panoramic Viewpoints: the cathedral roof terrace and Jardim Diana offer sweeping views over the red-tiled roofs of the old town and the surrounding Alentejo plains.",
-        "Living Local Culture: squares surrounded by open-air cafés and artisan shops, blending historic monuments with everyday Alentejo life."
+        "Monumentos de muitos tiempos: l Templo Romano, la Sé medieval, la Capela de ls Uossos i ls palácios de l Renacimento stán ne l mesmo centro.",
+        "Ruas medievais: caminhos de piedra antre casas brancas i azulejos pintados.",
+        "Bistas panorámicas: l terraço de la Sé i l Jardim Diana amostran ls telhados de la cidade i las planuras de l Alentejo.",
+        "Cultura biba: praças, cafés i lojas de artesanato juntan l património cul dia a dia de Ébora."
       ]
     }
   },
@@ -187,8 +189,11 @@
     "supplementsTitle": "Local Cuisine"
   },
   "gallery": {
-    "title": "Stunning Photos",
-    "subtitle": "Charming Scenery of Centro Histórico de Évora",
+    "closeLightbox": "Cerrar la fotografia",
+    "previousPhoto": "Fotografia anterior",
+    "nextPhoto": "Fotografia seguinte",
+    "title": "Fotografias de Ébora",
+    "subtitle": "Bistas i pormenores de l Centro Stórico de Ébora",
     "captions": [
       "Centro Histórico de Évora Panorama",
       "Medieval City Walls & Gate",
@@ -211,13 +216,13 @@
       "Almendres Cromlech (Nearby Megalithic Monuments)",
       "View over the Alentejo Countryside"
     ],
-    "viewAll": "View more photos on Google Maps",
-    "showAllPhotos": "Show All Photos"
+    "viewAll": "Ber mais fotografias ne l Google Maps",
+    "showAllPhotos": "Ber todas las fotografias"
   },
   "reviews": {
-    "title": "Visitor Reviews",
-    "declaration": "Review information can be viewed via Google Maps (external link).",
-    "moreReviews": "View More Reviews on Google Maps",
+    "title": "Abaliaçones de besitantes",
+    "declaration": "Las abaliaçones puoden ber-se ne l Google Maps (ligaçon esterna).",
+    "moreReviews": "Ber mais abaliaçones ne l Google Maps",
     "items": [
       {
         "name": "João Silva",
@@ -277,17 +282,17 @@
     "authorityLink": "Câmara Municipal de Évora"
   },
   "footer": {
-    "rights": "© 2026 Centro Histórico de Évora. All rights reserved.",
-    "privacy": "Privacy Policy",
-    "terms": "Terms of Service",
-    "cookies": "Cookie Settings",
-    "officialResourcesTitle": "Related Resources & Information",
+    "rights": "© 2026 Centro Stórico de Ébora. Todos ls dreitos reserbados.",
+    "privacy": "Política de pribacidade",
+    "terms": "Termos de serbício",
+    "cookies": "Definiçones de cookies",
+    "officialResourcesTitle": "Recursos i anformaçones",
     "officialLinks": {
       "council": "Visit Portugal",
       "tourism": "Alentejo Tourism Guide",
       "england": "Câmara Municipal de Évora"
     },
-    "disclaimer": "This website is an independent third-party travel information project. We have no affiliation with local government or other official institutions.",
+    "disclaimer": "Este sítio ye un projeto andependente de anformaçon turística i nun ten lhiames cun l município nin cun outras antidades oficiales.",
     "photoCredit": "All photos displayed on this website remain the property and copyright of their original photographers.",
     "resources": [
       {

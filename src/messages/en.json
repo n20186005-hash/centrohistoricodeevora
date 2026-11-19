@@ -3,7 +3,9 @@
     "title": "Centro Histórico de Évora (Évora, Portugal) - Visitor Guide & Location",
     "description": "Complete visitor guide to the Historic Centre of Évora, UNESCO World Heritage in Alentejo, Portugal. What to see and visit in one day - Roman Temple, Chapel of Bones, Évora Cathedral - plus map, opening hours and transport tips."
   },
+  "accessibility": { "toggleTheme": "Toggle theme", "switchLanguage": "Switch language" },
   "header": {
+    "navigationLabel": "Main navigation",
     "home": "Home",
     "gallery": "Gallery",
     "reviews": "Reviews",
@@ -187,6 +189,9 @@
     "supplementsTitle": "Local Cuisine"
   },
   "gallery": {
+    "closeLightbox": "Close photo",
+    "previousPhoto": "Previous photo",
+    "nextPhoto": "Next photo",
     "title": "Stunning Photos",
     "subtitle": "Charming Scenery of Centro Histórico de Évora",
     "captions": [

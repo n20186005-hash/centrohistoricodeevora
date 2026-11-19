@@ -3,12 +3,14 @@
     "title": "Centro Histórico de Évora (Évora) - O que visitar e ver | Guia",
     "description": "Guia completo do Centro Histórico de Évora, Património Mundial da UNESCO no Alentejo, Portugal. O que visitar e ver em Évora - Templo Romano, Capela dos Ossos, Sé de Évora - com mapa, horários e dicas de viagem."
   },
+  "accessibility": { "toggleTheme": "Alternar tema", "switchLanguage": "Mudar de idioma" },
   "header": {
-    "home": "Home",
-    "gallery": "Gallery",
-    "reviews": "Reviews",
-    "map": "Map",
-    "backToHome": "Back to Home",
+    "home": "Início",
+    "gallery": "Galeria",
+    "reviews": "Avaliações",
+    "map": "Mapa",
+    "backToHome": "Voltar ao início",
+    "navigationLabel": "Navegação principal",
     "thingsToSee": "O que visitar",
     "faq": "FAQ"
   },
@@ -17,8 +19,8 @@
     "subtitle": "Praça do Giraldo · Évora · Alentejo · Portugal",
     "rating": "4.5",
     "reviewCount": "5,931",
-    "hours": "Open 24 Hours",
-    "openMaps": "View Location",
+    "hours": "Acesso exterior 24 horas",
+    "openMaps": "Ver localização",
     "imgAlt": "Centro Histórico de Évora - o centro histórico classificado da UNESCO em Évora, Alentejo, Portugal"
   },
   "intro": {
@@ -108,78 +110,78 @@
   },
   "transport": {
     "title": "Como Chegar a Évora",
-    "airport": "From the Airport",
-    "airportDesc": "Nearest international airports: Lisbon (LIS) Airport (approx. 135 km, 1h 25m drive) and Faro (FAO) Airport (approx. 240 km, 2h 50m drive). Renting a car upon arrival is recommended.",
-    "selfDrive": "Driving",
-    "selfDriveDesc": "From Lisbon, take the A2 highway south, then connect to the A6 directly to Évora. Navigate to Jardim Diana and park in the lots outside the city walls.",
-    "bus": "Public Transport",
-    "busDesc": "Take a Rede Expressos intercity bus from Sete Rios station in Lisbon directly to the Évora bus station, which is within walking distance of the old town. Alternatively, there are direct trains from central Lisbon to Évora, requiring a short walk into the city.",
-    "intercity": "Short-Distance Travel",
-    "intercityDesc": "The old town is entirely navigable on foot. The surrounding suburban plains are flat and ideal for cycling or chartering a car to visit nearby megalithic monuments and wineries.",
-    "cycling": "Cycling",
-    "cyclingDesc": "The surrounding Alentejo region and Alqueva reservoir offer relatively flat and scenic routes, perfect for both road and mountain biking.",
-    "tips": "Travel Tips",
-    "tipsDesc": "Due to limited public transport schedules in the Alentejo region, renting a car is strongly advised for the flexibility to explore nearby wineries, megalithic monuments, and the Alqueva Dam."
+    "airport": "A partir do aeroporto",
+    "airportDesc": "Os aeroportos internacionais mais próximos são Lisboa (LIS) e Faro (FAO). Verifique as ligações rodoviárias e os horários antes da viagem.",
+    "selfDrive": "De automóvel",
+    "selfDriveDesc": "De Lisboa, siga as autoestradas A2 e A6 em direção a Évora. Utilize os parques permitidos fora das muralhas e conclua o percurso a pé.",
+    "bus": "Transportes públicos",
+    "busDesc": "Há autocarros interurbanos entre Lisboa e Évora e serviços ferroviários até à cidade. Consulte os horários atuais e faça a última parte do trajeto até ao centro histórico a pé.",
+    "intercity": "Deslocações curtas",
+    "intercityDesc": "O centro histórico percorre-se bem a pé. Para visitar monumentos megalíticos e adegas mais afastados, planeie um transporte adequado.",
+    "cycling": "Bicicleta",
+    "cyclingDesc": "A região do Alentejo dispõe de percursos para bicicleta; escolha itinerários adequados ao relevo, ao trânsito e à temperatura.",
+    "tips": "Conselhos de viagem",
+    "tipsDesc": "Os transportes regionais podem ter frequência reduzida. Confirme os horários e reserve tempo suficiente para deslocações fora da cidade."
   },
   "route": {
     "title": "Roteiro a Pé",
-    "overview": "Standard Walking Tour Route (Half-Day Itinerary)",
+    "overview": "Percurso a pé sugerido para meio dia",
     "steps": [
-      "Walk from the outside parking lot through the ancient aqueduct gate into the old town",
-      "Explore Praça do Giraldo and take a short break",
-      "Walk to visit the Church of St. Francis and the Chapel of Bones",
-      "Head to the Évora Cathedral and climb to the terrace for a panoramic view",
-      "Move to Jardim Diana to view the Roman Temple from a distance",
-      "Get up close to the remaining columns of the Roman Temple of Diana",
-      "Wander through the old town alleys in the evening and taste local specialties"
+      "Entre no centro histórico a partir de um parque de estacionamento autorizado, observando o aqueduto pelo caminho",
+      "Explore a Praça do Giraldo e faça uma breve pausa",
+      "Caminhe até à Igreja de São Francisco e à Capela dos Ossos",
+      "Siga para a Sé Catedral e visite o terraço panorâmico, se estiver aberto",
+      "Continue até ao Jardim Diana para observar o Templo Romano",
+      "Observe de perto as colunas que restam do Templo Romano",
+      "Ao final do dia, percorra as ruas antigas e descubra a gastronomia local"
     ],
     "supplements": [
-      "Cobblestone streets can be slippery; wear comfortable, non-slip shoes.",
-      "Dining options are limited; booking in advance during peak season is advised.",
-      "Summer midday sun is intense; stay hydrated and use sun protection."
+      "A calçada pode ser escorregadia; use calçado confortável e antiderrapante.",
+      "Em época alta, reserve com antecedência os restaurantes mais procurados.",
+      "O sol do meio-dia é intenso no verão; leve água e proteção solar."
     ],
-    "supplementsTitle": "Visiting Notes"
+    "supplementsTitle": "Notas para a visita"
   },
   "photoSpots": {
     "title": "Melhores Locais para Fotografar",
     "spots": [
       {
-        "name": "Cathedral Roof Terrace",
-        "desc": "Capture the continuous roofs of the old town and the distant plains at sunset."
+        "name": "Terraço da Sé Catedral",
+        "desc": "Enquadre os telhados do centro histórico e as planícies distantes ao pôr do sol."
       },
       {
-        "name": "Jardim Diana Viewing Platform",
-        "desc": "Eye-level view of the main Roman Temple columns with the white houses of the old town in the background."
+        "name": "Jardim Diana",
+        "desc": "Observe as colunas do Templo Romano, com as casas brancas da cidade ao fundo."
       },
       {
-        "name": "Center of Praça do Giraldo",
-        "desc": "Utilize the radiating streets to create deep, culturally rich compositions."
+        "name": "Centro da Praça do Giraldo",
+        "desc": "Aproveite as ruas que partem da praça para composições com profundidade."
       },
       {
-        "name": "Niche Cobblestone Alleys in the West",
-        "desc": "Whitewashed walls and tiled doors/windows, perfect for portraits."
+        "name": "Ruelas empedradas a oeste",
+        "desc": "Paredes caiadas, portas e janelas com azulejos oferecem bons enquadramentos."
       }
     ],
     "tips": "Dicas de Fotografia",
-    "tipsContent": "The golden hour at sunset provides soft light. The temple is illuminated at night, making it excellent for night photography."
+    "tipsContent": "A luz do fim da tarde é suave; à noite, a iluminação do templo permite fotografias noturnas."
   },
   "hotels": {
     "title": "Onde Ficar em Évora",
     "hotels": [
       {
-        "name": "Historic Guesthouses Inside the Walls",
-        "desc": "Converted from old noble mansions, steps away from major monuments.",
-        "price": "Advance booking required in peak season"
+        "name": "Alojamentos históricos dentro das muralhas",
+        "desc": "Muitas casas antigas foram adaptadas para receber visitantes, perto dos monumentos.",
+        "price": "Recomenda-se reserva antecipada em época alta"
       },
       {
-        "name": "Suburban Estate Hotels",
-        "desc": "Converted old monasteries and rural farms, often featuring courtyard pools.",
-        "price": "Ideal for self-driving tourists"
+        "name": "Hotéis rurais nos arredores",
+        "desc": "Antigos edifícios e propriedades rurais adaptados a alojamento, por vezes com pátios e piscinas.",
+        "price": "Opção prática para quem viaja de automóvel"
       },
       {
-        "name": "Budget Apartments Outside the Old Town",
-        "desc": "Close to parking lots with plenty of dining options nearby.",
-        "price": "Outstanding value for money"
+        "name": "Apartamentos fora do centro histórico",
+        "desc": "Podem oferecer acesso a estacionamento e restaurantes nas proximidades.",
+        "price": "Alternativa para diferentes orçamentos"
       }
     ],
     "supplements": "Notas de Alojamento",
@@ -187,8 +189,8 @@
     "supplementsTitle": "Gastronomia Local"
   },
   "gallery": {
-    "title": "Stunning Photos",
-    "subtitle": "Charming Scenery of Centro Histórico de Évora",
+    "title": "Fotografias de Évora",
+    "subtitle": "Vistas e pormenores do Centro Histórico de Évora",
     "captions": [
       "Panorama do Centro Histórico de Évora",
       "Muralhas Medievais e Porta da Cidade",
@@ -211,13 +213,16 @@
       "Cromeleque dos Almendres (Monumentos Megalíticos)",
       "Vista sobre o Campo Alentejano"
     ],
-    "viewAll": "View more photos on Google Maps",
-    "showAllPhotos": "Show All Photos"
+    "viewAll": "Ver mais fotografias no Google Maps",
+    "showAllPhotos": "Ver todas as fotografias",
+    "closeLightbox": "Fechar fotografia",
+    "previousPhoto": "Fotografia anterior",
+    "nextPhoto": "Fotografia seguinte"
   },
   "reviews": {
-    "title": "Visitor Reviews",
-    "declaration": "Review information can be viewed via Google Maps (external link).",
-    "moreReviews": "View More Reviews on Google Maps",
+    "title": "Avaliações de visitantes",
+    "declaration": "Consulte as avaliações no Google Maps (ligação externa).",
+    "moreReviews": "Ver mais avaliações no Google Maps",
     "items": [
       {
         "name": "João Silva",
@@ -272,22 +277,22 @@
   "mapSection": {
     "title": "Guia de Transporte",
     "subtitle": "Jardim Diana, 7000-661 Évora, Portugal",
-    "openMaps": "View on Google Maps",
+    "openMaps": "Ver no Google Maps",
     "authorityPrefix": "Informação oficial do município:",
     "authorityLink": "Câmara Municipal de Évora"
   },
   "footer": {
-    "rights": "© 2026 Centro Histórico de Évora. All rights reserved.",
-    "privacy": "Privacy Policy",
-    "terms": "Terms of Service",
-    "cookies": "Cookie Settings",
-    "officialResourcesTitle": "Related Resources & Information",
+    "rights": "© 2026 Centro Histórico de Évora. Todos os direitos reservados.",
+    "privacy": "Política de privacidade",
+    "terms": "Termos de serviço",
+    "cookies": "Definições de cookies",
+    "officialResourcesTitle": "Recursos e informações relacionadas",
     "officialLinks": {
       "council": "Visit Portugal",
       "tourism": "Turismo do Alentejo",
       "england": "Câmara Municipal de Évora"
     },
-    "disclaimer": "This website is an independent third-party travel information project. We have no affiliation with local government or other official institutions.",
+    "disclaimer": "Este website é um projeto independente de informação turística, sem ligação institucional à autarquia ou a outros organismos oficiais.",
     "photoCredit": "Todas as imagens apresentadas neste website pertencem e permanecem propriedade dos seus fotógrafos originais, a quem são reservados os respetivos direitos de autor.",
     "resources": [
       {
@@ -313,7 +318,7 @@
     ]
   },
   "privacy": {
-    "title": "Privacy Policy",
+    "title": "Política de privacidade",
     "lastUpdated": "Última atualização: setembro de 2026",
     "sections": [
       {
@@ -335,7 +340,7 @@
     ]
   },
   "terms": {
-    "title": "Terms of Service",
+    "title": "Termos de serviço",
     "lastUpdated": "Última atualização: setembro de 2026",
     "sections": [
       {

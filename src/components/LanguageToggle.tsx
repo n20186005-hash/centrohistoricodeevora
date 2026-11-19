@@ -3,6 +3,7 @@
 import { useLocale } from 'next-intl';
 import { useRouter, usePathname, routing, type Locale } from '@/i18n/routing';
 import { useState, useRef, useEffect } from 'react';
+import { useTranslations } from 'next-intl';
 
 const labels: Record<string, string> = {
   zh: '中文',
@@ -12,6 +13,7 @@ const labels: Record<string, string> = {
 };
 
 export default function LanguageToggle() {
+  const t = useTranslations('accessibility');
   const locale = useLocale();
   const router = useRouter();
   const pathname = usePathname();
@@ -43,7 +45,7 @@ export default function LanguageToggle() {
           background: 'var(--tag-bg)',
           color: 'var(--tag-text)',
         }}
-        aria-label="Switch language"
+        aria-label={t('switchLanguage')}
       >
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
           <circle cx="12" cy="12" r="10"/>

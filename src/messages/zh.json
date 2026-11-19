@@ -3,7 +3,9 @@
     "title": "Centro Histórico de Évora（埃武拉历史中心）- 旅游指南与位置",
     "description": "埃武拉历史中心（联合国教科文组织世界遗产，位于葡萄牙阿连特茹）完整旅行指南：一日游可看的古罗马神庙、人骨礼拜堂、埃武拉大教堂等必看景点，附地图、开放时间与交通提示。"
   },
+  "accessibility": { "toggleTheme": "切换主题", "switchLanguage": "切换语言" },
   "header": {
+    "navigationLabel": "主导航",
     "home": "首页",
     "gallery": "图库",
     "reviews": "评价",
@@ -187,6 +189,9 @@
     "supplementsTitle": "本地美食"
   },
   "gallery": {
+    "closeLightbox": "关闭照片",
+    "previousPhoto": "上一张照片",
+    "nextPhoto": "下一张照片",
     "title": "精彩照片",
     "subtitle": "埃武拉历史中心的迷人风光",
     "captions": [

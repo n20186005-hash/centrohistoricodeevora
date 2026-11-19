@@ -45,7 +45,7 @@ export default function Header({ solid = false }: { solid?: boolean }) {
           Centro Histórico de Évora
         </a>
 
-        <nav className="hidden lg:flex items-center gap-6" aria-label="Main">
+        <nav className="hidden lg:flex items-center gap-6" aria-label={t('navigationLabel')}>
           {(locale === 'pt' || locale === 'en' || locale === 'zh' || locale === 'mwl') && <a href={`${base}/#patrimonio`} className="text-sm font-medium transition-colors" style={{ color: scrolled || solid ? 'var(--text-secondary)' : 'rgba(255,255,255,0.85)' }}>{locale === 'zh' ? '周边景点' : locale === 'en' ? 'Explore' : locale === 'mwl' ? 'Património' : 'Património'}</a>}
           {NAV_IDS.map((id) => (
             <a
